@@ -1,0 +1,108 @@
+node:internal/modules/cjs/loader:1520
+  throw err;
+  ^
+
+Error: Cannot find module '/home/ubuntu/.openclaw/workspace/scripts/bullstrap-full-indexing.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1122:12)
+    at Module._load (node:internal/modules/cjs/loader:1294:5)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.18.1
+node:internal/modules/cjs/loader:1520
+  throw err;
+  ^
+
+Error: Cannot find module '/home/ubuntu/.openclaw/workspace/scripts/bullstrap-full-indexing.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1122:12)
+    at Module._load (node:internal/modules/cjs/loader:1294:5)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.18.1
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=200
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=200
+Bull Strap full catalog indexing — 2026-09-16
+Catalog size: 78820 URLs
+Pointer: 200/78820, quota remaining: 200
+❌ 429 https://bullstrap.com/products/polaris-rzr-door-bags-molle-panel-front-pair-driver-and-passenger-w-pals-molle-panel-bartact-2: {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' and limit 'Publish re
+Quota hit — stopping.
+
+Done: 0 submitted, 1 failed
+urlsPushedToday=0 totalPushed=200
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=400
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=400
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=400
+Bull Strap full catalog indexing — 2026-09-17
+Catalog size: 78820 URLs
+Pointer: 401/78820, quota remaining: 200
+❌ 429 https://bullstrap.com/products/3d-maxpider-23-lexus-rx-series-kagu-foldable-cargo-liner-black: {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' and limit 'Publish re
+Quota hit — stopping.
+
+Done: 0 submitted, 1 failed
+urlsPushedToday=0 totalPushed=400
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=600
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=600
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=600
+Bull Strap full catalog indexing — 2026-09-18
+Catalog size: 78820 URLs
+Pointer: 602/78820, quota remaining: 200
+❌ 429 https://bullstrap.com/products/acl-bmw-3201cc-standard-size-high-performance-rod-bearing-set: {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' and limit 'Publish re
+Quota hit — stopping.
+
+Done: 0 submitted, 1 failed
+urlsPushedToday=0 totalPushed=600
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=800
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=800
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=800
+Bull Strap full catalog indexing — 2026-09-19
+Catalog size: 78820 URLs
+Pointer: 803/78820, quota remaining: 200
+❌ 429 https://bullstrap.com/products/act-16-17-ford-focus-rs-p-pl-heavy-duty-clutch-pressure-plate: {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' and limit 'Publish re
+Quota hit — stopping.
+
+Done: 0 submitted, 1 failed
+urlsPushedToday=0 totalPushed=800
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=1000
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=1000
+Already submitted 200 today. Done.
+urlsPushedToday=200 totalPushed=1000

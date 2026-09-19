@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-04",
+  "hero": {
+    "title": "First Coral Reef Fully Restored Using Lab-Grown Techniques in Fiji",
+    "body": "Marine biologists at the University of the South Pacific announced today that a 12-acre section of the Great Sea Reef has been completely restored using innovative 3D-printed coral scaffolds seeded with heat-resistant coral larvae. The reef, devastated by bleaching events in 2019, now hosts over 200 fish species and has become a model for restoration efforts across the Pacific. Local fishing communities report the healthiest catches in two decades.",
+    "category": "Environment",
+    "imageKeyword": "coral"
+  },
+  "quote": {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "Malaria Deaths Drop 60% in Sub-Saharan Africa Since New Vaccine Rollout",
+          "excerpt": "The WHO reports that widespread distribution of the R21/Matrix-M vaccine has prevented an estimated 400,000 deaths in the past year alone. Ghana, Kenya, and Senegal have seen the most dramatic improvements, with childhood mortality rates at historic lows.",
+          "category": "Health",
+          "imageKeyword": "vaccine"
+        },
+        {
+          "title": "Detroit Public Schools Report Highest Graduation Rate in City History",
+          "excerpt": "For the first time ever, 89% of Detroit public high school students graduated on time this spring. Superintendent Maria Gonzalez credits expanded tutoring programs and a new mentorship initiative pairing students with local business leaders.",
+          "category": "Education",
+          "imageKeyword": "graduation"
+        },
+        {
+          "title": "Portuguese Town Runs Entirely on Renewable Energy for 500th Consecutive Day",
+          "excerpt": "The municipality of Mértola has officially powered all 7,000 residents with 100% renewable energy for over 16 months straight. The combination of solar farms, small-scale wind, and community battery storage has become a blueprint for rural European towns.",
+          "category": "Technology",
+          "imageKeyword": "solar"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "Iberian Lynx Population Surpasses 2,000 for First Time Since Records Began",
+          "excerpt": "Once down to fewer than 100 individuals in 2002, the Iberian lynx has made a remarkable comeback in Spain and Portugal. Conservationists celebrated as camera traps confirmed a record number of cubs born this spring across 15 breeding territories.",
+          "category": "Wildlife",
+          "imageKeyword": "lynx"
+        },
+        {
+          "title": "Rescued Elephant Herd Thrives at New Thai Sanctuary",
+          "excerpt": "Fourteen elephants retired from tourism and logging operations have settled into a 500-acre forested sanctuary in Chiang Rai province. Caretakers report the elephants have formed a cohesive herd and the oldest female has taken on a matriarchal role.",
+          "category": "Wildlife",
+          "imageKeyword": "elephant"
+        },
+        {
+          "title": "New Zealand's Takahē Population Doubles After Island Relocation Program",
+          "excerpt": "The flightless blue bird, once thought extinct, has reached 800 individuals following a successful breeding program on predator-free islands. Wildlife officials announced plans to establish two additional populations on the South Island by 2028.",
+          "category": "Wildlife",
+          "imageKeyword": "bird"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Chicago Grandmothers' Baking Collective Raises $2 Million for Youth Programs",
+          "excerpt": "A group of 34 retired women who began selling homemade pies at a farmers market five years ago has now funded scholarships for 156 local students. Their commercial kitchen in Pilsen also trains young people in culinary skills and small business management.",
+          "category": "Community",
+          "imageKeyword": "baking"
+        },
+        {
+          "title": "Japanese Village Turns Abandoned School into Thriving Multigenerational Hub",
+          "excerpt": "The rural town of Kamiyama transformed its closed elementary school into a space where elderly residents teach traditional crafts while remote workers occupy co-working areas. The project has attracted 40 new families to the once-declining community.",
+          "category": "Community",
+          "imageKeyword": "village"
+        },
+        {
+          "title": "Free Mobile Libraries Reach 100,000 Children in Rural Colombia",
+          "excerpt": "A fleet of 28 converted buses staffed by volunteer librarians now visits 340 villages across the Colombian countryside weekly. The program, launched by a Bogotá nonprofit, has distributed over 500,000 books since 2023.",
+          "category": "Community",
+          "imageKeyword": "library"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Mountaineer Reaches Summit of All Seven Continents' Highest Peaks",
+          "excerpt": "Erik Weihenmayer's protégé, 31-year-old Suleiman Hassan from Jordan, completed his quest on Denali last week. Hassan, who lost his sight at age 12, says he hopes to inspire other disabled adventurers across the Middle East.",
+          "category": "Inspiration",
+          "imageKeyword": "mountain"
+        },
+        {
+          "title": "Former Refugee Becomes Ireland's Youngest Ever Surgeon at Age 28",
+          "excerpt": "Dr. Amira Osman, who fled Sudan at age nine, performed her first solo operation at Cork University Hospital last month. She credits her success to the teachers who helped her learn English and the community that welcomed her family.",
+          "category": "Inspiration",
+          "imageKeyword": "surgeon"
+        },
+        {
+          "title": "92-Year-Old Finally Earns PhD After 60-Year Academic Journey",
+          "excerpt": "Colette Bourlier of Besançon, France, defended her dissertation on medieval migration patterns this week, completing research she began in 1964. The University of Franche-Comté awarded her degree with highest honors as her great-grandchildren cheered.",
+          "category": "Inspiration",
+          "imageKeyword": "graduation"
+        }
+      ]
+    }
+  ]
+}

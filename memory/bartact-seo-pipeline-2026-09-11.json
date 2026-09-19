@@ -1,0 +1,27 @@
+{
+  "runDate": "2026-09-11T16:00:00Z",
+  "runDay": "Friday",
+  "step1_rankingMonitor": "completed_via_fallback (bartact-seo-rank-check.js)",
+  "step2_autoFix": "BLOCKED - Shopify 401",
+  "step3_actionReport": "written - memory/bartact-seo-action-report.json",
+  "step4_contentExpansion": "skipped - no thin content (last known Sep 9) + Shopify 401",
+  "step5_blogArticles": "skipped - no NEEDS_BLOG_ARTICLE + Shopify 401",
+  "step6_indexNow": "skipped - no content updated (key ping: 200 OK)",
+  "step7_telegramSummary": "BLOCKED - TELEGRAM_BOT_TOKEN_BARTACT missing from .env",
+  "keyMetrics": {
+    "top3Keywords": 9,
+    "top10Keywords": 18,
+    "totalMonitored": 18,
+    "notRanking": 0,
+    "sitemap": "OK",
+    "robotsTxt": "OK",
+    "homepage": "OK 2230ms"
+  },
+  "criticalBlockers": [
+    "SHOPIFY_TOKEN_BARTACT → 401 (revoked) — fix: regenerate in Shopify Admin",
+    "TELEGRAM_BOT_TOKEN_BARTACT → missing from .env — persistent since Aug 21",
+    "bartact-ranking-monitor.js → does not exist (fell back to bartact-seo-rank-check.js)",
+    "bartact-seo-auto-fix.js → does not exist (fell back to bartact-seo-auto-audit.js)"
+  ],
+  "overallStatus": "DEGRADED"
+}

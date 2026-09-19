@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2026-09-04",
+  "feedStatus": "active",
+  "feedUrl": "https://cdn.shopify.com/s/files/1/0936/7476/t/14/assets/microsoft-product-feed.txt",
+  "feedProducts": 2371,
+  "feedSuccessTimestamp": "2026-09-04T23:45:02Z",
+  "oauthSaved": true,
+  "developerTokenMissing": true,
+  "activePMaxCampaigns": [
+    {"name": "Jeep Wrangler PMax", "budget": 162},
+    {"name": "Gladiator PMax", "budget": 100},
+    {"name": "Bronco Storage", "budget": 100},
+    {"name": "AGT.Jeep Wrangler. pMAX", "budget": 30},
+    {"name": "Wrangler Storage", "budget": 10}
+  ],
+  "notes": "Feed fixed Sep 4. Was pointing to bartact.com homepage instead of product feed. Built new TSV feed and uploaded to Shopify CDN. Microsoft Merchant Center confirmed 2371 products successful. Search campaigns status unclear - need developer token to audit. Morning cron set up to monitor Bing-attributed Shopify orders."
+}

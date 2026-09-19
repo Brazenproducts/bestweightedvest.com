@@ -1,0 +1,35 @@
+[2026-09-19 13:00:05 UTC] Bull Strap Shopify Token Refresh Log
+==============================================================
+
+TASK: Refresh SHOPIFY_TOKEN_BULLSTRAP and verify it works
+
+1. SCRIPT EXECUTION
+   ✅ Executed: node scripts/bullstrap-token-refresh.js
+   ✅ New token refreshed: shpat_967aa9...
+   ✅ Written to .env as SHOPIFY_TOKEN_BULLSTRAP
+
+2. NEW TOKEN VALUE
+   Token: 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
+   Store: bull-strap-78.myshopify.com
+
+3. VERIFICATION REQUEST
+   Endpoint: GET https://bull-strap-78.myshopify.com/admin/api/2024-01/shop.json
+   Authorization: X-Shopify-Access-Token header
+   
+   ✅ STATUS: SUCCESS (200 OK)
+   
+   Response (Shop Details):
+   - Shop ID: 73959309585
+   - Shop Name: Bull Strap
+   - Email: info@bullstrap.com
+   - Domain: bullstrap.com
+   - Location: Temecula, CA, USA
+   - Plan: Professional (Grow)
+   - Currency: USD
+   - Has Storefront: true
+   - Multi-location Enabled: true
+
+4. CONCLUSION
+   ✅ Token refresh completed successfully
+   ✅ New token verified and working
+   ✅ API access confirmed at 2026-09-19T13:00 UTC

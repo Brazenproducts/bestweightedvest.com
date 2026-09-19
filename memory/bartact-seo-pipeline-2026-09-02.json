@@ -1,0 +1,42 @@
+{
+  "runDate": "2026-09-02T16:00:00Z",
+  "step1_rankingMonitor": "completed",
+  "step2_autoFix": "completed",
+  "step3_actionReport": {
+    "totalFlagged": 4,
+    "thinContent": 0,
+    "needsBlogArticle": 0,
+    "contentOk": 4,
+    "collections": [
+      { "handle": "toyota-tacoma-seat-covers", "words": 2072, "action": "CONTENT_OK_CHECK_LINKS" },
+      { "handle": "roll-bar-fire-extinguisher-holder", "words": 1742, "action": "CONTENT_OK_CHECK_LINKS" },
+      { "handle": "ford-bronco-storage-bags", "words": 1733, "action": "CONTENT_OK_CHECK_LINKS" },
+      { "handle": "jeep-wrangler-suspension-limit-straps", "words": 961, "action": "CONTENT_OK_CHECK_LINKS" }
+    ]
+  },
+  "step4_contentExpansion": "skipped - no thin content",
+  "step5_blogArticles": "skipped - no NEEDS_BLOG_ARTICLE items",
+  "step6_indexNow": "skipped - no content updated",
+  "step7_telegramSummary": "failed - TELEGRAM_TOKEN not in .env and hardcoded fallback token returns 401 Unauthorized",
+  "keyMetrics": {
+    "clicks": 702,
+    "clicksWoW": -228,
+    "clicksWoWPct": -25,
+    "impressions": 54826,
+    "page1Keywords": 2111,
+    "top3Keywords": 456,
+    "priorityOffPage1": [
+      "toyota tacoma seat covers (#29.4)",
+      "ford bronco storage (not ranking)",
+      "jeep limit straps (not ranking)"
+    ],
+    "newKeywordsEmergingWatch": [
+      "tactical seats (#6.3, 1305 impr)",
+      "tg tactical seat covers (#10.0, 131 impr)"
+    ]
+  },
+  "issues": {
+    "telegramToken": "TELEGRAM_TOKEN missing from .env; hardcoded token 8899729921:... returns 401 (revoked). ACTION NEEDED: Mitch must provide a valid bot token and add TELEGRAM_TOKEN=<token> to /home/ubuntu/.openclaw/workspace/.env",
+    "clickDrop": "702 clicks this week vs 930 last week (-25% WoW) — watch trend"
+  }
+}

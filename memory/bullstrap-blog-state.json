@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "date": "2026-09-16",
+      "time": "2026-09-16T22:37:17.407Z",
+      "articleId": 684491571473,
+      "title": "Limit Straps vs Bump Stops — What You Actually Need for Your Build",
+      "handle": "limit-straps-vs-bump-stops-what-you-actually-need",
+      "url": "https://bull-strap.com/blogs/news/limit-straps-vs-bump-stops-what-you-actually-need",
+      "tags": "limit-straps,bump-stops,suspension,off-road,jeep,truck,coilovers,droop,lift-kit",
+      "wordCount": 1361,
+      "indexing": {
+        "googleIndexingAPI": "quota_exhausted_429",
+        "indexNow_bing": "202_accepted",
+        "note": "Google daily quota (200/day) exhausted by full-catalog drip run. Will auto-submit next quota reset (midnight PST)."
+      }
+    }
+  ],
+  "lastRun": "2026-09-16T22:37:17.407Z",
+  "topicRotation": [
+    "Best Limit Straps for [Vehicle Model]",
+    "How to Size Limit Straps for [Lift Height]",
+    "Limit Straps vs Bump Stops — What You Actually Need",
+    "Suspension Build Guide for [Vehicle]"
+  ],
+  "lastTopicUsed": "Limit Straps vs Bump Stops — What You Actually Need",
+  "nextSuggestedTopic": "Best Limit Straps for Toyota Tacoma",
+  "usedCollections": [
+    631302922001,
+    631237771537,
+    631240720657,
+    631248126225
+  ],
+  "lastPost": {
+    "date": "2026-09-16",
+    "time": "2026-09-16T22:37:17.407Z",
+    "articleId": 684491571473,
+    "title": "Limit Straps vs Bump Stops — What You Actually Need for Your Build",
+    "handle": "limit-straps-vs-bump-stops-what-you-actually-need",
+    "url": "https://bull-strap.com/blogs/news/limit-straps-vs-bump-stops-what-you-actually-need",
+    "tags": "limit-straps,bump-stops,suspension,off-road,jeep,truck,coilovers,droop,lift-kit",
+    "wordCount": 1361,
+    "indexing": {
+      "googleIndexingAPI": "quota_exhausted_429",
+      "indexNow_bing": "202_accepted"
+    }
+  }
+}

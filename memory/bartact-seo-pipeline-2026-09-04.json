@@ -1,0 +1,63 @@
+{
+  "runDate": "2026-09-04T16:00:00Z",
+  "step1_rankingMonitor": "completed",
+  "step2_autoFix": "completed",
+  "step3_actionReport": {
+    "totalFlagged": 3,
+    "thinContent": 0,
+    "needsBlogArticle": 0,
+    "contentOk": 3,
+    "collections": [
+      {
+        "handle": "toyota-tacoma-seat-covers",
+        "kw": "toyota tacoma seat covers",
+        "rank": 22.5,
+        "words": 2072,
+        "action": "CONTENT_OK_CHECK_LINKS"
+      },
+      {
+        "handle": "roll-bar-fire-extinguisher-holder",
+        "kw": "roll bar fire extinguisher",
+        "rank": 10.3,
+        "words": 1742,
+        "action": "CONTENT_OK_CHECK_LINKS"
+      },
+      {
+        "handle": "jeep-wrangler-suspension-limit-straps",
+        "kw": "jeep limit straps",
+        "rank": "not ranking",
+        "words": 961,
+        "action": "CONTENT_OK_CHECK_LINKS"
+      }
+    ]
+  },
+  "step4_contentExpansion": "skipped - no thin content",
+  "step5_blogArticles": "skipped - no NEEDS_BLOG_ARTICLE items",
+  "step6_indexNow": "skipped - no content updates made",
+  "step7_telegramSummary": "failed - TELEGRAM_TOKEN missing from .env (recurring issue)",
+  "keyMetrics": {
+    "clicks": 765,
+    "clicksWoW": -121,
+    "clicksWoWPct": -14,
+    "impressions": 55450,
+    "page1Keywords": 2108,
+    "top3Keywords": 436
+  },
+  "notableMovers": {
+    "biggestGains": [
+      "molle compatible gear: #54 → #2 (+52)",
+      "best molle attachments: #40 → #1 (+39)",
+      "jeep wrangler rear seat cover: #45 → #4.5 (+40.5)"
+    ],
+    "biggestDrops": [
+      "jeep gladiator accessories: #40.6 → #53 (-12.4)",
+      "combat seat covers: #5.7 → #9.9 (-4.1)",
+      "custom bronco seat covers: #1 → #6 (-5)"
+    ],
+    "newOpportunity": "tactical seats: #6.3 with 1,347 impressions"
+  },
+  "actionRequired": {
+    "fixTelegramToken": "TELEGRAM_TOKEN must be added to .env — Telegram delivery has failed every run",
+    "internalLinkReview": "3 pages need internal link audit (content OK but still ranking poorly)"
+  }
+}

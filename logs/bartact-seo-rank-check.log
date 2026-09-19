@@ -1,0 +1,303 @@
+node:internal/modules/cjs/loader:1520
+  throw err;
+  ^
+
+Error: Cannot find module '/home/ubuntu/.openclaw/workspace/scripts/bartact-seo-rank-check.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1122:12)
+    at Module._load (node:internal/modules/cjs/loader:1294:5)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.18.1
+◇ injected env (10) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+
+Bartact SEO Daily Check — 2026-09-12
+
+✓ Loaded Google ranks from /tmp/bartact-rank-results.json
+✓ Loaded Bing results from /tmp/bartact-bing-rank-results.json
+Running technical health checks...
+
+✓ Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-12.md
+
+======= DAILY SEO SUMMARY =======
+Date: 2026-09-12
+Google source: browser-serp
+
+Top 5 Google Rankings:
+  #1 (pos 1) — jeep gladiator seat covers
+  #1 (pos 1) — limit straps off road
+  #1 (pos 1) — roll bar fire extinguisher holder
+  #2 (pos 2) — ford bronco seat covers
+  #2 (pos 2) — molle attachments
+
+Not Ranking in Top 20 (0):
+
+Technical:
+  Sitemap: ✅ 5 URLs
+  robots.txt: ✅ 6468 bytes
+  Homepage: ✅ 476ms
+
+Issues: 0 (0 urgent)
+Telegram alert: Not sent
+==================================
+
+◇ injected env (10) from .env // tip: ⌘ enable debugging { debug: true }
+Bartact GSC Rank Check — 2026-09-13
+Window: 2026-08-30 to 2026-09-12 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.1 | 448 impr | 88 clk | 19.6% CTR | bartact seat covers
+  #3.4 | 248 impr | 13 clk | 5.2% CTR | molle accessories
+  #3.8 | 138 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #3.9 | 1194 impr | 39 clk | 3.3% CTR | jeep seat covers
+  #3.9 | 80 impr | 2 clk | 2.5% CTR | paracord grab handles
+  #4.4 | 265 impr | 5 clk | 1.9% CTR | ford bronco seat covers
+  #4.5 | 86 impr | 2 clk | 2.3% CTR | jeep wrangler jl seat covers
+  #5.5 | 11 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #5.8 | 199 impr | 6 clk | 3.0% CTR | jeep tj seat covers
+  #5.9 | 71 impr | 1 clk | 1.4% CTR | jeep wrangler jk seat covers
+  #6.4 | 741 impr | 19 clk | 2.6% CTR | jeep wrangler seat covers
+  #6.5 | 33 impr | 1 clk | 3.0% CTR | suspension limit straps
+  #6.6 | 347 impr | 8 clk | 2.3% CTR | jeep gladiator seat covers
+
+=== PAGE 2 (positions 11-20) ===
+  #11.0 | 3690 impr | 7 clk | tactical seat covers
+  #17.9 | 64 impr | 0 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #28.7 | 11 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.8 | 138 impr | 0.00% CTR | jeep wrangler grab handles
+  #11.0 | 3690 impr | 0.19% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-13.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (9) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Bartact GSC Rank Check — 2026-09-14
+Window: 2026-08-31 to 2026-09-13 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 427 impr | 87 clk | 20.4% CTR | bartact seat covers
+  #3.2 | 255 impr | 12 clk | 4.7% CTR | molle accessories
+  #3.8 | 1143 impr | 37 clk | 3.2% CTR | jeep seat covers
+  #3.8 | 130 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #4.0 | 82 impr | 2 clk | 2.4% CTR | paracord grab handles
+  #4.7 | 80 impr | 2 clk | 2.5% CTR | jeep wrangler jl seat covers
+  #4.8 | 261 impr | 3 clk | 1.1% CTR | ford bronco seat covers
+  #5.5 | 11 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #5.6 | 189 impr | 5 clk | 2.6% CTR | jeep tj seat covers
+  #5.7 | 71 impr | 1 clk | 1.4% CTR | jeep wrangler jk seat covers
+  #6.3 | 693 impr | 19 clk | 2.7% CTR | jeep wrangler seat covers
+  #6.6 | 31 impr | 0 clk | 0.0% CTR | suspension limit straps
+  #6.8 | 342 impr | 7 clk | 2.0% CTR | jeep gladiator seat covers
+
+=== PAGE 2 (positions 11-20) ===
+  #11.0 | 3755 impr | 8 clk | tactical seat covers
+  #16.4 | 68 impr | 0 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #32.5 | 13 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.8 | 130 impr | 0.00% CTR | jeep wrangler grab handles
+  #11.0 | 3755 impr | 0.21% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-14.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (9) from .env // tip: ⌘ override existing { override: true }
+Bartact GSC Rank Check — 2026-09-15
+Window: 2026-09-01 to 2026-09-14 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 428 impr | 81 clk | 18.9% CTR | bartact seat covers
+  #3.3 | 257 impr | 11 clk | 4.3% CTR | molle accessories
+  #3.7 | 133 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #3.8 | 1140 impr | 33 clk | 2.9% CTR | jeep seat covers
+  #4.0 | 82 impr | 2 clk | 2.4% CTR | paracord grab handles
+  #4.4 | 8 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #4.9 | 276 impr | 4 clk | 1.4% CTR | ford bronco seat covers
+  #5.4 | 73 impr | 2 clk | 2.7% CTR | jeep wrangler jl seat covers
+  #5.5 | 186 impr | 6 clk | 3.2% CTR | jeep tj seat covers
+  #5.7 | 72 impr | 1 clk | 1.4% CTR | jeep wrangler jk seat covers
+  #6.3 | 696 impr | 21 clk | 3.0% CTR | jeep wrangler seat covers
+  #7.0 | 343 impr | 6 clk | 1.7% CTR | jeep gladiator seat covers
+  #7.6 | 27 impr | 0 clk | 0.0% CTR | suspension limit straps
+
+=== PAGE 2 (positions 11-20) ===
+  #11.0 | 4054 impr | 9 clk | tactical seat covers
+  #14.5 | 84 impr | 0 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #34.2 | 17 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.7 | 133 impr | 0.00% CTR | jeep wrangler grab handles
+  #11.0 | 4054 impr | 0.22% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-15.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (9) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Bartact GSC Rank Check — 2026-09-16
+Window: 2026-09-02 to 2026-09-15 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 424 impr | 71 clk | 16.7% CTR | bartact seat covers
+  #3.7 | 258 impr | 11 clk | 4.3% CTR | molle accessories
+  #3.8 | 135 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #3.9 | 1151 impr | 32 clk | 2.8% CTR | jeep seat covers
+  #4.1 | 10 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #4.2 | 82 impr | 2 clk | 2.4% CTR | paracord grab handles
+  #5.1 | 266 impr | 4 clk | 1.5% CTR | ford bronco seat covers
+  #5.4 | 187 impr | 8 clk | 4.3% CTR | jeep tj seat covers
+  #5.7 | 69 impr | 1 clk | 1.4% CTR | jeep wrangler jk seat covers
+  #5.8 | 76 impr | 2 clk | 2.6% CTR | jeep wrangler jl seat covers
+  #6.3 | 717 impr | 19 clk | 2.6% CTR | jeep wrangler seat covers
+  #7.1 | 349 impr | 5 clk | 1.4% CTR | jeep gladiator seat covers
+  #7.9 | 32 impr | 0 clk | 0.0% CTR | suspension limit straps
+
+=== PAGE 2 (positions 11-20) ===
+  #11.0 | 4396 impr | 11 clk | tactical seat covers
+  #12.0 | 110 impr | 0 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #34.6 | 21 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.8 | 135 impr | 0.00% CTR | jeep wrangler grab handles
+  #11.0 | 4396 impr | 0.25% CTR | tactical seat covers
+  #12.0 | 110 impr | 0.00% CTR | ford bronco accessories
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-16.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (10) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Bartact GSC Rank Check — 2026-09-17
+Window: 2026-09-03 to 2026-09-16 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 426 impr | 66 clk | 15.5% CTR | bartact seat covers
+  #3.8 | 133 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #3.9 | 1121 impr | 31 clk | 2.8% CTR | jeep seat covers
+  #4.1 | 8 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #4.3 | 264 impr | 10 clk | 3.8% CTR | molle accessories
+  #4.4 | 81 impr | 2 clk | 2.5% CTR | paracord grab handles
+  #5.2 | 271 impr | 4 clk | 1.5% CTR | ford bronco seat covers
+  #5.5 | 179 impr | 8 clk | 4.5% CTR | jeep tj seat covers
+  #5.7 | 73 impr | 2 clk | 2.7% CTR | jeep wrangler jk seat covers
+  #5.9 | 80 impr | 2 clk | 2.5% CTR | jeep wrangler jl seat covers
+  #6.3 | 731 impr | 18 clk | 2.5% CTR | jeep wrangler seat covers
+  #7.1 | 346 impr | 3 clk | 0.9% CTR | jeep gladiator seat covers
+  #8.3 | 29 impr | 0 clk | 0.0% CTR | suspension limit straps
+
+=== PAGE 2 (positions 11-20) ===
+  #10.9 | 4568 impr | 12 clk | tactical seat covers
+  #12.1 | 128 impr | 1 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #33.9 | 26 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.8 | 133 impr | 0.00% CTR | jeep wrangler grab handles
+  #10.9 | 4568 impr | 0.26% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-17.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (10) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Bartact GSC Rank Check — 2026-09-18
+Window: 2026-09-04 to 2026-09-17 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 421 impr | 51 clk | 12.1% CTR | bartact seat covers
+  #3.9 | 129 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #4.1 | 1133 impr | 32 clk | 2.8% CTR | jeep seat covers
+  #4.2 | 6 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #4.4 | 272 impr | 7 clk | 2.6% CTR | molle accessories
+  #4.4 | 83 impr | 1 clk | 1.2% CTR | paracord grab handles
+  #5.3 | 177 impr | 7 clk | 4.0% CTR | jeep tj seat covers
+  #5.4 | 268 impr | 4 clk | 1.5% CTR | ford bronco seat covers
+  #5.6 | 80 impr | 2 clk | 2.5% CTR | jeep wrangler jk seat covers
+  #5.9 | 85 impr | 2 clk | 2.4% CTR | jeep wrangler jl seat covers
+  #6.3 | 756 impr | 23 clk | 3.0% CTR | jeep wrangler seat covers
+  #7.1 | 336 impr | 2 clk | 0.6% CTR | jeep gladiator seat covers
+  #8.6 | 26 impr | 0 clk | 0.0% CTR | suspension limit straps
+
+=== PAGE 2 (positions 11-20) ===
+  #10.8 | 4723 impr | 12 clk | tactical seat covers
+  #12.6 | 147 impr | 3 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #34.5 | 28 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.9 | 129 impr | 0.00% CTR | jeep wrangler grab handles
+  #10.8 | 4723 impr | 0.25% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-18.md
+Rank results saved to /tmp/bartact-rank-results.json
+◇ injected env (10) from .env // tip: ⌘ suppress logs { quiet: true }
+Bartact GSC Rank Check — 2026-09-19
+Window: 2026-09-05 to 2026-09-18 (14 days)
+
+=== PAGE 1 (positions 1-10) ===
+  #1.3 | 426 impr | 47 clk | 11.0% CTR | bartact seat covers
+  #3.9 | 128 impr | 0 clk | 0.0% CTR ⚠️ ZERO-CTR | jeep wrangler grab handles
+  #4.4 | 1107 impr | 30 clk | 2.7% CTR | jeep seat covers
+  #4.4 | 272 impr | 8 clk | 2.9% CTR | molle accessories
+  #4.4 | 87 impr | 1 clk | 1.1% CTR | paracord grab handles
+  #4.6 | 5 impr | 0 clk | 0.0% CTR | jeep wrangler jku seat covers
+  #5.2 | 174 impr | 7 clk | 4.0% CTR | jeep tj seat covers
+  #5.7 | 82 impr | 2 clk | 2.4% CTR | jeep wrangler jk seat covers
+  #5.8 | 277 impr | 4 clk | 1.4% CTR | ford bronco seat covers
+  #6.2 | 743 impr | 20 clk | 2.7% CTR | jeep wrangler seat covers
+  #6.3 | 90 impr | 2 clk | 2.2% CTR | jeep wrangler jl seat covers
+  #7.1 | 332 impr | 3 clk | 0.9% CTR | jeep gladiator seat covers
+  #8.7 | 25 impr | 0 clk | 0.0% CTR | suspension limit straps
+
+=== PAGE 2 (positions 11-20) ===
+  #10.7 | 4835 impr | 12 clk | tactical seat covers
+  #12.5 | 150 impr | 3 clk | ford bronco accessories
+
+=== BEYOND PAGE 2 (positions 21+) ===
+  #34.5 | 28 impr | 0 clk | jeep wrangler accessories
+
+=== NO IMPRESSION DATA ===
+  (no data) | molle seat covers jeep
+  (no data) | roll bar fire extinguisher holder
+
+=== ZERO-CTR ALERTS (>100 impr, <0.5% CTR) ===
+  #3.9 | 128 impr | 0.00% CTR | jeep wrangler grab handles
+  #10.7 | 4835 impr | 0.25% CTR | tactical seat covers
+
+Report saved: /home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-19.md
+Rank results saved to /tmp/bartact-rank-results.json

@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-05",
+  "hero": {
+    "title": "New Gene Therapy Restores Hearing in 47 Children Born Deaf",
+    "body": "A groundbreaking clinical trial at Johns Hopkins has successfully restored functional hearing in 47 children with congenital deafness using a single-dose gene therapy. The treatment, which delivers a working copy of the OTOF gene directly to the inner ear, showed results within weeks. Parents reported children responding to their names and music for the first time, with researchers calling it a 'new chapter in audiology.'",
+    "category": "Health",
+    "imageKeyword": "hearing"
+  },
+  "quote": {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "Iceland Becomes First Country to Run Entirely on Green Hydrogen",
+          "excerpt": "Iceland announced this week that its entire transportation grid, including fishing vessels and domestic flights, now runs exclusively on green hydrogen produced from geothermal energy. The island nation achieved the milestone two years ahead of schedule, eliminating its last fossil fuel dependency.",
+          "category": "Environment",
+          "imageKeyword": "geothermal"
+        },
+        {
+          "title": "New AI Tool Detects Pancreatic Cancer Five Years Earlier",
+          "excerpt": "MIT researchers unveiled an artificial intelligence system that can identify pancreatic cancer markers in routine blood tests up to five years before symptoms appear. Early trials showed 89% accuracy, potentially transforming outcomes for one of the deadliest cancers.",
+          "category": "Technology",
+          "imageKeyword": "laboratory"
+        },
+        {
+          "title": "Free Community College Program Graduates One Millionth Student",
+          "excerpt": "The federal Promise program, launched in 2023, celebrated its one millionth graduate this week at a ceremony in Detroit. Graduate Maria Santos, 34, became a registered nurse after decades of financial barriers kept her from pursuing higher education.",
+          "category": "Education",
+          "imageKeyword": "graduation"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "Wild Tiger Population Crosses 6,000 for First Time in Decades",
+          "excerpt": "The Global Tiger Initiative confirmed that wild tiger numbers have reached 6,127, more than doubling since the 2010 low point. India, Nepal, and Bhutan led recovery efforts through habitat corridors and anti-poaching technology that uses drone surveillance.",
+          "category": "Wildlife",
+          "imageKeyword": "tiger"
+        },
+        {
+          "title": "California Condor Flock Reaches New Milestone with 100 Wild Chicks",
+          "excerpt": "Conservationists announced that 100 California condor chicks hatched in the wild this year, a record that was unimaginable when only 22 birds remained in 1982. The species now numbers over 600, with self-sustaining populations in three states.",
+          "category": "Wildlife",
+          "imageKeyword": "condor"
+        },
+        {
+          "title": "Rescued Sea Otter Becomes New Mom at Monterey Bay Aquarium",
+          "excerpt": "Luna, a sea otter rescued as an orphaned pup in 2023, gave birth to a healthy female this week at Monterey Bay Aquarium. Staff say Luna is showing excellent maternal instincts, wrapping her pup in kelp while she forages—a behavior she learned from surrogate mothers.",
+          "category": "Wildlife",
+          "imageKeyword": "otter"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Detroit Neighbors Transform 200 Vacant Lots into Urban Farms",
+          "excerpt": "A coalition of Detroit residents has converted 200 abandoned lots into productive urban farms now feeding over 3,000 families weekly. The Grown in Detroit initiative also provides paid apprenticeships for formerly incarcerated residents returning to the workforce.",
+          "category": "Community",
+          "imageKeyword": "urbanfarm"
+        },
+        {
+          "title": "Retired Teachers Launch Free Tutoring Network Across Rural Appalachia",
+          "excerpt": "Over 400 retired educators have formed the Mountain Scholars network, offering free tutoring to students in 12 Appalachian counties where teacher shortages have hit hardest. Since launching in January, reading scores have improved 23% in participating schools.",
+          "category": "Community",
+          "imageKeyword": "tutoring"
+        },
+        {
+          "title": "Neighbors Rebuild Widow's Home After Fire in 72-Hour Build Marathon",
+          "excerpt": "When 78-year-old Eleanor James lost her Birmingham home to an electrical fire, 150 volunteers from her church and neighborhood rebuilt it in a single weekend. Local contractors donated materials while teenagers handled painting and landscaping.",
+          "category": "Community",
+          "imageKeyword": "volunteers"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Sailor Completes Solo Pacific Crossing Using Sonar Navigation",
+          "excerpt": "Japanese sailor Mitsuhiro Tanaka, 52, became the first blind person to sail solo across the Pacific Ocean, arriving in San Francisco after 74 days at sea. He navigated using a custom sonar system and audio charts developed with university engineers.",
+          "category": "Inspiration",
+          "imageKeyword": "sailing"
+        },
+        {
+          "title": "Former Refugee Earns PhD, Returns to Build Somalia's First Medical School",
+          "excerpt": "Dr. Amina Hassan, who fled Somalia at age nine, returned this month to open the country's first accredited medical school in Mogadishu. Her institution will train 60 physicians annually, addressing a healthcare system devastated by decades of conflict.",
+          "category": "Inspiration",
+          "imageKeyword": "medical"
+        },
+        {
+          "title": "90-Year-Old Grandmother Publishes Debut Novel to Critical Acclaim",
+          "excerpt": "Dorothy Mitchell of Portland, Oregon, published her first novel at 90 after writing in secret for six decades. 'The Lighthouse Keeper's Daughter' debuted at number three on the bestseller list, with critics praising its lyrical prose and emotional depth.",
+          "category": "Inspiration",
+          "imageKeyword": "writing"
+        }
+      ]
+    }
+  ]
+}

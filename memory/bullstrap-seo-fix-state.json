@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-09-15T04:00:00Z",
+  "dailyHistory": [
+    {
+      "date": "2026-09-15",
+      "totalFixed": 0,
+      "dailyIncrement": 0,
+      "status": "BASELINE_CREATED"
+    }
+  ],
+  "consecutiveZeroFixes": 0,
+  "alert_threshold": 2
+}

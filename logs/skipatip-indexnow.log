@@ -1,0 +1,16 @@
+
+🚀 SkipATip Weekly Bing Blast — 2026-09-14T09:00:02.024Z
+   URLs: 37
+🔍 Submitting via IndexNow...
+   IndexNow: HTTP 403
+   ⚠️  IndexNow rejected: {"errorCode":"UserForbiddedToAccessSite","message":"User is unauthorized to access the site. Please verify the site using the key and try again","details":null}
+📋 Submitting via Bing Webmaster Tools API...
+   BWT batch 1: HTTP 200 — {"d":null}
+🗺️  Submitting sitemap to Bing...
+   Sitemap: HTTP 404 — 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IndexNow: ❌
+BWT URL Submit: ✅
+BWT Sitemap: ❌
+Done.

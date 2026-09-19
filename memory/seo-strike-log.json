@@ -1,0 +1,45 @@
+{
+  "strikes": {
+    "bullstrap_shopify_token_401": {
+      "count": 1,
+      "firstSeen": "2026-09-17T15:00:00Z",
+      "lastSeen": "2026-09-17T15:00:00Z",
+      "description": "Bull Strap Shopify admin token returning 401 Unauthorized. Token: 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, Store: bull-strap-78.myshopify.com. New strike cycle started (previous cycle Strike 3 alert sent 2026-09-16).",
+      "alertThreshold": 3,
+      "alertSent": false,
+      "previousAlertSentAt": "2026-09-16T15:00:00Z",
+      "cycleStarted": "2026-09-17T15:00:00Z",
+      "note": "Strike 1 of new cycle. Alert fires at Strike 3 (projected 2026-09-19 if unresolved)."
+    },
+    "bartact_shopify_token_401": {
+      "count": 1,
+      "firstSeen": "2026-09-17T15:00:00Z",
+      "lastSeen": "2026-09-17T15:00:00Z",
+      "description": "Bartact Shopify admin token returning 401 Unauthorized. Token: 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, Store: bartact.myshopify.com. New strike cycle started (previous cycle Strike 3 alert sent 2026-09-16).",
+      "alertThreshold": 3,
+      "alertSent": false,
+      "previousAlertSentAt": "2026-09-16T15:00:00Z",
+      "cycleStarted": "2026-09-17T15:00:00Z",
+      "note": "Strike 1 of new cycle. Alert fires at Strike 3 (projected 2026-09-19 if unresolved)."
+    },
+    "skipatip_ssl": {
+      "count": 0,
+      "note": "SSL renewed — was 26 days on 2026-09-13 (alerted), now 86 days as of 2026-09-17. Resolved.",
+      "alertSent": true,
+      "resolvedAt": "2026-09-15T15:00:00Z"
+    },
+    "gridguardsusa_ssl": {
+      "count": 0,
+      "note": "SSL renewed — was 29 days on 2026-09-15 (alerted), now 87 days as of 2026-09-17. Resolved.",
+      "alertSent": true,
+      "resolvedAt": "2026-09-16T15:00:00Z"
+    },
+    "faithfulpassages_ssl_watch": {
+      "count": 0,
+      "note": "Approaching threshold. At 30 days as of 2026-09-17. Alert fires immediately if drops below 30 days (SSL is immediate-alert category). Watch daily.",
+      "alertSent": false
+    }
+  },
+  "lastUpdated": "2026-09-17T15:00:00Z",
+  "note": "Both Shopify tokens reset to Strike 1 (new cycle). All SSL clean. faithfulpassages.com at 30 days — watch closely."
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-10",
+  "hero": {
+    "title": "Teen Inventor's Low-Cost Water Filter Now Serving 50,000 Households",
+    "body": "Seventeen-year-old Maya Chen from Oakland has seen her biodegradable water filtration system expand to communities across rural Guatemala and Kenya. What started as a garage project using agricultural waste now removes 99.7% of contaminants at just $3 per unit. The Gates Foundation announced today it will fund production of 500,000 additional filters by year's end.",
+    "category": "Technology",
+    "imageKeyword": "water"
+  },
+  "quote": {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "New Coral Species Discovered Thriving in Warming Waters",
+          "excerpt": "Marine biologists at the University of Hawaii have identified a heat-resistant coral species off the coast of Palau that actually grows faster in warmer temperatures. The discovery offers promising genetic material for coral restoration efforts worldwide, with researchers already beginning crossbreeding programs.",
+          "category": "Science",
+          "imageKeyword": "coral"
+        },
+        {
+          "title": "Portugal Runs Entirely on Renewables for Record 100 Days",
+          "excerpt": "Portugal has officially surpassed 100 consecutive days powered exclusively by renewable energy sources, shattering its previous record of 63 days. The achievement comes after massive investments in offshore wind farms and improved battery storage infrastructure along the Atlantic coast.",
+          "category": "Environment",
+          "imageKeyword": "windmill"
+        },
+        {
+          "title": "Free Music Therapy Program Expands to 200 Veterans Hospitals",
+          "excerpt": "The nonprofit Harmony for Heroes announced its guitar and songwriting therapy program will now operate in every VA hospital in the United States. Studies show participants report a 45% reduction in PTSD symptoms after just eight weeks of sessions.",
+          "category": "Health",
+          "imageKeyword": "guitar"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "Wild Tiger Population Crosses 6,000 for First Time Since 1990",
+          "excerpt": "The Global Tiger Initiative confirmed that wild tiger populations have reached 6,127 individuals, a remarkable recovery from the 3,200 counted in 2010. Nepal and India led the resurgence through aggressive anti-poaching measures and expanded protected corridors connecting fragmented habitats.",
+          "category": "Wildlife",
+          "imageKeyword": "tiger"
+        },
+        {
+          "title": "Rescued Sea Otter Becomes Surrogate Mom to Orphaned Pups",
+          "excerpt": "Rosa, a blind sea otter at the Monterey Bay Aquarium, has successfully raised her 18th orphaned pup since 2019. The seven-year-old otter teaches survival skills including foraging and grooming despite her disability, with 16 of her surrogates successfully released into the wild.",
+          "category": "Wildlife",
+          "imageKeyword": "otter"
+        },
+        {
+          "title": "European Bison Return to Romania's Carpathian Mountains",
+          "excerpt": "Conservationists released 30 European bison into Romania's Țarcu Mountains this week, bringing the rewilded population to over 200 animals. The herd has begun naturally regenerating forest ecosystems by clearing undergrowth and dispersing seeds across the landscape.",
+          "category": "Wildlife",
+          "imageKeyword": "bison"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Chicago's Tool Library Saves Residents $2 Million in First Year",
+          "excerpt": "The Chicago Community Tool Library, which loans everything from power drills to cement mixers for free, celebrated serving its 50,000th member this week. The organization estimates members have collectively saved over $2 million while keeping thousands of rarely-used tools out of landfills.",
+          "category": "Community",
+          "imageKeyword": "tools"
+        },
+        {
+          "title": "Former Rivals Unite to Rebuild Tornado-Damaged School",
+          "excerpt": "Construction crews from competing companies in Joplin, Missouri set aside business rivalries to volunteer 10,000 combined hours rebuilding Lincoln Elementary after devastating spring tornadoes. The school reopened three months ahead of schedule with an upgraded storm shelter.",
+          "category": "Community",
+          "imageKeyword": "construction"
+        },
+        {
+          "title": "Grandmother's Free Tutoring Center Sends 500th Student to College",
+          "excerpt": "Eighty-two-year-old retired teacher Dorothy Williams celebrated as the 500th student from her garage tutoring center in Detroit received a college acceptance letter. What began in 1998 with three struggling readers now serves 75 students weekly with 40 volunteer instructors.",
+          "category": "Community",
+          "imageKeyword": "studying"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Climber Summits All Seven Continental Peaks",
+          "excerpt": "Japanese mountaineer Kenji Yamamoto, 34, became the first completely blind person to summit the highest peak on every continent after reaching the top of Denali last week. His journey took six years and raised $1.2 million for accessible outdoor recreation programs.",
+          "category": "Inspiration",
+          "imageKeyword": "mountain"
+        },
+        {
+          "title": "Refugee Doctor Returns to Open Hospital in Hometown",
+          "excerpt": "Dr. Amira Hassan, who fled Syria as a teenager in 2015, returned this month to open a 50-bed hospital in her rebuilt hometown of Homs. The Johns Hopkins-trained surgeon has recruited 30 medical professionals from the diaspora to join her staff.",
+          "category": "Inspiration",
+          "imageKeyword": "hospital"
+        },
+        {
+          "title": "86-Year-Old Completes Bachelor's Degree Alongside Granddaughter",
+          "excerpt": "Harold Mitchell walked across the stage at University of Texas alongside his 22-year-old granddaughter Emma, both receiving bachelor's degrees in history. Harold had dropped out in 1962 to support his family and re-enrolled four years ago after his wife's encouragement.",
+          "category": "Inspiration",
+          "imageKeyword": "graduation"
+        }
+      ]
+    }
+  ]
+}

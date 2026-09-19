@@ -1,0 +1,133 @@
+{
+  "offset": 104,
+  "totalSubmitted": 1420,
+  "lastRun": "2026-09-19T09:10:40.786Z",
+  "runs": [
+    {
+      "date": "2026-09-07T19:46:11.132Z",
+      "ok": 0,
+      "quota429": 1,
+      "fail": 0,
+      "offset": 0,
+      "newOffset": 0,
+      "total": 447
+    },
+    {
+      "date": "2026-09-08T09:10:23.506Z",
+      "ok": 66,
+      "quota429": 1,
+      "fail": 0,
+      "offset": 0,
+      "newOffset": 66,
+      "total": 447
+    },
+    {
+      "date": "2026-09-09T09:10:40.878Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 66,
+      "newOffset": 186,
+      "total": 447
+    },
+    {
+      "date": "2026-09-10T09:10:43.570Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 186,
+      "newOffset": 306,
+      "total": 447
+    },
+    {
+      "date": "2026-09-11T09:10:45.630Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 306,
+      "newOffset": 426,
+      "total": 447
+    },
+    {
+      "date": "2026-09-12T09:10:42.542Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 426,
+      "newOffset": 99,
+      "total": 447
+    },
+    {
+      "date": "2026-09-13T09:10:44.117Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 99,
+      "newOffset": 219,
+      "total": 447
+    },
+    {
+      "date": "2026-09-14T09:10:40.984Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 219,
+      "newOffset": 339,
+      "total": 451
+    },
+    {
+      "date": "2026-09-15T09:10:42.271Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 339,
+      "newOffset": 19,
+      "total": 440
+    },
+    {
+      "date": "2026-09-15T11:00:38.261Z",
+      "ok": 34,
+      "quota429": 1,
+      "fail": 0,
+      "offset": 19,
+      "newOffset": 53,
+      "total": 440
+    },
+    {
+      "date": "2026-09-16T09:10:41.384Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 53,
+      "newOffset": 173,
+      "total": 452
+    },
+    {
+      "date": "2026-09-17T09:10:43.236Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 173,
+      "newOffset": 293,
+      "total": 450
+    },
+    {
+      "date": "2026-09-18T09:10:41.232Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 293,
+      "newOffset": 413,
+      "total": 434
+    },
+    {
+      "date": "2026-09-19T09:10:40.786Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 413,
+      "newOffset": 104,
+      "total": 429
+    }
+  ]
+}

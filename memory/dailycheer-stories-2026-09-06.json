@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-06",
+  "hero": {
+    "title": "New Gene Therapy Restores Hearing in 47 Children Born Deaf",
+    "body": "A groundbreaking clinical trial at Boston Children's Hospital has successfully restored functional hearing in 47 children with congenital deafness using a single-dose gene therapy. The treatment, which delivers a corrected copy of the OTOF gene directly to the inner ear, showed results within weeks. Parents reported children responding to their names for the first time, with several already beginning speech therapy.",
+    "category": "Health",
+    "imageKeyword": "cochlea"
+  },
+  "quote": {
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "Rwanda Becomes First African Nation to Eliminate Malaria",
+          "excerpt": "After a decade-long public health campaign combining gene-drive mosquitoes and universal bed net distribution, the WHO officially certified Rwanda malaria-free. The country's success is now serving as a blueprint for neighboring nations.",
+          "category": "Health",
+          "imageKeyword": "mosquito"
+        },
+        {
+          "title": "Solar-Powered Desalination Plant Opens in Morocco",
+          "excerpt": "The world's largest solar desalination facility began operations outside Agadir, producing 300 million liters of fresh water daily. The plant will provide drinking water to 2 million people and irrigate 15,000 hectares of farmland.",
+          "category": "Technology",
+          "imageKeyword": "desalination"
+        },
+        {
+          "title": "Lost Works of Frida Kahlo Discovered in Mexico City Archive",
+          "excerpt": "Art historians cataloging a private collection uncovered 12 previously unknown sketches and two small paintings by Frida Kahlo. The works, dating from 1937-1940, will go on public display at the Museo Dolores Olmedo next spring.",
+          "category": "Arts",
+          "imageKeyword": "painting"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "Wild Tiger Population Surpasses 5,000 for First Time Since 1990",
+          "excerpt": "The Global Tiger Initiative announced that wild tiger numbers have reached 5,127 across 13 range countries. India alone now hosts over 3,400 tigers, thanks to expanded protected corridors and anti-poaching drones.",
+          "category": "Wildlife",
+          "imageKeyword": "tiger"
+        },
+        {
+          "title": "New Zealand's Takahē Birds No Longer Critically Endangered",
+          "excerpt": "Once thought extinct, the flightless takahē has been downlisted to 'vulnerable' after conservation breeding programs boosted wild populations to over 500 individuals. Rangers released 40 birds into a predator-free sanctuary last week.",
+          "category": "Wildlife",
+          "imageKeyword": "takahe"
+        },
+        {
+          "title": "Rescued Sea Otter Named Luna Returns to Monterey Bay",
+          "excerpt": "After eight months of rehabilitation at the Monterey Bay Aquarium, a young female sea otter was successfully released back into kelp forests off Pacific Grove. Researchers say Luna has already been spotted cracking open sea urchins independently.",
+          "category": "Wildlife",
+          "imageKeyword": "otter"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Detroit Neighbors Transform Vacant Lots Into 200 Urban Farms",
+          "excerpt": "A grassroots initiative called Green Blocks has converted abandoned properties across Detroit into thriving community gardens producing fresh vegetables. The project has created 85 part-time jobs and donated over 40,000 pounds of produce to local food banks this year.",
+          "category": "Community",
+          "imageKeyword": "urban-garden"
+        },
+        {
+          "title": "Retired Teachers Offer Free Tutoring Through Public Libraries",
+          "excerpt": "A volunteer network of 1,200 retired educators across Ohio is providing free after-school tutoring at 156 public library branches. Early data shows participating students improved reading scores by an average of 23 percent.",
+          "category": "Education",
+          "imageKeyword": "library"
+        },
+        {
+          "title": "Melbourne Restaurant Employs Only Workers Over Age 65",
+          "excerpt": "A new café called Second Helpings has opened in Melbourne's Fitzroy neighborhood, staffed entirely by seniors seeking social connection and supplemental income. The waiting list for employment now exceeds 400 applicants.",
+          "category": "Community",
+          "imageKeyword": "elderly"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Mountaineer Reaches Summit of All Seven Peaks",
+          "excerpt": "Erik Lindqvist, 34, became the first completely blind person to summit the highest mountain on every continent after reaching the top of Denali. He credited his guide dog Atlas, who waited at base camp, with inspiring his journey into climbing.",
+          "category": "Inspiration",
+          "imageKeyword": "mountain"
+        },
+        {
+          "title": "Teenager Invents Low-Cost Water Filter Now Used in 30 Countries",
+          "excerpt": "Gitanjali Rao's carbon nanotube water filter, developed when she was 15, has now been deployed in 30 countries. The device detects and removes lead contamination for under three dollars per unit.",
+          "category": "Technology",
+          "imageKeyword": "water-filter"
+        },
+        {
+          "title": "Former Refugee Opens Law Firm to Help Asylum Seekers Pro Bono",
+          "excerpt": "Miriam Hassan, who fled Syria at age 12, has opened a legal practice in Toronto dedicated to representing asylum seekers free of charge. Her team of eight attorneys has already helped 340 families gain protected status this year.",
+          "category": "Inspiration",
+          "imageKeyword": "justice"
+        }
+      ]
+    }
+  ]
+}

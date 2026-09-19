@@ -1,0 +1,216 @@
+# ASIN Health Check Results - 2026-09-19
+
+## Summary
+- **ASINs checked today:** 200
+- **Dead found today:** 179
+- **Total dead lifetime:** 379
+- **Progress:** 270/2400 = 11%
+
+## Dead ASINs (179)
+- `B07FNWXCQ3` - unavailable
+- `B017RS9XFU` - unavailable
+- `B0DNR7H158` - unavailable
+- `B00063QBL8` - unavailable
+- `B0FM7XST11` - unavailable
+- `B0002YKBV2` - unavailable
+- `B07VVK39F7` - unavailable
+- `B08129DYTH` - unavailable
+- `B00467C7AE` - unavailable
+- `B011ANDC78` - unavailable
+- `B0C9S5PMSD` - unavailable
+- `B01DCG0GPC` - unavailable
+- `B0BKH5TSKZ` - unavailable
+- `B0F4RFWZRX` - unavailable
+- `B01IF1GTY6` - unavailable
+- `B086Z6PDFH` - unavailable
+- `B0D8KG7K24` - unavailable
+- `B00OZR2548` - unavailable
+- `B0009JN7WK` - unavailable
+- `B09RQCX5YR` - unavailable
+- `B004Q6D02E` - unavailable
+- `B0875TRVHP` - ok
+- `B0864KW8SD` - unavailable
+- `B00KUL71CE` - unavailable
+- `B07WK8KQHC` - unavailable
+- `B01CSWQM7C` - unavailable
+- `B0DFC97VVN` - unavailable
+- `B0FQHP5Z5M` - unavailable
+- `B002QZ11J6` - unavailable
+- `B000TTV2QS` - unavailable
+- `B0FNPBF5YJ` - unavailable
+- `B07HHYCGT3` - unavailable
+- `B095PP1GZR` - unavailable
+- `B0DCC5QWQ1` - unavailable
+- `B07W4SN7N7` - unavailable
+- `B0C7KQTXV1` - unavailable
+- `B0DRP6YM46` - unavailable
+- `B0C3XBN5BV` - unavailable
+- `B01KPJVDO2` - unavailable
+- `B0CQP7Z582` - unavailable
+- `B0DHSYL6XK` - unavailable
+- `B097479QQY` - unavailable
+- `B0DBJSZ7QD` - unavailable
+- `B0CZ4JXGCK` - unavailable
+- `B08K4G9FH3` - unavailable
+- `B0D3JDNNFW` - unavailable
+- `B0GGY9YMSB` - unavailable
+- `B0CF82NY79` - unavailable
+- `B0DCWTL3GP` - unavailable
+- `B0B95Q8P1F` - unavailable
+- `B0G8QW2CJT` - unavailable
+- `B06Y1MGNGC` - unavailable
+- `B003ENHSI2` - unavailable
+- `B084F4DC92` - unavailable
+- `B07FTRZLM5` - unavailable
+- `B07F1Z22L4` - unavailable
+- `B0C3SC58RM` - unavailable
+- `B0CQ84BDTX` - unavailable
+- `B0BTT5FNVB` - ok
+- `B0D21B2DBT` - unavailable
+- `B0FP1YL6W1` - unavailable
+- `B0007RVLC2` - unavailable
+- `B000N501BK` - unavailable
+- `B00VWMFLQI` - unavailable
+- `B000RWA8TY` - unavailable
+- `B08WRPBS6H` - unavailable
+- `B000N4WN08` - unavailable
+- `B09S12WX42` - unavailable
+- `B084D76QRK` - unavailable
+- `B09R2LP3DP` - unavailable
+- `B0CJQWPQ2T` - unavailable
+- `B0D2N8BV12` - unavailable
+- `B0CQTQ2Z7F` - unavailable
+- `B09XGDZQNG` - unavailable
+- `B0DZJM2ZSW` - unavailable
+- `B0CNPMRFXS` - unavailable
+- `B00BOASJ1M` - unavailable
+- `B0BT4FYHFJ` - unavailable
+- `B00LWW7V7K` - unavailable
+- `B09BVQMTKH` - unavailable
+- `B009F1SWH8` - unavailable
+- `B009NJ6K8K` - unavailable
+- `B0000AXEZV` - unavailable
+- `B0C75WDPCP` - unavailable
+- `B09C2KFLC5` - unavailable
+- `B079J78ZS1` - unavailable
+- `B01D5DDT0G` - unavailable
+- `B06ZYGJ4W8` - unavailable
+- `B085KT8P1B` - unavailable
+- `B0882ZJ48W` - unavailable
+- `B004Q6EZYQ` - unavailable
+- `B0D5RFZCYB` - unavailable
+- `B004LURI4Q` - unavailable
+- `B01CSWPVME` - ok
+- `B07WWB1MLN` - unavailable
+- `B01MU7973W` - unavailable
+- `B06WVDVDXB` - unavailable
+- `B0CYD93QXQ` - unavailable
+- `B0D8VR8J3Y` - ok
+- `B0CHZ4Z3KJ` - unavailable
+- `B01FI3BLYM` - ok
+- `B0040VU3XO` - ok
+- `B0DG63C2M5` - ok
+- `B08V6JB9R7` - ok
+- `B09XC3RQ3J` - ok
+- `B07FNW9WYB` - unavailable
+- `B0FNDG2TNK` - ok
+- `B083NPW1DN` - ok
+- `B001EY6OI8` - ok
+- `B005ESNUG4` - ok
+- `B00TUDHCEA` - ok
+- `B0DDW1X2NW` - ok
+- `B005ESOBE4` - ok
+- `B08HNJ9R62` - ok
+- `B01LVZ5RZO` - unavailable
+- `B009YA28ES` - ok
+- `B08C9VYQLH` - ok
+- `B07FNXPGLG` - ok
+- `B005ESP3SW` - ok
+- `B00UOXMCBI` - ok
+- `B005AIN8YW` - ok
+- `B07FNXS7G9` - ok
+- `B005ESPI1E` - ok
+- `B000H5TAC2` - error
+- `B098ZP4MNV` - error
+- `B01HTL3W02` - error
+- `B00CJZ7QP6` - error
+- `B07FDH5RX8` - error
+- `B075QP7SCP` - error
+- `B0F1Z3T3DS` - error
+- `B0BWHZJHPL` - error
+- `B0086I5YAE` - error
+- `B0DY1W7SG9` - error
+- `B09L4546SC` - error
+- `B09L4PHKBN` - error
+- `B07T2WH79F` - error
+- `B0CYGYBXN3` - error
+- `B073V6Q8DY` - error
+- `B0D5RRYRP4` - error
+- `B0BZ6JN4ZQ` - error
+- `B01CR9JG4C` - error
+- `B0DJG1731C` - error
+- `B0B4ZSKPNL` - error
+- `B0C6X2RDTF` - error
+- `B089R1MYRK` - error
+- `B06XJ86F7L` - error
+- `B0C9L68PVF` - error
+- `B089LMM5S3` - error
+- `B0FGJ4TTT1` - error
+- `B005GZ89WU` - error
+- `B08K3BDHR6` - error
+- `B01C9RIACG` - error
+- `B0BGPF71Q6` - error
+- `B0CDQVR4G9` - error
+- `B00ZTPCLZ8` - error
+- `B01HG3ZQNO` - error
+- `B00BD5G9VA` - error
+- `B0015IVOQ0` - error
+- `B0009U5OSO` - error
+- `B0C1YLHRCF` - error
+- `B01DBGQR1K` - error
+- `B01ENK4TT0` - error
+- `B0CQ27BQJV` - error
+- `B00062R6WC` - error
+- `B0G91XKB66` - error
+- `B0FB8SSWY4` - error
+- `B07HR5CN7G` - error
+- `B0028AYQDC` - error
+- `B00I3PQ7G0` - error
+- `B01IU92IYI` - error
+- `B098W76B9L` - error
+- `B0BSHXXVQD` - error
+- `B075CDG3YX` - error
+- `B0DBHN8S9Y` - error
+- `B09XMTBPPK` - error
+- `B0FVKQ6QTX` - error
+- `B08GKQFT6B` - error
+- `B0DY1DQT7H` - error
+- `B06XWVXNWQ` - error
+
+## Sample Alive ASINs (21)
+- `B0F6R1XLGW` - SLATE & ROYCE Herringbone Acacia Wood Cutting Board Set of 2 — Premium Wood Cutting Board & Serving Board, Non-Toxic, Kitchen Prep & Entertaining, Perfect Wedding or Housewarming Gift
+- `B08BQNKK8D` - AirGearPro G-500 Reusable Respirator Mask with A1P2 Vapor & Dust Filters
+- `B01GIK5924` - EPAuto GP075 (CA10755) Engine Air Filter Replacement for Toyota and Jeep
+- `B0DH7241BV` - Purolator PBC38224 PurolatorBOSS Premium Cabin Air Filter with Activated Carbon Compatible with GMC Sierra, Yukon, Acadia, Chevrolet Silverado, Tahoe, Camaro, Cruze, Colorado and More
+- `B007HYR89I` - Bubba Rope 176006OR 6' Tree Hugger
+- `B0010DY4J4` - ARB730LB TREE TRUNK PROTECTOR 10 ft Breaking strength 26,000 lbs. in Green Length 10 feet / Width: 3 inch / Material 100% polyester
+- `B07J4WFR4K` - BedRug XLT Bedmat | Fits 2019 - 2026 Ram 1500 (New Body Style Only)w/Out Mltfnctn Tailgate, 67.4 Bed, Models w/Non Liner / Spray-In | Charcoal Grey, XLTBMT19CCS
+- `B0874MT785` - Weathertech TechLiner Truck Bed Liner for Ram 1500 Classic, Ram 1500, Truck 1500 - Complete Set (Bed Liner and Tailgate Liner) (37608-3TG04), Black
+- `B098XRDMQC` - Rough Country Truck Bed Mat for Chevy Silverado & GMC Sierra 1500 (2019-2026) – Fits 5'10" BTear-Resistant Heavy-Duty Rubber, Non-Slip Protection
+- `B0C976W6J1` - TrailFX RC58U19 Component Tub Replacement Bed Liner Component for Trail FX Bed Liners, 5 Foot by 8 Foot, No Drill Install, Made in USA
+- `B0BTB7LXL2` - Nike Huarache Elite Adult Batting Gloves - Sheepskin Leather - 1 Pair (Black/Gold, Medium)
+- `B004BSMLCC` - Mothers PowerBall 2, Polishing Tool with 10” Quick Swap Bit (05143)
+- `B09P8WCCLN` - Chemical Guys, Clay Bar & Luber Combo Kit for Smooth Paint, 6-Piece Set
+- `B082YFLZJ2` - Mothers CMX Ceramic Spray PREP + 3 in 1 Polish + Coating Bundle
+- `B0FZRQM849` - ATOMSTACK A5 Pro Desktop Laser Engraver, 5W Ultra-Fine Compressed Spot Laser Engraving & Cutting Machine with All-Metal Frame, Fixed Focus, for Wood, Metal, Acrylic, Leather & DIY Craft Projects
+- `B0FPJLPZ2B` - Chemical Guys 17-Piece Car Detailing Kit, Interior & Wheel Cleaner & Wash
+- `B0153MYM12` - TRAMONTINA 6.5 Qt ROUND Dutch Oven OMBRE RED Enameled Cast Iron
+- `B07V2Q2PJ1` - CLARK'S Cast Iron Seasoning Oil (12 Ounces) - 100% Plant Based from Refined Coconut Oil (Vegan) - No Mineral Oil - Prevents Rust - Maintains Seasoning on All Cast Iron and Carbon Cookware
+- `B0CZS9NNFV` - CARON & DOUCET Griddle Seasoning & Cast Iron Conditioner 2 in 1 Formula | Best For Maintaining, Protecting & Conditioning Griddle!
+- `B00FMUYU6I` - Travel Berkey 1.5 Gal Gravity-Fed Water Filter System with BB9-2 Filters
+- `B00UXG4WR8` - everydrop by Whirlpool Ice & Water Refrigerator Filter 1, Purple, EDR1RXD1
+
+
+## Run Time
+Started: 2026-09-19T03:09:59.032Z
+Checked: 200 ASINs in ~1000s

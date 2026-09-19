@@ -1,0 +1,37 @@
+# TacticalSeats Blog Publishing Log
+
+## Run: September 17, 2026 - 10:00 PM UTC
+
+### Actions Completed
+- ✅ Published post #17: "Why Berry Amendment Compliance Matters for Tactical Seat Covers"
+  - File: blog/berry-amendment-compliance-tactical-seat-covers.html
+  - Size: 13,707 bytes
+  - Added to blog index
+  
+- ✅ Updated blog calendar
+  - Marked #16 (Silverado vs F-150) as published (previously done July 9)
+  - Marked #17 (Berry Amendment) as published Sept 17
+  
+- ✅ Local Git commit
+  - Commit: 05feee5
+  - Message: "Publish: Why Berry Amendment Compliance Matters for Tactical Seat Covers (Sept 17, 2026)"
+
+### Issues Encountered
+- ❌ Git push failed: Invalid GitHub token
+  - Remote URL has invalid credentials
+  - Need valid PAT to proceed
+  
+- ⚠️ IndexNow not submitted
+  - No API key provided in configuration
+  - Can be submitted manually at: https://www.bing.com/webmasters/indexnow
+
+### Next Steps
+1. Obtain valid GitHub PAT for tacticalseats.com repo
+2. Retry git push with valid credentials
+3. Submit new post to IndexNow (Bing)
+4. Continue with post #18: "Best Seat Covers for Work Trucks"
+
+### Queued Content
+- #18: Best Seat Covers for Work Trucks
+- Evergreen: Annual vehicle-specific updates
+- Seasonal: Fall/Winter protection guides

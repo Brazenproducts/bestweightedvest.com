@@ -1,0 +1,1 @@
+bartact-seo-rank-check.js

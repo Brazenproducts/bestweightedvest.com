@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-16T16:19:44.393Z",
+  "results": [
+    {
+      "handle": "jeep-wrangler-seat-covers",
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+      "words": 572,
+      "status": "updated"
+    },
+    {
+      "handle": "seat-covers",
+      "url": "https://www.bartact.com/collections/seat-covers",
+      "words": 448,
+      "status": "updated"
+    },
+    {
+      "handle": "molle-accessories",
+      "url": "https://www.bartact.com/collections/molle-accessories",
+      "words": 589,
+      "status": "updated"
+    },
+    {
+      "handle": "jeep-wrangler-seat-covers-accessories",
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+      "words": 487,
+      "status": "updated"
+    },
+    {
+      "handle": "paracord-grab-handles",
+      "url": "https://www.bartact.com/collections/paracord-grab-handles",
+      "words": 565,
+      "status": "updated"
+    }
+  ],
+  "updatedUrls": [
+    "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+    "https://www.bartact.com/collections/seat-covers",
+    "https://www.bartact.com/collections/molle-accessories",
+    "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+    "https://www.bartact.com/collections/paracord-grab-handles"
+  ]
+}

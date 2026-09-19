@@ -1,0 +1,2130 @@
+{
+  "date": "2026-09-19",
+  "timestamp": "2026-09-19T16:04:43.453Z",
+  "totalGSCPages": 147,
+  "totalIssues": 131,
+  "totalFixed": 0,
+  "totalUnfixable": 6,
+  "fixedUrls": [],
+  "issues": [
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 17859,
+      "clicks": 565,
+      "ctr": 3.164,
+      "position": 5.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/seat-covers",
+      "handle": "seat-covers",
+      "title": "Seat Covers",
+      "colId": 261740953643,
+      "colType": "smart_collections",
+      "impressions": 28045,
+      "clicks": 296,
+      "ctr": 1.055,
+      "position": 7.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-accessories",
+      "handle": "molle-accessories",
+      "title": "MOLLE Accessories",
+      "colId": 137429778455,
+      "colType": "smart_collections",
+      "impressions": 8135,
+      "clicks": 183,
+      "ctr": 2.25,
+      "position": 7.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+      "handle": "jeep-wrangler-seat-covers-accessories",
+      "title": "Jeep® Wrangler Seat Covers & Accessories",
+      "colId": 73831749,
+      "colType": "custom_collections",
+      "impressions": 9657,
+      "clicks": 132,
+      "ctr": 1.367,
+      "position": 4.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/paracord-grab-handles",
+      "handle": "paracord-grab-handles",
+      "title": "Paracord Grab Handles",
+      "colId": 73832005,
+      "colType": "custom_collections",
+      "impressions": 4333,
+      "clicks": 92,
+      "ctr": 2.123,
+      "position": 4.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "handle": "ford-bronco-accessories-2021-2022-2023",
+      "title": "Ford Bronco Accessories 2021+",
+      "colId": 174233223211,
+      "colType": "smart_collections",
+      "impressions": 5900,
+      "clicks": 80,
+      "ctr": 1.356,
+      "position": 8.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-seat-covers",
+      "handle": "ford-bronco-seat-covers",
+      "title": "Ford Bronco Seat Covers",
+      "colId": 265140207659,
+      "colType": "smart_collections",
+      "impressions": 3819,
+      "clicks": 80,
+      "ctr": 2.095,
+      "position": 6.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-buckles-attachments-accessories",
+      "handle": "molle-buckles-attachments-accessories",
+      "title": "MOLLE Buckles, Attachments & Accessories",
+      "colId": 274212618283,
+      "colType": "smart_collections",
+      "impressions": 3443,
+      "clicks": 70,
+      "ctr": 2.033,
+      "position": 7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-tj-seat-covers",
+      "handle": "jeep-wrangler-tj-seat-covers",
+      "title": "Jeep Wrangler TJ Seat Covers",
+      "colId": 687837347883,
+      "colType": "custom_collections",
+      "impressions": 1686,
+      "clicks": 63,
+      "ctr": 3.737,
+      "position": 4.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-seat-covers-accessories-2019",
+      "handle": "jeep-gladiator-seat-covers-accessories-2019",
+      "title": "Jeep® Gladiator Seat Covers & Accessories 2019+",
+      "colId": 129358528535,
+      "colType": "custom_collections",
+      "impressions": 3855,
+      "clicks": 60,
+      "ctr": 1.556,
+      "position": 6.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "handle": "jeep-wrangler-jl-jlu-accessories-2018",
+      "title": "Jeep® Wrangler JL & JLU Seat Covers & Accessories 2018+",
+      "colId": 265140994091,
+      "colType": "smart_collections",
+      "impressions": 3817,
+      "clicks": 53,
+      "ctr": 1.389,
+      "position": 11.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-tj-lj-2003-06-accessories",
+      "handle": "jeep-wrangler-tj-lj-2003-06-accessories",
+      "title": "Jeep® Wrangler TJ & LJ Seat Covers & Accessories 2003-2006",
+      "colId": 265140830251,
+      "colType": "smart_collections",
+      "impressions": 2834,
+      "clicks": 45,
+      "ctr": 1.588,
+      "position": 7.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/fire-extinguishers-mounts",
+      "handle": "fire-extinguishers-mounts",
+      "title": "Fire Extinguishers & Mounts",
+      "colId": 274052808747,
+      "colType": "smart_collections",
+      "impressions": 1466,
+      "clicks": 40,
+      "ctr": 2.729,
+      "position": 5.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/grab-handles-for-jeep-wrangler-gladiator-ford-bronco-utvs-buggies-rails",
+      "handle": "grab-handles-for-jeep-wrangler-gladiator-ford-bronco-utvs-buggies-rails",
+      "title": "Grab Handles for Jeep® Wrangler & Gladiator, Ford® Bronco, UTVs, Buggies, Rails",
+      "colId": 265141485611,
+      "colType": "smart_collections",
+      "impressions": 4337,
+      "clicks": 37,
+      "ctr": 0.853,
+      "position": 5.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-4runner-seat-covers",
+      "handle": "toyota-4runner-seat-covers",
+      "title": "Toyota 4Runner Seat Covers",
+      "colId": 265140076587,
+      "colType": "smart_collections",
+      "impressions": 1840,
+      "clicks": 36,
+      "ctr": 1.957,
+      "position": 9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-tacoma-seat-covers",
+      "handle": "toyota-tacoma-seat-covers",
+      "title": "Toyota Tacoma Seat Covers",
+      "colId": 275721355307,
+      "colType": "custom_collections",
+      "impressions": 3611,
+      "clicks": 36,
+      "ctr": 0.997,
+      "position": 14.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2011-12-jeep-wrangler-jk-jku",
+      "handle": "2011-12-jeep-wrangler-jk-jku",
+      "title": "Jeep® Wrangler JK & JKU Seat Covers & Accessories 2011-2012",
+      "colId": 275649101867,
+      "colType": "smart_collections",
+      "impressions": 1330,
+      "clicks": 32,
+      "ctr": 2.406,
+      "position": 6.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/car-truck-suv-utv-boat-fire-extinguishers-mounts",
+      "handle": "car-truck-suv-utv-boat-fire-extinguishers-mounts",
+      "title": "Car, Truck, SUV, UTV, Boat Fire Extinguishers & Mounts",
+      "colId": 274210193451,
+      "colType": "smart_collections",
+      "impressions": 3801,
+      "clicks": 30,
+      "ctr": 0.789,
+      "position": 10.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/roll-bar-accessories",
+      "handle": "roll-bar-accessories",
+      "title": "Roll Bar Accessories",
+      "colId": 137272328215,
+      "colType": "smart_collections",
+      "impressions": 1037,
+      "clicks": 27,
+      "ctr": 2.604,
+      "position": 8.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/fire-extinguisher-roll-bar-mount",
+      "handle": "fire-extinguisher-roll-bar-mount",
+      "title": "Fire Extinguisher Roll Bar Mount",
+      "colId": 137430597655,
+      "colType": "custom_collections",
+      "impressions": 4015,
+      "clicks": 22,
+      "ctr": 0.548,
+      "position": 7.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/winch-covers-patent-pending-by-bartact",
+      "handle": "winch-covers-patent-pending-by-bartact",
+      "title": "Winch Covers (Patent Pending) by Bartact",
+      "colId": 137430794263,
+      "colType": "custom_collections",
+      "impressions": 2412,
+      "clicks": 20,
+      "ctr": 0.829,
+      "position": 8.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/console-covers",
+      "handle": "console-covers",
+      "title": "Console Covers",
+      "colId": 265137946667,
+      "colType": "smart_collections",
+      "impressions": 1598,
+      "clicks": 19,
+      "ctr": 1.189,
+      "position": 6.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jk-jku-2007-18-accessories",
+      "handle": "jeep-wrangler-jk-jku-2007-18-accessories",
+      "title": "Jeep® Wrangler JK & JKU Seat Covers & Accessories 2007-2018",
+      "colId": 265140928555,
+      "colType": "smart_collections",
+      "impressions": 1461,
+      "clicks": 17,
+      "ctr": 1.164,
+      "position": 4.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-tj-1997-02-accessories",
+      "handle": "jeep-wrangler-tj-1997-02-accessories",
+      "title": "Jeep® Wrangler TJ Seat Covers & Accessories 1997-2002",
+      "colId": 265140731947,
+      "colType": "smart_collections",
+      "impressions": 1812,
+      "clicks": 16,
+      "ctr": 0.883,
+      "position": 8.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-sun-shades",
+      "handle": "jeep-sun-shades",
+      "title": "Jeep Sun Shades",
+      "colId": 280849743915,
+      "colType": "smart_collections",
+      "impressions": 1045,
+      "clicks": 15,
+      "ctr": 1.435,
+      "position": 10.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-pouches-molle-accessories-gear-bags-by-bartact",
+      "handle": "molle-pouches-molle-accessories-gear-bags-by-bartact",
+      "title": "MOLLE Pouches, MOLLE Accessories, & Gear Bags by Bartact",
+      "colId": 73832453,
+      "colType": "custom_collections",
+      "impressions": 2927,
+      "clicks": 15,
+      "ctr": 0.512,
+      "position": 16.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/visor-covers",
+      "handle": "visor-covers",
+      "title": "Visor Covers",
+      "colId": 137430532119,
+      "colType": "custom_collections",
+      "impressions": 1658,
+      "clicks": 15,
+      "ctr": 0.905,
+      "position": 7.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/overstock-clearance",
+      "handle": "overstock-clearance",
+      "title": "OVERSTOCK/CLEARANCE",
+      "colId": 275290587179,
+      "colType": "smart_collections",
+      "impressions": 833,
+      "clicks": 10,
+      "ctr": 1.2,
+      "position": 3.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-door-storage-bags",
+      "handle": "ford-bronco-door-storage-bags",
+      "title": "Ford Bronco Door Storage Bags",
+      "colId": 690112299051,
+      "colType": "smart_collections",
+      "impressions": 161,
+      "clicks": 8,
+      "ctr": 4.969,
+      "position": 6.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/accessories",
+      "handle": "accessories",
+      "title": "Accessories",
+      "colId": 275720011819,
+      "colType": "custom_collections",
+      "impressions": 1011,
+      "clicks": 7,
+      "ctr": 0.692,
+      "position": 3.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-tacoma-3rd-gen-2016-23",
+      "handle": "toyota-tacoma-3rd-gen-2016-23",
+      "title": "Toyota® Tacoma 3rd Gen 2016-23",
+      "colId": 268619644971,
+      "colType": "smart_collections",
+      "impressions": 885,
+      "clicks": 7,
+      "ctr": 0.791,
+      "position": 6.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 334,
+      "clicks": 6,
+      "ctr": 1.796,
+      "position": 8.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-f-series-f150-f250-f350-14th-gen-2021",
+      "handle": "ford-f-series-f150-f250-f350-14th-gen-2021",
+      "title": "Ford F-Series F150, F250, F350 14th Gen 2021+",
+      "colId": 268620267563,
+      "colType": "smart_collections",
+      "impressions": 59,
+      "clicks": 6,
+      "ctr": 10.169,
+      "position": 10.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/bull-strap",
+      "handle": "bull-strap",
+      "title": "Bull Strap",
+      "colId": 137272721431,
+      "colType": "smart_collections",
+      "impressions": 432,
+      "clicks": 5,
+      "ctr": 1.157,
+      "position": 5.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/dog-gear",
+      "handle": "dog-gear",
+      "title": "Dog Gear",
+      "colId": 278141501483,
+      "colType": "smart_collections",
+      "impressions": 447,
+      "clicks": 5,
+      "ctr": 1.119,
+      "position": 11.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-accessories-2019",
+      "handle": "jeep-gladiator-accessories-2019",
+      "title": "Jeep® Gladiator Seat Covers & Accessories 2019+",
+      "colId": 265141190699,
+      "colType": "smart_collections",
+      "impressions": 814,
+      "clicks": 4,
+      "ctr": 0.491,
+      "position": 23,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-grab-handles",
+      "handle": "ford-bronco-grab-handles",
+      "title": "Ford Bronco Grab Handles",
+      "colId": 688348921899,
+      "colType": "smart_collections",
+      "impressions": 98,
+      "clicks": 3,
+      "ctr": 3.061,
+      "position": 5.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/2003-06-wrangler-tj",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 222,
+      "clicks": 3,
+      "ctr": 1.351,
+      "position": 2.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/paracord-grab-handles/jeep-gladiator",
+      "handle": "paracord-grab-handles",
+      "title": "Paracord Grab Handles",
+      "colId": 73832005,
+      "colType": "custom_collections",
+      "impressions": 340,
+      "clicks": 3,
+      "ctr": 0.882,
+      "position": 4.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/recovery-gear-winch-accessories",
+      "handle": "recovery-gear-winch-accessories",
+      "title": "Recovery Gear & Winch Accessories",
+      "colId": 137272492055,
+      "colType": "smart_collections",
+      "impressions": 383,
+      "clicks": 3,
+      "ctr": 0.783,
+      "position": 16.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/shackles",
+      "handle": "shackles",
+      "title": "Shackles",
+      "colId": 273549492267,
+      "colType": "smart_collections",
+      "impressions": 199,
+      "clicks": 3,
+      "ctr": 1.508,
+      "position": 11.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2007-10-jeep-wrangler-jk-jku-accessories",
+      "handle": "2007-10-jeep-wrangler-jk-jku-accessories",
+      "title": "Jeep® Wrangler JK & JKU Seat Covers & Accessories 2007-2010",
+      "colId": 275649134635,
+      "colType": "smart_collections",
+      "impressions": 89,
+      "clicks": 2,
+      "ctr": 2.247,
+      "position": 12.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2013-18-jeep-wrangler-jk-jku",
+      "handle": "2013-18-jeep-wrangler-jk-jku",
+      "title": "Jeep® Wrangler JK & JKU Seat Covers & Accessories 2013-2018",
+      "colId": 275649069099,
+      "colType": "smart_collections",
+      "impressions": 185,
+      "clicks": 2,
+      "ctr": 1.081,
+      "position": 9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/barktact-dog-gear",
+      "handle": "barktact-dog-gear",
+      "title": "BarKtact Dog Gear",
+      "colId": 278083567659,
+      "colType": "smart_collections",
+      "impressions": 166,
+      "clicks": 2,
+      "ctr": 1.205,
+      "position": 11.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-visor-covers",
+      "handle": "ford-bronco-visor-covers",
+      "title": "Ford Bronco Visor Covers with MOLLE",
+      "colId": 690112364587,
+      "colType": "smart_collections",
+      "impressions": 35,
+      "clicks": 2,
+      "ctr": 5.714,
+      "position": 5.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/2021-wrangler-mojave-and-392",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 456,
+      "clicks": 2,
+      "ctr": 0.439,
+      "position": 1.4,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-seat-back-panel",
+      "handle": "molle-seat-back-panel",
+      "title": "MOLLE Seat Back Panels",
+      "colId": 690112462891,
+      "colType": "smart_collections",
+      "impressions": 118,
+      "clicks": 2,
+      "ctr": 1.695,
+      "position": 10.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/sun-shades-w-molle-option",
+      "handle": "sun-shades-w-molle-option",
+      "title": "Sun Shades w/ MOLLE Option",
+      "colId": 280849809451,
+      "colType": "smart_collections",
+      "impressions": 238,
+      "clicks": 2,
+      "ctr": 0.84,
+      "position": 8.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/tailgate-molle-panel",
+      "handle": "tailgate-molle-panel",
+      "title": "Tailgate MOLLE Panel — Jeep Wrangler JL",
+      "colId": 690112430123,
+      "colType": "smart_collections",
+      "impressions": 40,
+      "clicks": 2,
+      "ctr": 5,
+      "position": 8.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2009-15-toyota-tacoma",
+      "handle": "2009-15-toyota-tacoma",
+      "title": "2009-15 Toyota® Tacoma",
+      "colId": 275664470059,
+      "colType": "smart_collections",
+      "impressions": 29,
+      "clicks": 1,
+      "ctr": 3.448,
+      "position": 4.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/accessories/fire-extinguisher-holders",
+      "handle": "accessories",
+      "title": "Accessories",
+      "colId": 275720011819,
+      "colType": "custom_collections",
+      "impressions": 5,
+      "clicks": 1,
+      "ctr": 20,
+      "position": 11.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/bull-strap-tie-downs-and-recovery",
+      "handle": "bull-strap-tie-downs-and-recovery",
+      "title": "BULL STRAP Tie Downs and Recovery",
+      "colId": 135839580183,
+      "colType": "custom_collections",
+      "impressions": 154,
+      "clicks": 1,
+      "ctr": 0.649,
+      "position": 13.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-molle-accessories",
+      "handle": "ford-bronco-molle-accessories",
+      "title": "Ford Bronco MOLLE Accessories",
+      "colId": 690112397355,
+      "colType": "smart_collections",
+      "impressions": 106,
+      "clicks": 1,
+      "ctr": 0.943,
+      "position": 12.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-storage-bags-organizers",
+      "handle": "ford-bronco-storage-bags-organizers",
+      "title": "Ford Bronco Storage Bags & Organizers",
+      "colId": 684493078571,
+      "colType": "smart_collections",
+      "impressions": 31,
+      "clicks": 1,
+      "ctr": 3.226,
+      "position": 8.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/heated-seat-covers",
+      "handle": "heated-seat-covers",
+      "title": "Heated Seat Covers",
+      "colId": 688907517995,
+      "colType": "custom_collections",
+      "impressions": 9,
+      "clicks": 1,
+      "ctr": 11.111,
+      "position": 5.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-2-door-shades-w-tactical-molle-option",
+      "handle": "jeep-wrangler-jl-2-door-shades-w-tactical-molle-option",
+      "title": "Jeep Wrangler JL 2-Door Shades w/ Tactical MOLLE Option",
+      "colId": 280849874987,
+      "colType": "smart_collections",
+      "impressions": 40,
+      "clicks": 1,
+      "ctr": 2.5,
+      "position": 19.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-fire-extinguisher-holder",
+      "handle": "jeep-wrangler-jl-fire-extinguisher-holder",
+      "title": "Jeep Wrangler JL Fire Extinguisher Holder (2018+)",
+      "colId": 688526393387,
+      "colType": "smart_collections",
+      "impressions": 14,
+      "clicks": 1,
+      "ctr": 7.143,
+      "position": 5.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-seat-covers",
+      "handle": "jeep-wrangler-jl-seat-covers",
+      "title": "Jeep Wrangler JL & JLU Seat Covers (2018+)",
+      "colId": 688526164011,
+      "colType": "smart_collections",
+      "impressions": 31,
+      "clicks": 1,
+      "ctr": 3.226,
+      "position": 8.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-storage-bags",
+      "handle": "jeep-wrangler-jl-storage-bags",
+      "title": "Jeep Wrangler JL & JLU Storage Bags (2018+)",
+      "colId": 688526622763,
+      "colType": "smart_collections",
+      "impressions": 13,
+      "clicks": 1,
+      "ctr": 7.692,
+      "position": 5.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jlu-4-door-shades-w-molle-option-bartact",
+      "handle": "jeep-wrangler-jlu-4-door-shades-w-molle-option-bartact",
+      "title": "Jeep Wrangler JLU 4-Door Shades w/ MOLLE Option | Bartact",
+      "colId": 280849350699,
+      "colType": "smart_collections",
+      "impressions": 43,
+      "clicks": 1,
+      "ctr": 2.326,
+      "position": 9.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/1997-02-wrangler-tj",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 84,
+      "clicks": 1,
+      "ctr": 1.19,
+      "position": 4.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-storage-bags-organizers",
+      "handle": "jeep-wrangler-storage-bags-organizers",
+      "title": "Jeep Wrangler Storage Bags & Organizers",
+      "colId": 684493013035,
+      "colType": "smart_collections",
+      "impressions": 14,
+      "clicks": 1,
+      "ctr": 7.143,
+      "position": 6.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/off-road-racing-seats-and-accessories-for-polaris-rzr",
+      "handle": "off-road-racing-seats-and-accessories-for-polaris-rzr",
+      "title": "Off Road Racing Seats and accessories for Polaris RZR",
+      "colId": 261740789803,
+      "colType": "smart_collections",
+      "impressions": 150,
+      "clicks": 1,
+      "ctr": 0.667,
+      "position": 20.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/plastic-rubber-grip-grab-handles",
+      "handle": "plastic-rubber-grip-grab-handles",
+      "title": "Plastic / Rubber Grip Grab Handles",
+      "colId": 265142108203,
+      "colType": "smart_collections",
+      "impressions": 208,
+      "clicks": 1,
+      "ctr": 0.481,
+      "position": 6.9,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-tacoma-2nd-gen-2005-15",
+      "handle": "toyota-tacoma-2nd-gen-2005-15",
+      "title": "Toyota Tacoma 2nd Gen 2005-15",
+      "colId": 268619513899,
+      "colType": "smart_collections",
+      "impressions": 87,
+      "clicks": 1,
+      "ctr": 1.149,
+      "position": 9.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/utv",
+      "handle": "utv",
+      "title": "UTV",
+      "colId": 173990182955,
+      "colType": "smart_collections",
+      "impressions": 147,
+      "clicks": 1,
+      "ctr": 0.68,
+      "position": 28.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/utvs-buggies-rails-suspension-limit-straps",
+      "handle": "utvs-buggies-rails-suspension-limit-straps",
+      "title": "UTV & Off-Road Suspension Limit Straps | Bartact®",
+      "colId": 688526491691,
+      "colType": "smart_collections",
+      "impressions": 35,
+      "clicks": 1,
+      "ctr": 2.857,
+      "position": 6.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2005-08-toyota-tacoma",
+      "handle": "2005-08-toyota-tacoma",
+      "title": "2005-08 Toyota® Tacoma",
+      "colId": 275664437291,
+      "colType": "smart_collections",
+      "impressions": 13,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 10.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/2016-19-toyota-tacoma-accessories",
+      "handle": "2016-19-toyota-tacoma-accessories",
+      "title": "2016-19 Toyota® Tacoma Accessories",
+      "colId": 275664502827,
+      "colType": "smart_collections",
+      "impressions": 105,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 28.1,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/accessories/jeep-gladiator",
+      "handle": "accessories",
+      "title": "Accessories",
+      "colId": 275720011819,
+      "colType": "custom_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/accessories/products/american-flag-patch-subdued-grey-pvc-rubber-2-x-3-w-velcro-hook-backing",
+      "handle": "accessories",
+      "title": "Accessories",
+      "colId": 275720011819,
+      "colType": "custom_collections",
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 27.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/2020-tacoma",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 6.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/accessories",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 3.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/cj",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 9.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/gladiator-mojave-and-392",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 12,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/jeep",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 124,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4.5,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/lego",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 10,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/paracord",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 10,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 3.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/roll-bar-accessories",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 54,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 9.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/rubicon",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/srs-air-bag-compatible",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 6,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 3.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/tactical-seat-covers-1997-current",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 179,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4.7,
+      "issues": [
+        "zero_ctr",
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": [
+        "zero_ctr (title+desc exist, needs content/keyword review)"
+      ]
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/tj-1997-2002",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/visor-covers",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 6.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/all/with-zipper",
+      "handle": "all",
+      "title": "All",
+      "colId": 137272754199,
+      "colType": "smart_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 15.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/bull-strap-heavy-duty-2-ratchet-tie-downs-10-000-lb-w-w-o-axle-strap",
+      "handle": "bull-strap-heavy-duty-2-ratchet-tie-downs-10-000-lb-w-w-o-axle-strap",
+      "title": "Bull Strap Heavy Duty 2\" Ratchet Tie Downs 10,000 LB w/ & w/o Axle Strap",
+      "colId": 274220941355,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 12.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/bull-strap-tie-downs-and-recovery/clevis",
+      "handle": "bull-strap-tie-downs-and-recovery",
+      "title": "BULL STRAP Tie Downs and Recovery",
+      "colId": 135839580183,
+      "colType": "custom_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 71,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/bull-strap-tie-downs-and-recovery/roll-bar-accessories",
+      "handle": "bull-strap-tie-downs-and-recovery",
+      "title": "BULL STRAP Tie Downs and Recovery",
+      "colId": 135839580183,
+      "colType": "custom_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/canam-products",
+      "handle": "canam-products",
+      "title": "CanAm Products",
+      "colId": 261740822571,
+      "colType": "smart_collections",
+      "impressions": 88,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 13.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/face-masks",
+      "handle": "face-masks",
+      "title": "Face Masks",
+      "colId": 158634836011,
+      "colType": "smart_collections",
+      "impressions": 2,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 5.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/fire-extinguisher-holders",
+      "handle": "fire-extinguisher-holders",
+      "title": "Fire Extinguisher Holders",
+      "colId": 688907485227,
+      "colType": "custom_collections",
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-console-organizers",
+      "handle": "ford-bronco-console-organizers",
+      "title": "Ford Bronco Console Organizers & Storage",
+      "colId": 690112331819,
+      "colType": "smart_collections",
+      "impressions": 16,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/ford-bronco-storage-bags",
+      "handle": "ford-bronco-storage-bags",
+      "title": "Ford Bronco Storage Bags & Accessories (2021+)",
+      "colId": 688526786603,
+      "colType": "smart_collections",
+      "impressions": 15,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-bronco-4runner-tacoma-truck-parts",
+      "handle": "jeep-bronco-4runner-tacoma-truck-parts",
+      "title": "Jeep, Bronco, 4Runner, Tacoma, & Truck Parts",
+      "colId": 173990379563,
+      "colType": "smart_collections",
+      "impressions": 31,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-grab-handles",
+      "handle": "jeep-gladiator-grab-handles",
+      "title": "Jeep Gladiator Grab Handles",
+      "colId": 688348889131,
+      "colType": "smart_collections",
+      "impressions": 56,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-storage-bags-organizers",
+      "handle": "jeep-gladiator-storage-bags-organizers",
+      "title": "Jeep Gladiator Storage Bags & Organizers",
+      "colId": 684493045803,
+      "colType": "smart_collections",
+      "impressions": 13,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-sun-shades",
+      "handle": "jeep-gladiator-sun-shades",
+      "title": "Jeep Gladiator Sun Shades with MOLLE",
+      "colId": 690112856107,
+      "colType": "smart_collections",
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 28.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-gladiator-sun-shades-w-molle-option",
+      "handle": "jeep-gladiator-sun-shades-w-molle-option",
+      "title": "Jeep Gladiator Sun Shades w/ MOLLE Option",
+      "colId": 280849907755,
+      "colType": "smart_collections",
+      "impressions": 31,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-grab-handles",
+      "handle": "jeep-grab-handles",
+      "title": "Jeep Grab Handles",
+      "colId": 688907452459,
+      "colType": "custom_collections",
+      "impressions": 18,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-grab-handles",
+      "handle": "jeep-wrangler-grab-handles",
+      "title": "Jeep Wrangler Grab Handles",
+      "colId": 688348856363,
+      "colType": "smart_collections",
+      "impressions": 4,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 10.3,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jk-fire-extinguisher-holder",
+      "handle": "jeep-wrangler-jk-fire-extinguisher-holder",
+      "title": "Jeep Wrangler JK Fire Extinguisher Holder (2007-2018)",
+      "colId": 688526426155,
+      "colType": "smart_collections",
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jk-jku-grab-handles",
+      "handle": "jeep-wrangler-jk-jku-grab-handles",
+      "title": "Jeep Wrangler JK & JKU Grab Handles (2007-2018)",
+      "colId": 688525705259,
+      "colType": "smart_collections",
+      "impressions": 14,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 16.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jk-molle-accessories",
+      "handle": "jeep-wrangler-jk-molle-accessories",
+      "title": "Jeep Wrangler JK & JKU MOLLE Accessories (2007-2018)",
+      "colId": 688526229547,
+      "colType": "smart_collections",
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jk-seat-covers",
+      "handle": "jeep-wrangler-jk-seat-covers",
+      "title": "Jeep Wrangler JK Seat Covers",
+      "colId": 687837380651,
+      "colType": "custom_collections",
+      "impressions": 33,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-door-storage-bags",
+      "handle": "jeep-wrangler-jl-door-storage-bags",
+      "title": "Jeep Wrangler JL Door Interior Storage Bags",
+      "colId": 692349763627,
+      "colType": "custom_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-grab-handles",
+      "handle": "jeep-wrangler-jl-jlu-grab-handles",
+      "title": "Jeep Wrangler JL & JLU Grab Handles (2018+)",
+      "colId": 688525672491,
+      "colType": "smart_collections",
+      "impressions": 10,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-jl-sun-shades",
+      "handle": "jeep-wrangler-jl-sun-shades",
+      "title": "Jeep Wrangler JL Sun Shades with MOLLE",
+      "colId": 690112921643,
+      "colType": "smart_collections",
+      "impressions": 30,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/2005-08-tacoma",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/2011-12-wrangler-jk-jku",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/accessories",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 38,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/headrest-covers",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 17,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 5.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/jl",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 33,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/jl-2-door",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 12,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/srs-air-bag-compatible",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 75,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/toyota-tacoma",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-seat-covers/waterproof",
+      "handle": "jeep-wrangler-seat-covers",
+      "title": "Jeep Wrangler Seat Covers",
+      "colId": 275720732715,
+      "colType": "custom_collections",
+      "impressions": 1,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/jeep-wrangler-tj-lj-grab-handles",
+      "handle": "jeep-wrangler-tj-lj-grab-handles",
+      "title": "Jeep Wrangler TJ & LJ Grab Handles (1997-2006)",
+      "colId": 688525738027,
+      "colType": "smart_collections",
+      "impressions": 26,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 6.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/keychains",
+      "handle": "keychains",
+      "title": "Keychains",
+      "colId": 281623822379,
+      "colType": "custom_collections",
+      "impressions": 9,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/miscellaneous-1/visor-covers",
+      "handle": "miscellaneous-1",
+      "title": "Miscellaneous",
+      "colId": 137430892567,
+      "colType": "custom_collections",
+      "impressions": 9,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-accessories/accessories",
+      "handle": "molle-accessories",
+      "title": "MOLLE Accessories",
+      "colId": 137429778455,
+      "colType": "smart_collections",
+      "impressions": 21,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 29.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-accessories/base-line-seat-covers-1997-current",
+      "handle": "molle-accessories",
+      "title": "MOLLE Accessories",
+      "colId": 137429778455,
+      "colType": "smart_collections",
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-accessories/gear",
+      "handle": "molle-accessories",
+      "title": "MOLLE Accessories",
+      "colId": 137429778455,
+      "colType": "smart_collections",
+      "impressions": 13,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 12.5,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-accessories/toyota-4runner",
+      "handle": "molle-accessories",
+      "title": "MOLLE Accessories",
+      "colId": 137429778455,
+      "colType": "smart_collections",
+      "impressions": 7,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 9.6,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/molle-storage-strips",
+      "handle": "molle-storage-strips",
+      "title": "MOLLE Storage Strips",
+      "colId": 137405857815,
+      "colType": "smart_collections",
+      "impressions": 5,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.4,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/new-products/jeep-gladiator",
+      "handle": "new-products",
+      "title": "New Products",
+      "colId": 219013317,
+      "colType": "custom_collections",
+      "impressions": 6,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 8.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/paracord-grab-handles/utv",
+      "handle": "paracord-grab-handles",
+      "title": "Paracord Grab Handles",
+      "colId": 73832005,
+      "colType": "custom_collections",
+      "impressions": 11,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 2.2,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/roll-bar-fire-extinguisher-holder",
+      "handle": "roll-bar-fire-extinguisher-holder",
+      "title": "Roll Bar Fire Extinguisher Holder | Bartact®",
+      "colId": 688526360619,
+      "colType": "smart_collections",
+      "impressions": 21,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.9,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/spare-tire-cargo-bags",
+      "handle": "spare-tire-cargo-bags",
+      "title": "Spare Tire & Cargo Bags — Jeep Wrangler & Bronco",
+      "colId": 690112495659,
+      "colType": "smart_collections",
+      "impressions": 4,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 7.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-tacoma-seat-covers-1",
+      "handle": "toyota-tacoma-seat-covers-1",
+      "title": "Toyota Tacoma Seat Covers",
+      "colId": 261741871147,
+      "colType": "smart_collections",
+      "impressions": 44,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 4.8,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/toyota-tacoma-seat-covers/2003-06-wrangler-tj",
+      "handle": "toyota-tacoma-seat-covers",
+      "title": "Toyota Tacoma Seat Covers",
+      "colId": 275721355307,
+      "colType": "custom_collections",
+      "impressions": 3,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 3.7,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    },
+    {
+      "url": "https://www.bartact.com/collections/winch-fairlead-winch-accessories-winch-recovery",
+      "handle": "winch-fairlead-winch-accessories-winch-recovery",
+      "title": "Winch Fairlead|Winch Accessories|Winch & Recovery",
+      "colId": 137241034775,
+      "colType": "custom_collections",
+      "impressions": 91,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 19.1,
+      "issues": [
+        "thin_content (0w < 500w minimum)"
+      ],
+      "fixed": [],
+      "unfixable": []
+    }
+  ],
+  "summary": {
+    "missingTitle": 0,
+    "missingDescription": 0,
+    "zeroCTR": 6
+  }
+}

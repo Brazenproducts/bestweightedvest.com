@@ -1,0 +1,54 @@
+{
+  "runDate": "2026-09-14T14:00:00Z",
+  "runDay": "Monday",
+  "window": "2026-08-31 \u2192 2026-09-13",
+  "step1_gscKeywords": "\u2705 1000 keywords, 8 zero-CTR",
+  "step2_gscPages": "\u2705 1000 pages, 38 zero-CTR",
+  "step3_nearMisses": "\u2705 32 near-miss pages (pos 11-20)",
+  "step4_shopifyFixes": "\u2705 10 pages fixed",
+  "step5_indexNow": "\u2705 10 URLs submitted",
+  "step6_queueUpdate": "\u2705 10 new URLs in queue",
+  "newIssues": [
+    "Could not compare \u2014 no prior pipeline data available"
+  ],
+  "zeroCtrAlerts": [
+    {
+      "kw": "tactical seat covers",
+      "pos": 11.0,
+      "impressions": 4091,
+      "ctr": 0.22
+    },
+    {
+      "kw": "roll bar fire extinguisher mount",
+      "pos": 6.9,
+      "impressions": 1598,
+      "ctr": 0.13
+    },
+    {
+      "kw": "toyota tacoma seat covers",
+      "pos": 9.8,
+      "impressions": 593,
+      "ctr": 0.17
+    },
+    {
+      "kw": "winch cover",
+      "pos": 5.9,
+      "impressions": 577,
+      "ctr": 0.17
+    },
+    {
+      "kw": "jeep grab handles",
+      "pos": 4.5,
+      "impressions": 310,
+      "ctr": 0.32
+    }
+  ],
+  "keyMetrics": {
+    "totalKeywords": 1000,
+    "totalPages": 1000,
+    "zeroCtrKeywords": 8,
+    "zeroCtrPages": 38,
+    "nearMissPages": 32
+  },
+  "overallStatus": "COMPLETED"
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-07",
+  "hero": {
+    "title": "New Coral Reef Discovered Thriving Under High-Temperature Pacific Waters",
+    "body": "Marine biologists off the coast of Papua New Guinea have discovered a previously unknown coral reef system spanning 12 square miles that appears resistant to warming ocean temperatures. The reef, nicknamed 'Phoenix Garden,' contains at least 47 coral species and could provide crucial genetic material for reef restoration efforts worldwide. Research teams are already studying the corals' unique heat-tolerance mechanisms.",
+    "category": "Science",
+    "imageKeyword": "coral"
+  },
+  "quote": {
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "Finland Becomes First Country to Eliminate Childhood Homelessness",
+          "excerpt": "After a decade-long initiative combining social housing, family support services, and preventive intervention, Finland has officially reported zero children living without permanent housing. The model, which prioritizes rapid rehousing over temporary shelters, is now being studied by 23 other nations.",
+          "category": "Community",
+          "imageKeyword": "family"
+        },
+        {
+          "title": "Revolutionary Blood Test Detects Parkinson's 15 Years Before Symptoms",
+          "excerpt": "Researchers at Johns Hopkins have developed a simple blood test that identifies Parkinson's disease biomarkers up to 15 years before motor symptoms appear. Early trials show that intervention at this stage can slow disease progression by up to 70%. The test could be available in clinics by early 2027.",
+          "category": "Health",
+          "imageKeyword": "laboratory"
+        },
+        {
+          "title": "Solar-Powered Desalination Plant Opens in Morocco, Serves 2 Million",
+          "excerpt": "The world's largest solar-powered desalination facility has begun operations near Agadir, providing clean drinking water to over 2 million people in southern Morocco. The plant produces 275,000 cubic meters of fresh water daily using zero fossil fuels and has already reduced regional water costs by 40%.",
+          "category": "Technology",
+          "imageKeyword": "solar"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "California Condor Population Reaches 1,000 for First Time Since 1800s",
+          "excerpt": "Conservationists are celebrating as the California condor population has officially surpassed 1,000 birds, up from just 22 in 1982. The milestone comes after decades of captive breeding, habitat protection, and the elimination of lead ammunition in key regions. Wild breeding pairs have increased by 34% in the past three years alone.",
+          "category": "Wildlife",
+          "imageKeyword": "condor"
+        },
+        {
+          "title": "Rescued Elephant Herd Relocated to New 50,000-Acre Sanctuary in Kenya",
+          "excerpt": "Thirty-seven elephants rescued from drought conditions and human-wildlife conflict zones have been successfully relocated to the newly established Tsavo Extended Wildlife Corridor. The sanctuary connects two major parks, allowing elephants to roam freely across ancestral migration routes for the first time in decades.",
+          "category": "Wildlife",
+          "imageKeyword": "elephant"
+        },
+        {
+          "title": "New Zealand's Takahē Bird Removed from Critical Endangered List",
+          "excerpt": "The flightless takahē, once believed extinct for 50 years before its rediscovery in 1948, has been downgraded from 'critically endangered' to 'endangered' status. Conservation efforts have increased the population from 118 to over 500 birds across predator-free sanctuaries and islands throughout New Zealand.",
+          "category": "Wildlife",
+          "imageKeyword": "bird"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Detroit's Urban Farm Network Now Feeds 40,000 Families Weekly",
+          "excerpt": "What began as a handful of vacant lot gardens has grown into a 1,400-acre network of urban farms across Detroit, now providing fresh produce to 40,000 families each week. The initiative has also created 800 full-time jobs and transformed over 200 blighted properties into productive green spaces.",
+          "category": "Community",
+          "imageKeyword": "garden"
+        },
+        {
+          "title": "78-Year-Old Grandmother Teaches 5,000th Student to Read",
+          "excerpt": "Retired teacher Eleanor Washington of Birmingham, Alabama, has reached a remarkable milestone: 5,000 adults taught to read through her free weekend literacy program. Started in her living room 31 years ago, the program now operates from four community centers and has a waiting list of 200 eager learners.",
+          "category": "Education",
+          "imageKeyword": "reading"
+        },
+        {
+          "title": "Japanese Village Converts Old School into Thriving Multigenerational Hub",
+          "excerpt": "The rural village of Kamiyama has transformed its abandoned elementary school into a community center where seniors teach traditional crafts to remote workers and their children. The project has reversed population decline, with 47 families relocating to the village in the past year alone.",
+          "category": "Community",
+          "imageKeyword": "village"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Mountaineer Summits All Seven Peaks, Raises $4 Million for Vision Research",
+          "excerpt": "Erik Lindström, 34, has become the first completely blind person to summit the highest peak on every continent after reaching the top of Denali last week. His journey, documented by millions worldwide, has raised $4 million for gene therapy research that could restore sight to people with his condition.",
+          "category": "Inspiration",
+          "imageKeyword": "mountain"
+        },
+        {
+          "title": "Former Refugee Opens 50th Restaurant, All Proceeds Fund Education",
+          "excerpt": "Syrian refugee Nadia Hammoud, who arrived in Canada with nothing in 2016, has opened her 50th 'Hope Kitchen' location across North America. Every restaurant operates as a social enterprise, with all profits funding scholarships for refugee students—over 2,300 students supported so far.",
+          "category": "Inspiration",
+          "imageKeyword": "restaurant"
+        },
+        {
+          "title": "Teen's App Connects 100,000 Isolated Seniors with Volunteer Companions",
+          "excerpt": "When 16-year-old Marcus Chen noticed his grandfather's loneliness during the pandemic, he built a simple app matching seniors with young volunteers for weekly video calls. Six years later, 'GrandConnect' operates in 12 countries and has facilitated over 3 million hours of companionship conversations.",
+          "category": "Inspiration",
+          "imageKeyword": "connection"
+        }
+      ]
+    }
+  ]
+}

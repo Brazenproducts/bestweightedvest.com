@@ -1,0 +1,49 @@
+{
+  "bartact": {
+    "lastPublished": "2026-09-19T21:01:06.195Z",
+    "publishedCount": 5,
+    "queue": [
+      {
+        "title": "Neoprene vs Canvas Seat Covers for Jeep — Which Material Wins?",
+        "handle": "neoprene-vs-canvas-seat-covers-jeep",
+        "tags": "comparison,materials,neoprene,canvas,jeep"
+      },
+      {
+        "title": "Best Jeep Gladiator Seat Covers — Front + Rear Options",
+        "handle": "best-jeep-gladiator-seat-covers",
+        "tags": "gladiator,jeep,seat-covers,jt"
+      },
+      {
+        "title": "Waterproof Jeep Seat Covers — Do You Really Need Them?",
+        "handle": "waterproof-jeep-seat-covers",
+        "tags": "waterproof,jeep,seat-covers,offroad"
+      }
+    ]
+  },
+  "bullstrap": {
+    "lastPublished": "2026-09-19T21:01:07.053Z",
+    "publishedCount": 4,
+    "queue": [
+      {
+        "title": "How to Install Limit Straps — Front and Rear (Step by Step)",
+        "handle": "how-to-install-limit-straps",
+        "tags": "installation,limit-straps,howto,suspension"
+      },
+      {
+        "title": "Limit Strap Mount Locations — Where to Attach Front and Rear Straps",
+        "handle": "limit-strap-mount-locations",
+        "tags": "mounting,limit-straps,installation,suspension"
+      },
+      {
+        "title": "Best Limit Straps for Jeep Wrangler — JK, JL, and Gladiator",
+        "handle": "best-limit-straps-jeep-wrangler",
+        "tags": "jeep,wrangler,gladiator,limit-straps"
+      },
+      {
+        "title": "Suspension Travel and Limit Straps — How Much Droop is Too Much?",
+        "handle": "suspension-travel-limit-straps-droop",
+        "tags": "suspension-travel,droop,limit-straps,off-road"
+      }
+    ]
+  }
+}

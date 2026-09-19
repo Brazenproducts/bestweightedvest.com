@@ -1,0 +1,28 @@
+{
+  "comment": "Pages fixed within the last 30 days — suppress zero-CTR alerts until GSC data catches up",
+  "fixed": [
+    {"handle": "kitchen-fire-extinguishers", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "accessories", "fixedAt": "2026-09-14", "what": "title+desc rewritten"},
+    {"handle": "2020-24-toyota-tacoma-accessories", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "toyota-4runner-accessories", "fixedAt": "2026-09-14", "what": "title+desc set, corrected to seat-covers"},
+    {"handle": "toyota-tacoma-seat-covers-accessories-2005-15-2016-2019-2020-2024", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "morale-patches", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "winch-shackles", "fixedAt": "2026-09-14", "what": "title+desc rewritten with winch shackles keyword"},
+    {"handle": "jeep-gladiator-seat-covers-1", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "utv-seats-accessories", "fixedAt": "2026-09-14", "what": "title+desc set"},
+    {"handle": "new-products", "fixedAt": "2026-09-14", "what": "noindexed via theme.liquid"},
+    {"handle": "best-sellers", "fixedAt": "2026-09-14", "what": "noindexed via theme.liquid"},
+    {"handle": "roll-bar-fire-extinguisher-holder", "fixedAt": "2026-09-11", "what": "content expanded + title fixed to include mount"},
+    {"handle": "seat-covers", "fixedAt": "2026-09-11", "what": "title+desc updated with tactical keywords"},
+    {"handle": "grab-handles-for-jeep-wrangler-gladiator-ford-bronco-utvs-buggies-rails", "fixedAt": "2026-09-11", "what": "title+desc updated"},
+    {"handle": "ford-bronco-grab-handles", "fixedAt": "2026-09-12", "what": "new collection created with full SEO"},
+    {"handle": "tactical-seat-covers", "fixedAt": "2026-09-12", "what": "new collection created with full SEO"},
+    {"handle": "toyota-4runner-seat-covers", "fixedAt": "2026-09-12", "what": "title+desc updated"},
+    {"handle": "ford-bronco-accessories-2021-2022-2023", "fixedAt": "2026-09-12", "what": "internal links added"}
+  ],
+  "noindexed": [
+    "new-products",
+    "best-sellers"
+  ],
+  "suppressDays": 30
+}

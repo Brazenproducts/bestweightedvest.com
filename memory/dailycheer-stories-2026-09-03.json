@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-03",
+  "hero": {
+    "title": "Teen Invents Low-Cost Water Filter Now Serving 50,000 in Kenya",
+    "body": "Seventeen-year-old Maya Chen from Portland developed a biodegradable water filtration system using agricultural waste that costs just $3 to produce. After winning the Global Youth Innovation Prize last spring, her design has been deployed across 47 villages in rural Kenya, providing clean drinking water to over 50,000 residents. Local health clinics report a 68% reduction in waterborne illness cases since installation began.",
+    "category": "Technology",
+    "imageKeyword": "water"
+  },
+  "quote": {
+    "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "New Coral Reef Discovery Off Australian Coast Stuns Scientists",
+          "excerpt": "Marine biologists have discovered a thriving reef system spanning 12 kilometers near the Great Barrier Reef, untouched by recent bleaching events. The reef hosts at least 40 species previously thought extinct in the region, offering new hope for coral conservation efforts.",
+          "category": "Environment",
+          "imageKeyword": "coral"
+        },
+        {
+          "title": "Philadelphia Hospital Eliminates Medical Debt for 14,000 Patients",
+          "excerpt": "Temple University Hospital announced it has forgiven $28 million in outstanding medical debt affecting low-income patients across the city. The program, funded by a combination of federal grants and private donations, will also provide ongoing financial counseling to prevent future debt accumulation.",
+          "category": "Health",
+          "imageKeyword": "hospital"
+        },
+        {
+          "title": "Ancient Library Texts Recovered Using AI After 2,000 Years",
+          "excerpt": "Researchers at Oxford have successfully reconstructed 800 previously unreadable scrolls from Herculaneum using advanced machine learning algorithms. The recovered texts include lost works by Greek philosophers and detailed accounts of daily life in ancient Rome.",
+          "category": "Science",
+          "imageKeyword": "scrolls"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "California Condor Population Reaches Historic Milestone",
+          "excerpt": "Wildlife officials confirmed that the California condor population has surpassed 1,000 individuals for the first time since the 1800s. The species, which dropped to just 22 birds in 1982, now thrives across protected habitats from Big Sur to Baja California.",
+          "category": "Wildlife",
+          "imageKeyword": "condor"
+        },
+        {
+          "title": "Rescued Elephant Forms Unlikely Bond with Orphaned Hippo",
+          "excerpt": "At Kenya's Sheldrick Wildlife Trust, a three-year-old elephant named Kibo has become the constant companion of Maji, a baby hippo whose mother was lost to poachers. Caretakers say the pair sleep side by side and share meals, demonstrating remarkable cross-species empathy.",
+          "category": "Wildlife",
+          "imageKeyword": "elephant"
+        },
+        {
+          "title": "New Zealand's Takahē Bird No Longer Critically Endangered",
+          "excerpt": "Conservation officials have officially downlisted the flightless takahē from critically endangered to endangered after the population reached 500 birds. Intensive breeding programs and predator-free sanctuaries have helped the vibrant blue bird recover from near-extinction in the 1950s.",
+          "category": "Wildlife",
+          "imageKeyword": "bird"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Detroit Neighborhood Transforms Abandoned Lots into Urban Farm Network",
+          "excerpt": "Residents of Detroit's Brightmoor district have converted 34 vacant lots into a connected urban farm system producing over 15,000 pounds of fresh produce monthly. The initiative employs 45 formerly incarcerated individuals and supplies free vegetables to six local food pantries.",
+          "category": "Community",
+          "imageKeyword": "garden"
+        },
+        {
+          "title": "90-Year-Old Crossing Guard Honored with Scholarship in Her Name",
+          "excerpt": "After 35 years helping children safely cross to Lincoln Elementary in Minneapolis, Martha Reynolds was surprised with a $100,000 scholarship fund established in her honor. Local businesses and families contributed to the fund, which will support college-bound students from her crossing route.",
+          "category": "Community",
+          "imageKeyword": "school"
+        },
+        {
+          "title": "Rival High Schools Unite to Rebuild Coach's Home After Fire",
+          "excerpt": "Students from competing football programs in rural Georgia spent their summer break rebuilding the home of beloved coach James Turner, who lost everything in a house fire. Over 200 teens from five different schools volunteered more than 3,000 combined hours on the project.",
+          "category": "Community",
+          "imageKeyword": "volunteers"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Photographer's Exhibition Sells Out in Record Time",
+          "excerpt": "Marcus Webb, who lost his sight at 30, has sold every piece in his London gallery exhibition featuring photographs he composes using spatial audio and texture-based techniques. His work challenges perceptions of disability and has inspired photography workshops for visually impaired artists worldwide.",
+          "category": "Arts",
+          "imageKeyword": "photography"
+        },
+        {
+          "title": "Former Homeless Man Opens Restaurant Employing Shelter Residents",
+          "excerpt": "After spending eight years on Chicago's streets, David Morales now runs a thriving restaurant that exclusively hires people transitioning out of homelessness. His establishment, Second Helpings, has helped 89 employees find permanent housing over the past two years.",
+          "category": "Community",
+          "imageKeyword": "restaurant"
+        },
+        {
+          "title": "Eight-Year-Old Raises $250,000 for Children's Cancer Research",
+          "excerpt": "After losing her best friend to leukemia, young Emma Rodriguez of San Antonio organized 47 lemonade stands across Texas this summer. Her efforts raised a quarter-million dollars for pediatric cancer research, and she's been invited to address the National Institutes of Health.",
+          "category": "Health",
+          "imageKeyword": "lemonade"
+        }
+      ]
+    }
+  ]
+}

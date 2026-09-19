@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-02",
+  "hero": {
+    "title": "Teen Inventor Creates Low-Cost Water Filter Saving Village Lives",
+    "body": "Seventeen-year-old Priya Sharma from rural Maharashtra has developed a solar-powered water purification system costing just $12 to build. Her invention, made from locally available materials, has already been deployed in 34 villages across India, providing clean drinking water to over 15,000 people. The WHO has partnered with her nonprofit to scale production across Southeast Asia.",
+    "category": "Technology",
+    "imageKeyword": "waterfilter"
+  },
+  "quote": {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "New Coral Species Discovered Thriving in Warming Waters",
+          "excerpt": "Marine biologists off the coast of Papua New Guinea have identified three new coral species that appear naturally resistant to ocean warming. The discovery offers hope for reef restoration efforts worldwide and is being studied for potential transplantation to struggling reef systems.",
+          "category": "Science",
+          "imageKeyword": "coral"
+        },
+        {
+          "title": "Amsterdam Becomes First Major City to Hit Net-Zero Emissions",
+          "excerpt": "After a decade-long initiative combining green infrastructure, cycling expansion, and renewable energy mandates, Amsterdam has officially reached net-zero carbon emissions. The city now generates more clean energy than it consumes, with excess power flowing to neighboring regions.",
+          "category": "Environment",
+          "imageKeyword": "amsterdam"
+        },
+        {
+          "title": "Free Music Therapy Program Reduces PTSD in Veterans by 40%",
+          "excerpt": "A three-year study by Johns Hopkins University found that weekly group music sessions significantly reduced PTSD symptoms in combat veterans. The program, now funded federally, will expand to all VA hospitals by year's end.",
+          "category": "Health",
+          "imageKeyword": "musictherapy"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "California Condor Population Reaches 1,000 for First Time",
+          "excerpt": "Conservation officials announced that California condors have surpassed 1,000 individuals in the wild, a remarkable recovery from just 22 birds in 1982. The milestone comes after decades of captive breeding and habitat protection across the American Southwest.",
+          "category": "Wildlife",
+          "imageKeyword": "condor"
+        },
+        {
+          "title": "Rescued Elephant Herd Released Into New Protected Sanctuary",
+          "excerpt": "Twelve elephants rescued from illegal logging operations in Myanmar have been successfully released into a newly established 50,000-acre sanctuary. Satellite tracking shows the herd has already begun natural foraging behaviors and social bonding.",
+          "category": "Wildlife",
+          "imageKeyword": "elephant"
+        },
+        {
+          "title": "New Zealand's Takahē Bird No Longer Critically Endangered",
+          "excerpt": "The flightless takahē, once thought extinct, has been reclassified from critically endangered to vulnerable after conservation efforts boosted wild populations to over 500 birds. Predator-free islands have been key to protecting nesting sites.",
+          "category": "Wildlife",
+          "imageKeyword": "takahe"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Retired Teachers Launch Free Tutoring Network Across Detroit",
+          "excerpt": "A group of 200 retired educators has created a volunteer tutoring network serving 3,000 Detroit students weekly. Early results show participating students improved reading scores by an average of two grade levels in just six months.",
+          "category": "Community",
+          "imageKeyword": "tutoring"
+        },
+        {
+          "title": "Neighbors Rebuild Home for Elderly Couple After Fire",
+          "excerpt": "When Harold and Betty Morrison lost their home of 50 years to an electrical fire, their Portland neighborhood raised $180,000 and organized volunteer labor. The couple moved into their fully rebuilt home this week, mortgage-free.",
+          "category": "Community",
+          "imageKeyword": "homebuilding"
+        },
+        {
+          "title": "Immigrant-Run Bakery Trains Refugees in Culinary Arts",
+          "excerpt": "A Brooklyn bakery founded by Syrian refugees has launched a free culinary training program for newly arrived immigrants. Over 60 graduates have secured restaurant jobs, and three have opened their own food businesses this year.",
+          "category": "Community",
+          "imageKeyword": "bakery"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Marathon Runner Completes All Seven Continent Challenge",
+          "excerpt": "Japanese runner Kenji Tanaka, who lost his sight at age 30, has completed marathons on all seven continents with the help of guide runners. His journey has raised $2.3 million for blindness prevention programs worldwide.",
+          "category": "Inspiration",
+          "imageKeyword": "marathon"
+        },
+        {
+          "title": "82-Year-Old Grandmother Earns PhD in Astrophysics",
+          "excerpt": "Margaret Chen of Toronto has become one of the oldest people to earn a doctorate in astrophysics, defending her dissertation on dark matter distribution. She began her studies at 74 after a lifelong dream deferred by family responsibilities.",
+          "category": "Inspiration",
+          "imageKeyword": "graduation"
+        },
+        {
+          "title": "Former Homeless Artist's Murals Now Displayed in Smithsonian",
+          "excerpt": "Marcus Williams, who spent eight years living on the streets of Chicago, has had three of his paintings acquired by the Smithsonian American Art Museum. His work depicting urban resilience has sparked a national conversation about art access and homelessness.",
+          "category": "Inspiration",
+          "imageKeyword": "mural"
+        }
+      ]
+    }
+  ]
+}

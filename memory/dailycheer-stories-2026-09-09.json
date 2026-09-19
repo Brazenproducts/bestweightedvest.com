@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-09",
+  "hero": {
+    "title": "Teen Inventor's Water Filter Now Purifies Water for 500,000 Kenyans",
+    "body": "Nineteen-year-old Amara Okonkwo's solar-powered filtration system, which she first prototyped in her Nairobi garage at age 15, has now been installed in 47 rural communities across Kenya. The low-cost device removes 99.7% of waterborne pathogens and requires no electricity grid, dramatically reducing childhood illness rates in regions where clean water was previously a two-hour walk away.",
+    "category": "Technology",
+    "imageKeyword": "water"
+  },
+  "quote": {
+    "text": "We are not makers of history. We are made by history.",
+    "author": "Martin Luther King Jr."
+  },
+  "sections": [
+    {
+      "heading": "Good News",
+      "emoji": "🌟",
+      "cards": [
+        {
+          "title": "New Coral Spawning Technique Restores 12 Miles of Great Barrier Reef",
+          "excerpt": "Marine biologists at James Cook University have successfully triggered synchronized coral spawning using innovative light and temperature manipulation. The restored section now shows 340% more fish biodiversity than neighboring degraded areas, offering a scalable model for reef recovery worldwide.",
+          "category": "Environment",
+          "imageKeyword": "coral"
+        },
+        {
+          "title": "FDA Approves First Universal Flu Vaccine After Successful Trials",
+          "excerpt": "After decades of research, Moderna's single-shot vaccine provides protection against all known influenza strains for up to five years. Clinical trials involving 45,000 participants showed 94% efficacy, potentially ending the era of annual flu shots and seasonal outbreaks.",
+          "category": "Health",
+          "imageKeyword": "vaccine"
+        },
+        {
+          "title": "Detroit Public Libraries Launch Free Music Instrument Lending Program",
+          "excerpt": "Residents can now borrow guitars, violins, keyboards, and 23 other instruments with their library card through a new citywide initiative. The program, funded by a $2.3 million grant, has already seen 4,000 checkouts in its first month, with youth participation exceeding expectations.",
+          "category": "Arts",
+          "imageKeyword": "guitar"
+        }
+      ]
+    },
+    {
+      "heading": "Animals",
+      "emoji": "🐾",
+      "cards": [
+        {
+          "title": "Wild Iberian Lynx Population Surpasses 2,000 for First Time in Century",
+          "excerpt": "Once down to just 94 individuals in 2002, the Iberian lynx has made a remarkable comeback thanks to coordinated conservation efforts across Spain and Portugal. Researchers confirmed 47 new cubs born this spring alone, marking the species' official reclassification from Endangered to Vulnerable.",
+          "category": "Wildlife",
+          "imageKeyword": "lynx"
+        },
+        {
+          "title": "Rescued Elephant Reunites with Herd After Three Years of Rehabilitation",
+          "excerpt": "Noor, a seven-year-old elephant who was found orphaned and injured by poachers in Karnataka, India, successfully rejoined her original herd last week. Wildlife officials tracked her integration using GPS collars and observed her being welcomed with trunk touches by her surviving aunt.",
+          "category": "Wildlife",
+          "imageKeyword": "elephant"
+        },
+        {
+          "title": "New Zealand's Kākāpō Population Reaches 300 After Record Breeding Season",
+          "excerpt": "The world's only flightless parrot has achieved its highest population count since conservation efforts began in the 1990s. Rangers on Whenua Hou island report 55 chicks survived to fledging this year, aided by supplemental feeding programs and innovative fertility treatments.",
+          "category": "Wildlife",
+          "imageKeyword": "parrot"
+        }
+      ]
+    },
+    {
+      "heading": "Community",
+      "emoji": "🤝",
+      "cards": [
+        {
+          "title": "Portland Neighbors Convert Abandoned Lot into Thriving Food Forest",
+          "excerpt": "What was once a dumping ground in the Cully neighborhood is now a 2.5-acre food forest producing free fruits, vegetables, and herbs for 600 local families. Volunteers from 14 different cultural backgrounds collaborated on the design, incorporating plants from their home countries.",
+          "category": "Community",
+          "imageKeyword": "garden"
+        },
+        {
+          "title": "Retired Teachers Form Free Tutoring Network Serving 3,000 Rural Students",
+          "excerpt": "A grassroots organization called Silver Scholars has connected 280 retired educators with students in underserved Appalachian communities via weekly video sessions. Math and reading scores among participants improved by an average of 23% over the past school year.",
+          "category": "Community",
+          "imageKeyword": "tutoring"
+        },
+        {
+          "title": "Barcelona Launches Intergenerational Housing Where Students Live with Seniors",
+          "excerpt": "University students receive free rent in exchange for spending 15 hours weekly with elderly residents in a new 120-unit complex. The program has reduced reported loneliness among senior participants by 67% while helping students avoid the city's housing crisis.",
+          "category": "Community",
+          "imageKeyword": "elderly"
+        }
+      ]
+    },
+    {
+      "heading": "Inspiration",
+      "emoji": "✨",
+      "cards": [
+        {
+          "title": "Blind Marathon Runner Completes All Seven Continents with Guide Dog",
+          "excerpt": "Thirty-four-year-old Kenji Watanabe and his guide dog Hoshi crossed the finish line in Antarctica last week, completing their seven-continent marathon quest. The pair raised $1.2 million for organizations training service animals in developing countries throughout their four-year journey.",
+          "category": "Inspiration",
+          "imageKeyword": "marathon"
+        },
+        {
+          "title": "Former Refugee Now Leads Largest Immigrant Legal Aid Center in Texas",
+          "excerpt": "Fatima Al-Hassan, who arrived in Houston as a Syrian refugee in 2016 without speaking English, passed the bar exam last year and now directs a nonprofit serving 8,000 asylum seekers annually. Her organization boasts a 78% success rate in immigration cases.",
+          "category": "Inspiration",
+          "imageKeyword": "lawyer"
+        },
+        {
+          "title": "Eight-Year-Old's Letter Campaign Brings Braille Menus to 200 Restaurants",
+          "excerpt": "After her blind grandmother couldn't read a menu during a birthday dinner, young Maya Thompson wrote to restaurant owners across Minnesota requesting accessibility improvements. Her heartfelt letters went viral, prompting chains including Olive Garden and Applebee's to adopt Braille menus nationwide.",
+          "category": "Inspiration",
+          "imageKeyword": "braille"
+        }
+      ]
+    }
+  ]
+}

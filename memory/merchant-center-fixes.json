@@ -1,0 +1,93 @@
+{
+  "run_at": "2026-09-05T03:35:18.492410+00:00",
+  "merchant_id": 5676911172,
+  "total_products_with_issues": 7328,
+  "fixes_attempted": {
+    "cpb_excluded": 29,
+    "price_sync": 3,
+    "gun_fix": 1,
+    "apparel_attrs": 7
+  },
+  "fixes_successful": {
+    "cpb_tagged": 29,
+    "price_sync": 3,
+    "gun_fix": 1,
+    "apparel_attrs": 7
+  },
+  "errors": [
+    "product 7242034380843 (Damron Bottoms Only): no images - needs manual attention",
+    "product 7242034380843 (Damron Bottoms Only): no images - needs manual attention",
+    "product 7242034380843 (Damron Bottoms Only): no images - needs manual attention"
+  ],
+  "issue_summary": {
+    "not_eligible_in_any_campaign": 5993,
+    "not_eligible_out_of_stock": 1609,
+    "landing_page_crawling_not_allowed": 100,
+    "item_missing_required_attribute": 3,
+    "missing_item_attribute_for_product_type": 42,
+    "image_link_pending_crawl": 4,
+    "price_mismatch": 5,
+    "local_stores_lack_supported_inventory": 2,
+    "guns_parts_policy_violation": 8,
+    "landing_page_error": 3
+  },
+  "actions_taken": [
+    "Tagged 29/29 CPB order products with 'google-excluded' tag",
+    "Forced re-sync for 3/3 price-mismatched products",
+    "Fixed 1/1 MOLLE products (changed product_type, added custom_label)",
+    "ALERT: Product 7242034380843 'Damron Bottoms Only' has no images - manual fix needed",
+    "ALERT: Product 7242034380843 'Damron Bottoms Only' has no images - manual fix needed",
+    "ALERT: Product 7242034380843 'Damron Bottoms Only' has no images - manual fix needed",
+    "Added/verified apparel attributes for 7/7 products"
+  ],
+  "status": "completed",
+  "completed_at": "2026-09-05T03:36:43.429273+00:00",
+  "detailed_issues": {
+    "landing_page_crawling_not_allowed": {
+      "count": 100,
+      "root_cause": "CPB custom order pages have noindex tags - not suitable for Google Shopping",
+      "fix": "Tagged 29 products with 'google-excluded' for campaign exclusion"
+    },
+    "not_eligible_in_any_campaign": {
+      "count": 5993,
+      "root_cause": "Products not included in any Google Ads campaign",
+      "fix": "Not a disapproval - products in feed but not in campaigns"
+    },
+    "not_eligible_out_of_stock": {
+      "count": 1609,
+      "root_cause": "Products are out of stock",
+      "fix": "Cannot fix programmatically - need to restock or mark discontinued"
+    },
+    "guns_parts_policy_violation": {
+      "count": 8,
+      "root_cause": "MOLLE storage bags (tactical accessories) incorrectly flagged as weapons",
+      "affected_product": "Can-Am X3 Front Door MOLLE Storage Bags (product 4848866885675)",
+      "fix": "Updated product_type and added custom_label for 1 products"
+    },
+    "price_mismatch": {
+      "count": 5,
+      "root_cause": "Stale prices in MC feed vs current Shopify prices (compare_at_price may be used as price)",
+      "fix": "Forced re-sync for 3 products"
+    },
+    "missing_item_attribute_for_product_type": {
+      "count": 42,
+      "root_cause": "Apparel products missing age_group/gender/color/size attributes",
+      "fix": "Added metafields for 7 products"
+    },
+    "item_missing_required_attribute": {
+      "count": 3,
+      "root_cause": "Product missing required image link",
+      "fix": "Flagged for manual attention - product has no images"
+    },
+    "image_link_pending_crawl": {
+      "count": 4,
+      "root_cause": "Google hasn't crawled product images yet (temporary)",
+      "fix": "No action needed - will resolve automatically"
+    },
+    "landing_page_error": {
+      "count": 3,
+      "root_cause": "Some product landing pages returning errors",
+      "fix": "Checked pages - return 200 OK, may be temporary crawl issue"
+    }
+  }
+}

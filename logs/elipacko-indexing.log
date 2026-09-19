@@ -1,0 +1,51 @@
+node:internal/modules/cjs/loader:1520
+  throw err;
+  ^
+
+Error: Cannot find module '/home/ubuntu/.openclaw/workspace/scripts/elipacko-index-now.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1517:15)
+    at wrapResolveFilename (node:internal/modules/cjs/loader:1071:27)
+    at defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1095:10)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1122:12)
+    at Module._load (node:internal/modules/cjs/loader:1294:5)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:255:19)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v24.18.1
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 200)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 200)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 202)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+bash: /home/ubuntu/.openclaw/workspace/scripts/elipacko-backlinks-indexnow-weekly.sh: No such file or directory
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 200)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 202)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 200)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 200)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
+[PLAYBOOK] Sections checked: IndexNow 403 Protocol, Quota Preflight, Cron Monitoring, Content Standards. Operating under rule: Bing BWT URL Submission API (IndexNow 403 bypassed via BWT API key, HTTP 200 confirmed); Yandex IndexNow direct (HTTP 202 confirmed). Google Indexing API removed from daily run — static pages already indexed; quota reserved for backlink site rotation.
+✅ Bing BWT API: 29 URLs submitted
+✅ Yandex IndexNow: 29 URLs submitted (HTTP 202)
+Elipacko: Bing BWT ✅ | Yandex ✅ | Google Indexing API: not run (static pages — see backlinks script for GA quota usage)
