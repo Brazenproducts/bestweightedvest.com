@@ -183,7 +183,7 @@ async function checkSite(domain) {
     const amazonLinks = extractAmazonLinks(content);
     totalAmazonLinks += amazonLinks.length;
     for (const link of amazonLinks) {
-      if (!link.includes(AFFILIATE_TAG)) missingTagLinks++;
+      if (!link.includes(AFFILIATE_TAG) && !link.includes(AFFILIATE_TAG2)) missingTagLinks++;
     }
 
     // ── 7. INTERNAL LINK CHECKER ─────────────────────────────────────────
