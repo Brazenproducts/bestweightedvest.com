@@ -48,7 +48,6 @@ const STORE01_SITES = new Set([
   'broncoseat.com',
   'broncoshade.com',
   'broncoupgrade.com',
-  'fordbroncoaccessories.com',
   'gladiatorgrabhandle.com',
   'gladiatorseat.com',
   'gladiatorseatcover.com',
