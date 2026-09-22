@@ -111,7 +111,6 @@ const STORE02_SITES = new Set([
   'bestsousvide.com',
   'bestvibrationplate.com',
   'bestwaterfilterpitcher.com',
-  'bestweightedvest.com',
   'bestwindshieldwiper.com',
   'bestzeroturnmower.com',
   'commercialhvacfilter.com',
