@@ -8,6 +8,7 @@
  */
 
 'use strict';
+console.log('[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.');
 
 const fs   = require('fs');
 const path = require('path');
@@ -175,16 +176,40 @@ async function checkSite(domain) {
   let missingTagLinks  = 0;
   const brokenLinks    = new Set();
 
+  // ── AFFILIATE TAG CHECK: ALWAYS USE LIVE PAGE, NOT LOCAL FILES ──────────
+  // Local files can be stale or out of sync with what's actually deployed.
+  // Only the live page tells us what Google and Amazon actually see.
+  try {
+    const liveRes = await fetch(`https://${domain}/`, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; AffiliateAudit/1.0)' },
+      signal: AbortSignal.timeout(10000)
+    });
+    if (liveRes.ok) {
+      const liveHtml = await liveRes.text();
+      const liveAmazonLinks = extractAmazonLinks(liveHtml);
+      totalAmazonLinks = liveAmazonLinks.length;
+      for (const link of liveAmazonLinks) {
+        if (!link.includes(AFFILIATE_TAG) && !link.includes(AFFILIATE_TAG2)) missingTagLinks++;
+      }
+    }
+  } catch (e) {
+    // If live fetch fails, fall back to local check but flag it
+    result.flags.push('live fetch failed for tag check — using local fallback');
+    for (const htmlFile of htmlFiles) {
+      const content = readFileSafe(htmlFile);
+      if (!content) continue;
+      const amazonLinks = extractAmazonLinks(content);
+      totalAmazonLinks += amazonLinks.length;
+      for (const link of amazonLinks) {
+        if (!link.includes(AFFILIATE_TAG) && !link.includes(AFFILIATE_TAG2)) missingTagLinks++;
+      }
+    }
+  }
+
+  // Internal link check still uses local files (fine — just checking file existence)
   for (const htmlFile of htmlFiles) {
     const content = readFileSafe(htmlFile);
     if (!content) continue;
-
-    // ── 2. AFFILIATE TAGS & 5. AMAZON LINK COUNT ────────────────────────
-    const amazonLinks = extractAmazonLinks(content);
-    totalAmazonLinks += amazonLinks.length;
-    for (const link of amazonLinks) {
-      if (!link.includes(AFFILIATE_TAG) && !link.includes(AFFILIATE_TAG2)) missingTagLinks++;
-    }
 
     // ── 7. INTERNAL LINK CHECKER ─────────────────────────────────────────
     const hrefs = extractHrefs(content);
