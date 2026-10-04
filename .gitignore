@@ -1,0 +1,12 @@
+
+# [PLAYBOOK] Secrets — never commit (added 2026-10-04 after audit found leak in commit 086d9b9a)
+.env
+.env.*
+*-credentials.json
+*-service-account.json
+.*-credentials.json
+.*-service-account.json
+.google-ads-credentials.json
+.microsoft-ads-credentials.json
+.gcp-service-account.json
+*.pem

@@ -13,6 +13,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
+const { isProtected } = require('./protected-domains-guard');
 const SITES_DIR = '/home/ubuntu/.openclaw/workspace/sites';
 
 const STORE01_TAG = 'brazenprodu01-20';
@@ -209,6 +210,11 @@ const changedSites = [];
 console.log(`Scanning ${siteDirs.length} site directories...\n`);
 
 for (const siteName of siteDirs) {
+  // [PLAYBOOK] Protected Domains — Zero Tolerance. Never write affiliate tags to protected sites.
+  if (isProtected(siteName)) {
+    console.warn(`[PLAYBOOK] Skipping protected domain: ${siteName}`);
+    continue;
+  }
   const siteDir = path.join(SITES_DIR, siteName);
   const targetTag = getTargetTag(siteName);
   const htmlFiles = getAllHtmlFiles(siteDir);
