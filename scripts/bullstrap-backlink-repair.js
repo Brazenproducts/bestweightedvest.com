@@ -115,7 +115,8 @@ function loadCollectionsMap() {
   }
 
   try {
-    const collections = JSON.parse(fs.readFileSync(COLLECTIONS_FILE, 'utf8'));
+    const data = JSON.parse(fs.readFileSync(COLLECTIONS_FILE, 'utf8'));
+    const collections = data.collections || data;
     for (const col of collections) {
       collectionsMap[col.id] = col;
     }

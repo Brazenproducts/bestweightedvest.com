@@ -1,0 +1,22 @@
+{
+  "store": "bartact.myshopify.com",
+  "issue": "Negate Bot Protection failing to block checkout bots",
+  "app": "Negate Bot Protection (9.99/mo, installed Feb 2022)",
+  "attacks": [
+    {
+      "date": "2026-09-21",
+      "abandoned_checkouts": 173,
+      "pattern": "All 3.00, fake emails (outlook/protonmail/gmail), 1-4 AM",
+      "ad_cost_wasted": 350
+    },
+    {
+      "date": "2026-09-28",
+      "abandoned_checkouts": 67,
+      "pattern": "All 3.00, fake emails (outlook/protonmail/gmail), throughout day",
+      "ad_cost_wasted": 840
+    }
+  ],
+  "total_wasted": 1190,
+  "request": "Negate Bot Protection is blocking site visitors (1,183 bots) but NOT blocking checkout bots. Need immediate fix or refund for app.",
+  "urgency": "HIGH - Losing 40/week to bot clicks on Google Ads"
+}

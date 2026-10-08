@@ -1,47 +1,45 @@
-# Cron Health Monitor Report
-**Generated:** Saturday, September 19, 2026 - 3:00 PM UTC
+# Cron Health Report
+**Generated:** Thursday, October 8th, 2026 - 3:00 PM (UTC)
 
 ## Summary
-- **Total Jobs:** 103
-- **Healthy Jobs:** 101
-- **Broken Jobs:** 2
-
-## Broken Jobs
-
-### 1. Shopping ROAS Emergency Alert
-- **Job ID:** `dfe825b1-080d-476f-91c2-17279143d5cf`
-- **Name:** Shopping ROAS Emergen...
-- **Status:** error
-- **Schedule:** cron 0 3 * * * @ America/Los_Angeles
-- **Last Run:** 5 hours ago
-- **Agent:** main
-- **Error Details:** Not available (restricted access in isolated cron mode)
-- **Delivery:** none -> telegram:openclaw-control-ui (explicit)
-
-### 2. Weekly PLAYBOOK Audit
-- **Job ID:** `0fd1d064-18c9-44f9-917b-d0334f081686`
-- **Name:** Weekly PLAYBOOK Audit...
-- **Status:** error (5x consecutive errors)
-- **Schedule:** cron 0 16 * * 0 @ UTC (exact)
-- **Last Run:** 6 days ago
-- **Agent:** slashdaddy
-- **Error Details:** Not available (restricted access in isolated cron mode)
-- **Delivery:** announce -> telegram:7550065844 (explicit)
-
-## Additional Notes
-- **Restricted Access:** When running in isolated cron mode, the cron tool is restricted to the current job only. Full error details for other jobs cannot be retrieved without elevated access.
-- **Skipped Jobs:** 4 jobs with "skipped" status (not counted as errors):
-  - Daily Amazon Associat... (main)
-  - Reminder: High-Commis... (main)
-  - SiteStripe daily heal... (main)
-  - Weekly Amazon Seller ... (main)
-  - Monthly Bartact Negat... (main)
-
-## Recommendations
-- Investigate the "Shopping ROAS Emergen..." job immediately (error from ~5 hours ago)
-- Review the "Weekly PLAYBOOK Audit" job (5 consecutive errors over 6+ days)
-- Check why the 4-5 skipped jobs are not running (may be trigger conditions not met)
-- No automatic fixes attempted per configuration
+- **Total Jobs:** 97
+- **Healthy (ok):** 77 (79.4%)
+- **Running:** 9 (9.3%)
+- **Idle:** 3 (3.1%)
+- **Skipped:** 7 (7.2%)
+- **Error:** 1 (1.0%)
 
 ---
-*Report generated from `openclaw cron list` output. Use `openclaw cron get <jobId>` for detailed job information.*
+
+## Broken Jobs (8 Total)
+
+### Error Status (1)
+| Job ID | Name | Schedule | Last Run | Issue |
+|--------|------|----------|----------|-------|
+| efa5d28b-a5ee-4681-834e-8d905e1d4e91 | SkipATip — Daily Plac... | cron 0 2 * * * @ America/Los_... | 6h ago | **ERROR** - Job failed to execute properly; requires investigation |
+
+### Skipped Status (7)
+| Job ID | Name | Schedule | Last Run | Reason |
+|--------|------|----------|----------|--------|
+| 558f70fa-4993-46ef-801f-345fd3b30e5d | Daily Amazon Associat... | cron 0 9 * * * @ America/Los_... | 23h ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| 8ac9d03f-9d8b-4dda-ae43-d43eabc3941a | Reminder: High-Commis... | cron 0 9 * * * @ America/Los_... | 23h ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| ca801698-4131-454f-bf22-42fa00f55c67 | Domain ownership remi... | cron 0 17 * * * @ America/Los_... | 15h ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| 7bcae443-61ab-47d7-84e9-42fcdd550bfa | SiteStripe daily heal... | cron 0 9 * * * @ UTC (exact) | 6h ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| fb4b8ceb-d10c-4c31-8ccb-3039a232d4cc | Weekly Amazon Seller ... | cron 0 8 * * 1 @ America/Los_... | 3d ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| 8126e07f-d8a4-4bd9-b77b-69d424c65092 | Monthly Bartact Negat... | cron 0 10 1 * * @ America/Los... | 7d ago | **SKIPPED** - Trigger condition not met or execution blocked |
+| 3ad951e6-43fe-4f32-9ed5-05611c697c3c | bartact-listing-group... | cron 0 14 17 9 * @ America/Lo... | 21d ago | **SKIPPED** - Trigger condition not met or execution blocked (very stale) |
+
+---
+
+## Notes
+- **Error (1):** The SkipATip job (efa5d28b...) is actively failing. This should be investigated first to determine the root cause.
+- **Skipped (7):** Most skipped jobs likely have trigger conditions that prevent execution. These need review to confirm they're intentionally blocked or if configuration adjustments are needed.
+- **Idle (3):** 3 jobs have never run (`-` in "Last" column) and may be pending initial execution or awaiting trigger conditions.
+- **Overall Health:** 79.4% of jobs are healthy with successful `ok` status.
+
+---
+
+## Recommendations (Not Implemented)
+1. **Investigate SkipATip Error:** Review job logs for the failing job to identify the error condition.
+2. **Review Skipped Jobs:** Determine if trigger conditions should be adjusted or if these are intentionally paused.
+3. **Monitor Running Jobs:** The 9 "running" jobs may be in-flight executions; verify they complete successfully.

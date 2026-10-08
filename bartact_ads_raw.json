@@ -1,0 +1,2380 @@
+{
+  "campaigns": [
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Jeep JK Seat Covers PMax",
+        "id": 24143838404
+      },
+      "metrics": {
+        "conversions_value": 818.384934,
+        "conversions": 9.166666,
+        "cost_micros": 529593800
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Gladiator PMax",
+        "id": 23698692944
+      },
+      "metrics": {
+        "conversions_value": 588.98211914,
+        "conversions": 9.58343,
+        "cost_micros": 491080182
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Paracord Grab Handles JL PMax",
+        "id": 24148774024
+      },
+      "metrics": {
+        "conversions_value": 229.93,
+        "conversions": 5,
+        "cost_micros": 308630329
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Jeep Wrangler PMax",
+        "id": 23698692941
+      },
+      "metrics": {
+        "conversions_value": 220.3533189,
+        "conversions": 3.502655,
+        "cost_micros": 289986445
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Paracord Grab Handles TJ PMax",
+        "id": 24138225999
+      },
+      "metrics": {
+        "conversions_value": 139.97,
+        "conversions": 3,
+        "cost_micros": 234342724
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "AGT.Jeep Wrangler. pMAX",
+        "id": 17303767660
+      },
+      "metrics": {
+        "conversions_value": 170.97,
+        "conversions": 2,
+        "cost_micros": 219730761
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23715975826",
+        "status": 2,
+        "advertising_channel_type": 2,
+        "name": "Brand Defense Campaign",
+        "id": 23715975826
+      },
+      "metrics": {
+        "conversions_value": 1060.77532406,
+        "conversions": 9.437594,
+        "cost_micros": 218586459
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Gladiator-Performance Max-7",
+        "id": 17686427920
+      },
+      "metrics": {
+        "conversions_value": 273.95,
+        "conversions": 3,
+        "cost_micros": 209130583
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Wrangler + Gladiator Storage PMax",
+        "id": 24264807988
+      },
+      "metrics": {
+        "conversions_value": 118.20807226,
+        "conversions": 1.949774,
+        "cost_micros": 176040959
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Jeep TJ Seat Covers PMax",
+        "id": 24148763920
+      },
+      "metrics": {
+        "conversions_value": 124.465,
+        "conversions": 2.5,
+        "cost_micros": 174085818
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Jeep JL Seat Covers PMax",
+        "id": 24265126942
+      },
+      "metrics": {
+        "conversions_value": 18.495,
+        "conversions": 0.5,
+        "cost_micros": 169270550
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23838067133",
+        "status": 2,
+        "advertising_channel_type": 2,
+        "name": "4Runner Seat Covers - Search",
+        "id": 23838067133
+      },
+      "metrics": {
+        "conversions_value": 504.98,
+        "conversions": 1,
+        "cost_micros": 150920000
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Bronco Storage",
+        "id": 24259235279
+      },
+      "metrics": {
+        "conversions_value": 110.97,
+        "conversions": 2,
+        "cost_micros": 142766965
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Gladiator Seat Covers PMax",
+        "id": 24148764376
+      },
+      "metrics": {
+        "conversions_value": 303.45101604,
+        "conversions": 3.637546,
+        "cost_micros": 134202823
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "MOLLE Accessories PMax",
+        "id": 24148763986
+      },
+      "metrics": {
+        "conversions_value": 708.7699085,
+        "conversions": 7.431227,
+        "cost_micros": 129995960
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Bronco Grab Handles PMax",
+        "id": 24265127167
+      },
+      "metrics": {
+        "conversions_value": 166.79620084,
+        "conversions": 3.726192,
+        "cost_micros": 123856322
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "status": 2,
+        "advertising_channel_type": 10,
+        "name": "Tacoma PMax",
+        "id": 23698692938
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 62676740
+      }
+    }
+  ],
+  "trend": [
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax",
+        "id": 23698692938
+      },
+      "metrics": {
+        "conversions_value": 49.99,
+        "conversions": 1,
+        "cost_micros": 24113278
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "name": "Jeep Wrangler PMax",
+        "id": 23698692941
+      },
+      "metrics": {
+        "conversions_value": 320.63875888,
+        "conversions": 5.691779,
+        "cost_micros": 83704681
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax",
+        "id": 23698692944
+      },
+      "metrics": {
+        "conversions_value": 727.18717381,
+        "conversions": 11.824752,
+        "cost_micros": 392271709
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax",
+        "id": 24138225999
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 4685706
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax",
+        "id": 24143838404
+      },
+      "metrics": {
+        "conversions_value": 360.93,
+        "conversions": 3,
+        "cost_micros": 190133410
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax",
+        "id": 24148763920
+      },
+      "metrics": {
+        "conversions_value": 648.96,
+        "conversions": 2,
+        "cost_micros": 45264510
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax",
+        "id": 24148763986
+      },
+      "metrics": {
+        "conversions_value": 49.99,
+        "conversions": 1,
+        "cost_micros": 44439190
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax",
+        "id": 24148764376
+      },
+      "metrics": {
+        "conversions_value": 299.23338817,
+        "conversions": 3.492683,
+        "cost_micros": 77491905
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax",
+        "id": 24148774024
+      },
+      "metrics": {
+        "conversions_value": 114.98,
+        "conversions": 1,
+        "cost_micros": 18611809
+      },
+      "segments": {
+        "week": "2026-09-07"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax",
+        "id": 23698692938
+      },
+      "metrics": {
+        "conversions_value": 66.98,
+        "conversions": 2,
+        "cost_micros": 67321972
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "name": "Jeep Wrangler PMax",
+        "id": 23698692941
+      },
+      "metrics": {
+        "conversions_value": 8.37992694,
+        "conversions": 0.322553,
+        "cost_micros": 129200799
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax",
+        "id": 23698692944
+      },
+      "metrics": {
+        "conversions_value": 477.3568203,
+        "conversions": 8.628263,
+        "cost_micros": 395443857
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax",
+        "id": 24138225999
+      },
+      "metrics": {
+        "conversions_value": 304.48182096,
+        "conversions": 3.468204,
+        "cost_micros": 95362981
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax",
+        "id": 24143838404
+      },
+      "metrics": {
+        "conversions_value": 1596.52271492,
+        "conversions": 8.020393,
+        "cost_micros": 588362988
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax",
+        "id": 24148763920
+      },
+      "metrics": {
+        "conversions_value": 1357.54331468,
+        "conversions": 9.666666,
+        "cost_micros": 247271402
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax",
+        "id": 24148763986
+      },
+      "metrics": {
+        "conversions_value": 451.90346457,
+        "conversions": 7.611043,
+        "cost_micros": 218101020
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax",
+        "id": 24148764376
+      },
+      "metrics": {
+        "conversions_value": 554.98,
+        "conversions": 2,
+        "cost_micros": 163561528
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax",
+        "id": 24148774024
+      },
+      "metrics": {
+        "conversions_value": 505.32649761,
+        "conversions": 7.384239,
+        "cost_micros": 141053586
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "name": "Bronco Storage",
+        "id": 24259235279
+      },
+      "metrics": {
+        "conversions_value": 809.14481276,
+        "conversions": 3.68229,
+        "cost_micros": 118793786
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax",
+        "id": 24264807988
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 132140065
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942",
+        "name": "Jeep JL Seat Covers PMax",
+        "id": 24265126942
+      },
+      "metrics": {
+        "conversions_value": 184.57574748,
+        "conversions": 3.600452,
+        "cost_micros": 107528286
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "name": "Bronco Grab Handles PMax",
+        "id": 24265127167
+      },
+      "metrics": {
+        "conversions_value": 249.9325,
+        "conversions": 3.75,
+        "cost_micros": 95904080
+      },
+      "segments": {
+        "week": "2026-09-14"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX",
+        "id": 17303767660
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 88467015
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7",
+        "id": 17686427920
+      },
+      "metrics": {
+        "conversions_value": 173.96,
+        "conversions": 2,
+        "cost_micros": 94373184
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax",
+        "id": 23698692938
+      },
+      "metrics": {
+        "conversions_value": 29.99,
+        "conversions": 1,
+        "cost_micros": 71119769
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "name": "Jeep Wrangler PMax",
+        "id": 23698692941
+      },
+      "metrics": {
+        "conversions_value": 210.63520731,
+        "conversions": 2.596541,
+        "cost_micros": 242852514
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax",
+        "id": 23698692944
+      },
+      "metrics": {
+        "conversions_value": 1190.9027344,
+        "conversions": 10.412011,
+        "cost_micros": 395940209
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23715975826",
+        "name": "Brand Defense Campaign",
+        "id": 23715975826
+      },
+      "metrics": {
+        "conversions_value": 75.98,
+        "conversions": 2,
+        "cost_micros": 95542949
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23838067133",
+        "name": "4Runner Seat Covers - Search",
+        "id": 23838067133
+      },
+      "metrics": {
+        "conversions_value": 504.98,
+        "conversions": 1,
+        "cost_micros": 59030000
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax",
+        "id": 24138225999
+      },
+      "metrics": {
+        "conversions_value": 94.99,
+        "conversions": 1,
+        "cost_micros": 245144104
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax",
+        "id": 24143838404
+      },
+      "metrics": {
+        "conversions_value": 484.8403814,
+        "conversions": 7.307094,
+        "cost_micros": 587542824
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax",
+        "id": 24148763920
+      },
+      "metrics": {
+        "conversions_value": 365.9,
+        "conversions": 9,
+        "cost_micros": 194535402
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax",
+        "id": 24148763986
+      },
+      "metrics": {
+        "conversions_value": 508.56873474,
+        "conversions": 5.663915,
+        "cost_micros": 181875738
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax",
+        "id": 24148764376
+      },
+      "metrics": {
+        "conversions_value": 191.01278278,
+        "conversions": 1.583645,
+        "cost_micros": 134382717
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax",
+        "id": 24148774024
+      },
+      "metrics": {
+        "conversions_value": 1227.40431428,
+        "conversions": 2.998572,
+        "cost_micros": 335739487
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "name": "Bronco Storage",
+        "id": 24259235279
+      },
+      "metrics": {
+        "conversions_value": 73.98,
+        "conversions": 1,
+        "cost_micros": 157258201
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax",
+        "id": 24264807988
+      },
+      "metrics": {
+        "conversions_value": 1130.86,
+        "conversions": 7,
+        "cost_micros": 203125963
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942",
+        "name": "Jeep JL Seat Covers PMax",
+        "id": 24265126942
+      },
+      "metrics": {
+        "conversions_value": 141.07230872,
+        "conversions": 1.485128,
+        "cost_micros": 203772985
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "name": "Bronco Grab Handles PMax",
+        "id": 24265127167
+      },
+      "metrics": {
+        "conversions_value": 98.55863484,
+        "conversions": 2.142858,
+        "cost_micros": 152401714
+      },
+      "segments": {
+        "week": "2026-09-21"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX",
+        "id": 17303767660
+      },
+      "metrics": {
+        "conversions_value": 225.96,
+        "conversions": 3,
+        "cost_micros": 148181845
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7",
+        "id": 17686427920
+      },
+      "metrics": {
+        "conversions_value": 99.99,
+        "conversions": 1,
+        "cost_micros": 136341299
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax",
+        "id": 23698692938
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 43593120
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "name": "Jeep Wrangler PMax",
+        "id": 23698692941
+      },
+      "metrics": {
+        "conversions_value": 178.07907546,
+        "conversions": 2.931227,
+        "cost_micros": 196011402
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax",
+        "id": 23698692944
+      },
+      "metrics": {
+        "conversions_value": 413.425,
+        "conversions": 6.5,
+        "cost_micros": 339003127
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23715975826",
+        "name": "Brand Defense Campaign",
+        "id": 23715975826
+      },
+      "metrics": {
+        "conversions_value": 984.79532406,
+        "conversions": 7.437594,
+        "cost_micros": 147003534
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23838067133",
+        "name": "4Runner Seat Covers - Search",
+        "id": 23838067133
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 118370000
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax",
+        "id": 24138225999
+      },
+      "metrics": {
+        "conversions_value": 139.97,
+        "conversions": 3,
+        "cost_micros": 156304541
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax",
+        "id": 24143838404
+      },
+      "metrics": {
+        "conversions_value": 584.919934,
+        "conversions": 5.666666,
+        "cost_micros": 343752345
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax",
+        "id": 24148763920
+      },
+      "metrics": {
+        "conversions_value": 18.495,
+        "conversions": 0.5,
+        "cost_micros": 116707081
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax",
+        "id": 24148763986
+      },
+      "metrics": {
+        "conversions_value": 404.95,
+        "conversions": 4,
+        "cost_micros": 87366091
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax",
+        "id": 24148764376
+      },
+      "metrics": {
+        "conversions_value": 254.82092454,
+        "conversions": 3.068773,
+        "cost_micros": 94425621
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax",
+        "id": 24148774024
+      },
+      "metrics": {
+        "conversions_value": 179.95,
+        "conversions": 4,
+        "cost_micros": 204500482
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "name": "Bronco Storage",
+        "id": 24259235279
+      },
+      "metrics": {
+        "conversions_value": 36.99,
+        "conversions": 1,
+        "cost_micros": 101607431
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax",
+        "id": 24264807988
+      },
+      "metrics": {
+        "conversions_value": 97.22807226,
+        "conversions": 1.949774,
+        "cost_micros": 127937740
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942",
+        "name": "Jeep JL Seat Covers PMax",
+        "id": 24265126942
+      },
+      "metrics": {
+        "conversions_value": 18.495,
+        "conversions": 0.5,
+        "cost_micros": 122993815
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "name": "Bronco Grab Handles PMax",
+        "id": 24265127167
+      },
+      "metrics": {
+        "conversions_value": 68.237566,
+        "conversions": 1.583334,
+        "cost_micros": 84581132
+      },
+      "segments": {
+        "week": "2026-09-28"
+      }
+    }
+  ],
+  "prevWeek": [
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660"
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 12691458
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920"
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 17683378
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938"
+      },
+      "metrics": {
+        "conversions_value": 29.99,
+        "conversions": 1,
+        "cost_micros": 70849097
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941"
+      },
+      "metrics": {
+        "conversions_value": 168.36096387,
+        "conversions": 2.025113,
+        "cost_micros": 167243734
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944"
+      },
+      "metrics": {
+        "conversions_value": 1103.63561526,
+        "conversions": 9.328581,
+        "cost_micros": 316879593
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23715975826"
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 19964752
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23838067133"
+      },
+      "metrics": {
+        "conversions_value": 0,
+        "conversions": 0,
+        "cost_micros": 20590000
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999"
+      },
+      "metrics": {
+        "conversions_value": 239.48,
+        "conversions": 3,
+        "cost_micros": 205514163
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404"
+      },
+      "metrics": {
+        "conversions_value": 1303.36117024,
+        "conversions": 5.865652,
+        "cost_micros": 580040878
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920"
+      },
+      "metrics": {
+        "conversions_value": 592.84,
+        "conversions": 13,
+        "cost_micros": 245363296
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986"
+      },
+      "metrics": {
+        "conversions_value": 275.06534933,
+        "conversions": 3.954979,
+        "cost_micros": 214854207
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376"
+      },
+      "metrics": {
+        "conversions_value": 142.38269128,
+        "conversions": 1.014872,
+        "cost_micros": 143719377
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024"
+      },
+      "metrics": {
+        "conversions_value": 1397.93679944,
+        "conversions": 6.440556,
+        "cost_micros": 302664466
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279"
+      },
+      "metrics": {
+        "conversions_value": 773.36953215,
+        "conversions": 2.867985,
+        "cost_micros": 177803443
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988"
+      },
+      "metrics": {
+        "conversions_value": 1064.88,
+        "conversions": 6,
+        "cost_micros": 242293089
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942"
+      },
+      "metrics": {
+        "conversions_value": 325.6480562,
+        "conversions": 5.08558,
+        "cost_micros": 224964759
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167"
+      },
+      "metrics": {
+        "conversions_value": 144.4575,
+        "conversions": 1.25,
+        "cost_micros": 174667099
+      }
+    }
+  ],
+  "prevRange": {
+    "prevStart": "2026-09-19",
+    "prevEnd": "2026-09-25"
+  },
+  "assetGroups": [
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "status": 2,
+        "id": 6445614895
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "status": 2,
+        "id": 6447867108
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6693516056",
+        "name": "Tacoma",
+        "status": 2,
+        "id": 6693516056
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6693516059",
+        "name": "Gladiator Asset Group 1",
+        "status": 2,
+        "id": 6693516059
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692941",
+        "name": "Jeep Wrangler PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6693516086",
+        "name": "Jeep Wrangler",
+        "status": 2,
+        "id": 6693516086
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740688533",
+        "name": "Paracord Grab Handles TJ PMax Assets",
+        "status": 2,
+        "id": 6740688533
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740690546",
+        "name": "Jeep TJ Seat Covers PMax Assets",
+        "status": 2,
+        "id": 6740690546
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740691014",
+        "name": "Paracord Grab Handles JL PMax Assets",
+        "status": 2,
+        "id": 6740691014
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740754817",
+        "name": "Jeep JK Seat Covers PMax Assets",
+        "status": 2,
+        "id": 6740754817
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740831736",
+        "name": "Gladiator Seat Covers PMax Assets",
+        "status": 2,
+        "id": 6740831736
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740832177",
+        "name": "MOLLE Accessories PMax Assets",
+        "status": 2,
+        "id": 6740832177
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747683342",
+        "name": "Wrangler Storage Assets",
+        "status": 2,
+        "id": 6747683342
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "name": "Bronco Storage"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747683522",
+        "name": "Bronco Storage Assets",
+        "status": 2,
+        "id": 6747683522
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "name": "Bronco Grab Handles PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747731458",
+        "name": "Bronco Grab Handles PMax Assets",
+        "status": 2,
+        "id": 6747731458
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265126942",
+        "name": "Jeep JL Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747842400",
+        "name": "Jeep JL Seat Covers PMax Assets",
+        "status": 2,
+        "id": 6747842400
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6754944915",
+        "name": "Gladiator Storage Assets",
+        "status": 2,
+        "id": 6754944915
+      }
+    }
+  ],
+  "assetGroupSignals": [
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2311280340601"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2324074283993"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2324074284153"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2340392884012"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2365729414508"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2414831987006"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2420438648101"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2440949165978"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748438"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748478"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748638"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748678"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748718"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748878"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748918"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520748958"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749118"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749158"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749198"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749358"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749398"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749438"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749598"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749638"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749678"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749838"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749878"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520749918"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750078"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750118"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750158"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750318"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750358"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17303767660",
+        "name": "AGT.Jeep Wrangler. pMAX"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6445614895",
+        "name": "Jeep Wrangler",
+        "id": 6445614895
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6445614895~2470520750398"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~1680687300455",
+        "audience": {
+          "audience": "customers/1770651698/audiences/16758991"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2392866894687"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944025"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944065"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944225"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944265"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944505"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944545"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2417114944705"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469701359085"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469701359125"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469701359165"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469701359325"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469701359365"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469702566765"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/17686427920",
+        "name": "Gladiator-Performance Max-7"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6447867108",
+        "name": "Gladiator Asset Group 1",
+        "id": 6447867108
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6447867108~2469702566845"
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692938",
+        "name": "Tacoma PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6693516056",
+        "name": "Tacoma",
+        "id": 6693516056
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6693516056~1641930966206",
+        "audience": {
+          "audience": "customers/1770651698/audiences/5442447"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/23698692944",
+        "name": "Gladiator PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6693516059",
+        "name": "Gladiator Asset Group 1",
+        "id": 6693516059
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6693516059~1680610949018",
+        "audience": {
+          "audience": "customers/1770651698/audiences/16758991"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24138225999",
+        "name": "Paracord Grab Handles TJ PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740688533",
+        "name": "Paracord Grab Handles TJ PMax Assets",
+        "id": 6740688533
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740688533~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763920",
+        "name": "Jeep TJ Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740690546",
+        "name": "Jeep TJ Seat Covers PMax Assets",
+        "id": 6740690546
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740690546~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148774024",
+        "name": "Paracord Grab Handles JL PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740691014",
+        "name": "Paracord Grab Handles JL PMax Assets",
+        "id": 6740691014
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740691014~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24143838404",
+        "name": "Jeep JK Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740754817",
+        "name": "Jeep JK Seat Covers PMax Assets",
+        "id": 6740754817
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740754817~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148764376",
+        "name": "Gladiator Seat Covers PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740831736",
+        "name": "Gladiator Seat Covers PMax Assets",
+        "id": 6740831736
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740831736~1680610949018",
+        "audience": {
+          "audience": "customers/1770651698/audiences/16758991"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24148763986",
+        "name": "MOLLE Accessories PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6740832177",
+        "name": "MOLLE Accessories PMax Assets",
+        "id": 6740832177
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6740832177~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747683342",
+        "name": "Wrangler Storage Assets",
+        "id": 6747683342
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6747683342~1657285721902",
+        "audience": {
+          "audience": "customers/1770651698/audiences/10691007"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24259235279",
+        "name": "Bronco Storage"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747683522",
+        "name": "Bronco Storage Assets",
+        "id": 6747683522
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6747683522~1642030643173",
+        "audience": {
+          "audience": "customers/1770651698/audiences/5509202"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24265127167",
+        "name": "Bronco Grab Handles PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6747731458",
+        "name": "Bronco Grab Handles PMax Assets",
+        "id": 6747731458
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6747731458~1642030643173",
+        "audience": {
+          "audience": "customers/1770651698/audiences/5509202"
+        }
+      }
+    },
+    {
+      "campaign": {
+        "resource_name": "customers/1770651698/campaigns/24264807988",
+        "name": "Wrangler + Gladiator Storage PMax"
+      },
+      "asset_group": {
+        "resource_name": "customers/1770651698/assetGroups/6754944915",
+        "name": "Gladiator Storage Assets",
+        "id": 6754944915
+      },
+      "asset_group_signal": {
+        "resource_name": "customers/1770651698/assetGroupSignals/6754944915~1680610949018",
+        "audience": {
+          "audience": "customers/1770651698/audiences/16758991"
+        }
+      }
+    }
+  ]
+}

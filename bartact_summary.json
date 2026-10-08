@@ -1,0 +1,78 @@
+{
+  "totSpend": 3764.9,
+  "totVal": 5559.45,
+  "acctRoas": 1.48,
+  "prevRoas": 2.41,
+  "dir": "WORSE ▼",
+  "bleeders": [
+    {
+      "name": "Gladiator PMax",
+      "spend": 491.08,
+      "roas": 1.2
+    },
+    {
+      "name": "Paracord Grab Handles JL PMax",
+      "spend": 308.63,
+      "roas": 0.75
+    },
+    {
+      "name": "Jeep Wrangler PMax",
+      "spend": 289.99,
+      "roas": 0.76
+    },
+    {
+      "name": "Paracord Grab Handles TJ PMax",
+      "spend": 234.34,
+      "roas": 0.6
+    },
+    {
+      "name": "AGT.Jeep Wrangler. pMAX",
+      "spend": 219.73,
+      "roas": 0.78
+    },
+    {
+      "name": "Gladiator-Performance Max-7",
+      "spend": 209.13,
+      "roas": 1.31
+    },
+    {
+      "name": "Wrangler + Gladiator Storage PMax",
+      "spend": 176.04,
+      "roas": 0.67
+    },
+    {
+      "name": "Jeep TJ Seat Covers PMax",
+      "spend": 174.09,
+      "roas": 0.71
+    },
+    {
+      "name": "Jeep JL Seat Covers PMax",
+      "spend": 169.27,
+      "roas": 0.11
+    },
+    {
+      "name": "Bronco Storage",
+      "spend": 142.77,
+      "roas": 0.78
+    },
+    {
+      "name": "Bronco Grab Handles PMax",
+      "spend": 123.86,
+      "roas": 1.35
+    },
+    {
+      "name": "Tacoma PMax",
+      "spend": 62.68,
+      "roas": 0
+    }
+  ],
+  "collapsing": [
+    "Tacoma PMax",
+    "Jeep Wrangler PMax",
+    "Jeep TJ Seat Covers PMax",
+    "Paracord Grab Handles JL PMax",
+    "Bronco Storage",
+    "Jeep JL Seat Covers PMax",
+    "Bronco Grab Handles PMax"
+  ]
+}

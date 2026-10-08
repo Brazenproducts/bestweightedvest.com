@@ -67,56 +67,81 @@ function bingApiRequest(path) {
   });
 }
 
+// Aggregate helper: combine per-date rows by a key field, summing clicks/impressions
+function aggregateByKey(rows, keyField) {
+  const map = new Map();
+  for (const r of rows) {
+    const key = r[keyField];
+    if (!key) continue;
+    const cur = map.get(key) || { key, Clicks: 0, Impressions: 0, posSum: 0, posN: 0 };
+    cur.Clicks += (r.Clicks || 0);
+    cur.Impressions += (r.Impressions || 0);
+    if (typeof r.AvgImpressionPosition === 'number' && r.AvgImpressionPosition > 0) {
+      cur.posSum += r.AvgImpressionPosition * (r.Impressions || 1);
+      cur.posN += (r.Impressions || 1);
+    }
+    map.set(key, cur);
+  }
+  return [...map.values()].map(x => ({
+    key: x.key,
+    Clicks: x.Clicks,
+    Impressions: x.Impressions,
+    AvgPosition: x.posN > 0 ? +(x.posSum / x.posN).toFixed(1) : null,
+  })).sort((a, b) => b.Clicks - a.Clicks || b.Impressions - a.Impressions);
+}
+
 async function getTopPages() {
-  // GetTopPages: top pages by Bing clicks (last 30 days)
-  const today = new Date();
-  const endDate = today.toISOString().split('T')[0];
-  const startDate = new Date(today - 30 * 86400000).toISOString().split('T')[0];
+  // GetPageStats: per-page per-date stats (last ~180 days default window)
   const encodedSite = encodeURIComponent(SITE_URL);
   try {
-    const resp = await bingApiRequest(
-      `GetTopPages?siteUrl=${encodedSite}&startDate=${startDate}&endDate=${endDate}`
-    );
+    const resp = await bingApiRequest(`GetPageStats?siteUrl=${encodedSite}`);
     if (resp.error) return { error: resp.error, raw: resp.raw };
     if (!resp.data) return { error: 'No data returned' };
-    // Response: { d: [ { Url, Clicks, Impressions, AvgClickPosition, AvgImpressionPosition } ] }
-    const pages = resp.data.d || resp.data.value || resp.data.TopPages || [];
-    return { pages: Array.isArray(pages) ? pages.slice(0, 20) : [] };
+    const rows = resp.data.d || resp.data.value || [];
+    if (!Array.isArray(rows)) return { pages: [] };
+    // GetPageStats returns Query = the page URL
+    const agg = aggregateByKey(rows, 'Query');
+    return { pages: agg.slice(0, 20).map(p => ({
+      Url: p.key, Clicks: p.Clicks, Impressions: p.Impressions, AvgImpressionPosition: p.AvgPosition
+    })) };
   } catch (e) {
     return { error: e.message };
   }
 }
 
-async function getTopKeywords() {
-  // GetTopKeywords: top keywords driving traffic
-  const today = new Date();
-  const endDate = today.toISOString().split('T')[0];
-  const startDate = new Date(today - 30 * 86400000).toISOString().split('T')[0];
+let _queryStatsCache = null;
+async function getQueryStatsRaw() {
+  if (_queryStatsCache) return _queryStatsCache;
   const encodedSite = encodeURIComponent(SITE_URL);
+  const resp = await bingApiRequest(`GetQueryStats?siteUrl=${encodedSite}`);
+  const rows = resp.data?.d || resp.data?.value || [];
+  _queryStatsCache = Array.isArray(rows) ? rows : [];
+  return _queryStatsCache;
+}
+
+async function getTopKeywords() {
+  // GetQueryStats: per-query per-date stats, aggregate into top keywords
   try {
-    const resp = await bingApiRequest(
-      `GetTopKeywords?siteUrl=${encodedSite}&startDate=${startDate}&endDate=${endDate}&rowOffset=0&rowLength=50`
-    );
-    if (resp.error) return { error: resp.error, keywords: [] };
-    const keywords = resp.data?.d || resp.data?.value || resp.data?.Keywords || [];
-    return { keywords: Array.isArray(keywords) ? keywords : [] };
+    const rows = await getQueryStatsRaw();
+    const agg = aggregateByKey(rows, 'Query');
+    return { keywords: agg.slice(0, 25).map(k => ({
+      Query: k.key, Clicks: k.Clicks, Impressions: k.Impressions, AvgPosition: k.AvgPosition
+    })) };
   } catch (e) {
     return { error: e.message, keywords: [] };
   }
 }
 
 async function getKeywordStats(keyword) {
-  const encodedSite = encodeURIComponent(SITE_URL);
-  const encodedKw = encodeURIComponent(keyword);
-  const today = new Date();
-  const endDate = today.toISOString().split('T')[0];
-  const startDate = new Date(today - 30 * 86400000).toISOString().split('T')[0];
+  // Match target keyword against aggregated GetQueryStats data
   try {
-    const resp = await bingApiRequest(
-      `GetKeywordStats?siteUrl=${encodedSite}&query=${encodedKw}&country=US&language=en-US&startDate=${startDate}&endDate=${endDate}`
-    );
-    if (resp.error) return { error: resp.error };
-    return resp.data?.d?.[0] || resp.data?.value?.[0] || resp.data || null;
+    const rows = await getQueryStatsRaw();
+    const agg = aggregateByKey(rows, 'Query');
+    const match = agg.find(k => (k.key || '').toLowerCase() === keyword.toLowerCase());
+    if (match) {
+      return { Query: match.key, Clicks: match.Clicks, Impressions: match.Impressions, AvgPosition: match.AvgPosition };
+    }
+    return { error: 'not in Bing query data' };
   } catch (e) {
     return { error: e.message };
   }
@@ -157,15 +182,13 @@ async function main() {
 
   // 3. Check specific target keywords (sample 6 to avoid rate limits)
   console.log('  Checking target keyword stats...');
-  const kwSample = TARGET_KEYWORDS.slice(0, 6);
-  for (const kw of kwSample) {
+  for (const kw of TARGET_KEYWORDS) {
     const stat = await getKeywordStats(kw);
     if (stat && !stat.error) {
       results.targetKeywordRanks[kw] = stat;
     } else {
       results.targetKeywordRanks[kw] = { error: stat?.error || 'no data' };
     }
-    await new Promise(r => setTimeout(r, 800));
   }
 
   // Write output
@@ -178,8 +201,9 @@ async function main() {
     results.topPages.slice(0, 10).forEach((p, i) => {
       const url = p.Url || p.url || p.Page || 'unknown';
       const clicks = p.Clicks || p.clicks || 0;
-      const pos = p.AvgClickPosition || p.avgClickPosition || p.position || '-';
-      console.log(`  ${i + 1}. ${url} (${clicks} clicks, pos: ${pos})`);
+      const impr = p.Impressions || 0;
+      const pos = p.AvgImpressionPosition ?? '-';
+      console.log(`  ${i + 1}. ${url} (${clicks} clicks, ${impr} impr, avg pos: ${pos})`);
     });
   } else {
     console.log('  No top pages data available');
@@ -190,8 +214,9 @@ async function main() {
     results.topKeywords.slice(0, 10).forEach((k, i) => {
       const query = k.Query || k.query || k.Keyword || 'unknown';
       const clicks = k.Clicks || k.clicks || 0;
-      const pos = k.AvgClickPosition || k.avgPosition || '-';
-      console.log(`  ${i + 1}. "${query}" (${clicks} clicks, pos: ${pos})`);
+      const impr = k.Impressions || 0;
+      const pos = k.AvgPosition ?? '-';
+      console.log(`  ${i + 1}. "${query}" (${clicks} clicks, ${impr} impr, avg pos: ${pos})`);
     });
   } else {
     console.log('  No top keywords data available');

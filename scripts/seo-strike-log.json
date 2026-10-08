@@ -1,0 +1,56 @@
+{
+  "strikes": {
+    "bullstrap_shopify_token_401": {
+      "count": 0,
+      "note": "RESOLVED 2026-09-21. Token was broken Sep 17\u201320 (Strike 4, alert sent Sep 20). Token refreshed by cron job at 13:00 UTC on Sep 21 (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). HTTP 200 confirmed.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-20T15:06:00Z",
+      "resolvedAt": "2026-09-21T15:01:00Z"
+    },
+    "bartact_shopify_token_401": {
+      "count": 0,
+      "note": "RESOLVED 2026-09-21. Token was broken Sep 17\u201320 (Strike 4, alert sent Sep 20). Working token found in .env as of Sep 21 check \u2014 Mitch saved it. HTTP 200 confirmed.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-20T15:06:00Z",
+      "resolvedAt": "2026-09-21T15:01:00Z"
+    },
+    "skipatip_ssl": {
+      "count": 0,
+      "note": "SSL renewed \u2014 was 26 days on 2026-09-13 (alerted), now 77 days as of 2026-09-27. Resolved.",
+      "alertSent": true,
+      "resolvedAt": "2026-09-15T15:00:00Z"
+    },
+    "gridguardsusa_ssl": {
+      "count": 0,
+      "note": "SSL renewed \u2014 was 29 days on 2026-09-15 (alerted), now 78 days as of 2026-09-27. Resolved.",
+      "alertSent": true,
+      "resolvedAt": "2026-09-16T15:00:00Z"
+    },
+    "faithfulpassages_ssl_watch": {
+      "count": 0,
+      "note": "SSL renewed \u2014 was 30 days on 2026-09-17, now 81 days as of 2026-09-27. Resolved.",
+      "alertSent": false,
+      "resolvedAt": "2026-09-20T15:06:00Z"
+    },
+    "recentratings_ssl": {
+      "count": 0,
+      "note": "SSL at 27 days as of 2026-09-28. Expires Oct 25, 2026. Alert first sent 2026-09-26T15:05:00Z. Second alert sent 2026-09-28T15:05:00Z (still unresolved, now 27 days). Not renewed.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-26T15:05:00Z",
+      "secondAlertSentAt": "2026-09-28T15:05:00Z"
+    },
+    "bartact_ssl_watch": {
+      "count": 0,
+      "note": "SSL renewed \u2014 showing 88 days as of 2026-09-27 (Dec 24, 2026 expiry). All good.",
+      "alertSent": false
+    },
+    "skipatip_full_timeout": {
+      "count": 1,
+      "note": "2026-09-28: www.skipatip.com fully unreachable \u2014 timeout after redirect from skipatip.com (307\u2192timeout). Previous checks only tested initial 307, missed full-site outage. Playbook noted 6+ days downtime (Supabase Nano compute) as of Sep 26. Strike 1 \u2014 no alert yet.",
+      "alertSent": false,
+      "firstSeenAt": "2026-09-28T15:05:00Z"
+    }
+  },
+  "lastUpdated": "2026-09-28T15:05:00Z",
+  "note": "2026-09-28: recentratings.com SSL still at 27 days (second alert sent). skipatip.com full-site timeout logged as Strike 1 (no alert). Walk Industrial sites clean, Bartact 10/10 meta descriptions, Bull Strap token 200 OK, no 404/500 on other domains."
+}

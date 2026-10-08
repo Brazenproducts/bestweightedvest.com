@@ -1,199 +1,161 @@
 #!/usr/bin/env node
-/**
- * ASIN Health Check - Browser Automation
- * Checks 200 ASINs per day for availability on Amazon
- */
 
 const fs = require('fs');
 const path = require('path');
-const http = require('http');
+const https = require('https');
 
 // Read ASINs from stdin or file
-const asins = [];
-const input = fs.readFileSync('/tmp/asin-batch.txt', 'utf8');
-input.split('\n').forEach(line => {
-  const asin = line.trim();
-  if (asin && asin.length === 10 && /^B[0-9A-Z]{9}$/.test(asin)) {
-    asins.push(asin);
-  }
-});
+const asinBatch = fs.readFileSync('/tmp/asin-batch.txt', 'utf8')
+  .split('\n')
+  .filter(line => line.trim() && !line.startsWith('Total') && !line.startsWith('Batch') && !line.startsWith('Starting') && !line.startsWith('Next') && !line.startsWith('Progress'))
+  .slice(0, 200);
 
-console.log(`Processing ${asins.length} ASINs...`);
-
-// State tracking
 const results = {
-  checked: 0,
+  checked: [],
   dead: [],
   alive: [],
-  errors: []
+  checkTime: new Date().toISOString()
 };
 
-const stateFile = '/home/ubuntu/.openclaw/workspace/scripts/sitestripe-healthcheck-state.json';
-let lifetimeDead = 0;
+let completed = 0;
 
-if (fs.existsSync(stateFile)) {
-  try {
-    const state = JSON.parse(fs.readFileSync(stateFile, 'utf8'));
-    lifetimeDead = (state.deadCount || 0);
-  } catch (e) {
-    console.error('Error reading state file:', e.message);
-  }
-}
-
-// Check each ASIN using Amazon product page
-async function checkAsin(asin) {
+// Check each ASIN
+async function checkASIN(asin, index) {
   return new Promise((resolve) => {
     const url = `https://www.amazon.com/dp/${asin}`;
     
-    // Use a timeout to prevent hanging
-    const timeout = setTimeout(() => {
-      resolve({ asin, status: 'timeout', title: null, image: null });
-    }, 10000);
-
     const options = {
       hostname: 'www.amazon.com',
       path: `/dp/${asin}`,
       method: 'GET',
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
       },
-      timeout: 8000
+      timeout: 10000
     };
 
-    const req = http.request(options, (res) => {
+    const req = https.request(options, (res) => {
       let data = '';
-      
-      res.on('data', chunk => {
+
+      res.on('data', (chunk) => {
         data += chunk;
       });
-      
+
       res.on('end', () => {
-        clearTimeout(timeout);
-        
-        // Check for 404 or unavailable indicators
-        const is404 = res.statusCode === 404;
-        const isUnavailable = data.includes('Currently unavailable') || 
-                             data.includes('This item cannot be found') ||
-                             data.includes('does not exist') ||
-                             data.includes('Error 404');
-        
-        // Extract title from HTML
-        let title = null;
+        const result = {
+          asin: asin,
+          status: res.statusCode,
+          dead: false,
+          reason: null,
+          title: null,
+          image: null
+        };
+
+        // Check for 404
+        if (res.statusCode === 404) {
+          result.dead = true;
+          result.reason = '404';
+        }
+        // Check for unavailable
+        else if (data.includes('Currently unavailable') || data.includes('currently unavailable')) {
+          result.dead = true;
+          reason = 'unavailable';
+        }
+        // Try to extract title
         const titleMatch = data.match(/<span id="productTitle"[^>]*>([^<]+)<\/span>/);
         if (titleMatch) {
-          title = titleMatch[1].trim();
+          result.title = titleMatch[1].trim();
+        } else if (data.includes('pageNotFound') || data.includes('404')) {
+          result.dead = true;
+          result.reason = '404-content';
         }
-        
-        // Check for title in meta tags if not found
-        if (!title) {
-          const metaMatch = data.match(/<meta[^>]*property="og:title"[^>]*content="([^"]+)"/);
-          if (metaMatch) {
-            title = metaMatch[1];
-          }
+
+        // Try to extract image
+        const imageMatch = data.match(/#landingImage[^>]*|id="landingImage"[^>]*src="([^"]+)"/);
+        if (imageMatch) {
+          result.image = imageMatch[1];
         }
-        
-        // Determine if DEAD
-        const isDead = is404 || isUnavailable || !title;
-        
-        const result = {
-          asin,
-          status: is404 ? '404' : (isUnavailable ? 'unavailable' : 'ok'),
-          title: title || null,
-          isDead: isDead
-        };
+
+        // If no title, likely dead
+        if (!result.title) {
+          result.dead = true;
+          result.reason = result.reason || 'no-title';
+        }
+
+        results.checked.push(asin);
+        if (result.dead) {
+          results.dead.push(result);
+        } else {
+          results.alive.push(asin);
+        }
+
+        completed++;
+        process.stdout.write(`\rChecking: ${completed}/${asinBatch.length} - Dead: ${results.dead.length}`);
         
         resolve(result);
       });
     });
-    
+
     req.on('error', (err) => {
-      clearTimeout(timeout);
-      resolve({ asin, status: 'error', error: err.message, isDead: true });
+      const result = {
+        asin: asin,
+        status: 'error',
+        dead: true,
+        reason: err.message,
+        title: null,
+        image: null
+      };
+
+      results.dead.push(result);
+      completed++;
+      process.stdout.write(`\rChecking: ${completed}/${asinBatch.length} - Dead: ${results.dead.length}`);
+      resolve(result);
     });
-    
+
     req.on('timeout', () => {
-      clearTimeout(timeout);
-      req.destroy();
+      req.abort();
     });
-    
-    req.end();
   });
 }
 
-// Process all ASINs
+// Sequential checking with delay
 async function checkAll() {
-  console.log(`Starting ASIN health check at ${new Date().toISOString()}`);
-  
-  for (let i = 0; i < asins.length; i++) {
-    const asin = asins[i];
-    const result = await checkAsin(asin);
-    
-    results.checked++;
-    
-    if (result.isDead) {
-      results.dead.push({ asin, reason: result.status, title: result.title });
-    } else {
-      results.alive.push({ asin, title: result.title });
-    }
-    
-    // Progress indicator
-    if ((i + 1) % 20 === 0) {
-      console.log(`Progress: ${i + 1}/${asins.length}`);
-    }
+  for (let i = 0; i < asinBatch.length; i++) {
+    await checkASIN(asinBatch[i], i);
+    // Add small delay to avoid rate limiting
+    await new Promise(r => setTimeout(r, 500));
   }
-  
-  // Calculate metrics
-  const totalDead = lifetimeDead + results.dead.length;
-  const progress = Math.round((70 + asins.length) / 2400 * 100);
-  
-  // Save results to memory
-  const memoryContent = `# ASIN Health Check Results - ${new Date().toISOString().split('T')[0]}
 
-## Summary
-- **ASINs checked today:** ${results.checked}
-- **Dead found today:** ${results.dead.length}
-- **Total dead lifetime:** ${totalDead}
-- **Progress:** ${70 + asins.length}/2400 = ${progress}%
-
-## Dead ASINs (${results.dead.length})
-${results.dead.map(r => `- \`${r.asin}\` - ${r.reason}`).join('\n')}
-
-## Alive ASINs (${results.alive.length})
-${results.alive.slice(0, 50).map(r => `- \`${r.asin}\` - ${r.title || '(no title)'}`).join('\n')}
-${results.alive.length > 50 ? `\n... and ${results.alive.length - 50} more alive ASINs` : ''}
-
-## Run Time
-Started: ${new Date().toISOString()}
-Duration: ~${Math.round((results.checked * 1000) / 1000)}s
-`;
-
-  const memPath = '/home/ubuntu/.openclaw/workspace/memory/asin-healthcheck-latest.md';
-  fs.mkdirSync(path.dirname(memPath), { recursive: true });
-  fs.writeFileSync(memPath, memoryContent);
-  
-  // Update state file
-  const newState = {
-    lastCheck: new Date().toISOString(),
-    deadCount: totalDead,
-    deadASINs: results.dead.map(d => d.asin),
-    lastBatchSize: results.checked,
-    totalChecked: 70 + asins.length
-  };
-  
-  fs.mkdirSync(path.dirname(stateFile), { recursive: true });
-  fs.writeFileSync(stateFile, JSON.stringify(newState, null, 2));
-  
-  console.log('\n=== RESULTS ===');
-  console.log(`Checked: ${results.checked}`);
-  console.log(`Dead: ${results.dead.length}`);
+  console.log('\n\nHealth Check Summary:');
+  console.log(`Total checked: ${results.checked.length}`);
+  console.log(`Dead found: ${results.dead.length}`);
   console.log(`Alive: ${results.alive.length}`);
-  console.log(`Total dead (lifetime): ${totalDead}`);
-  console.log(`Progress: ${progress}%`);
-  console.log('\nResults saved to memory/asin-healthcheck-latest.md');
-  console.log('State saved to scripts/sitestripe-healthcheck-state.json');
+  
+  // Save results
+  fs.writeFileSync('/tmp/asin-healthcheck-results.json', JSON.stringify(results, null, 2));
+  
+  // Load existing state
+  const stateFile = path.join(__dirname, '../scripts/sitestripe-healthcheck-state.json');
+  let state = { deadASINs: [], lastCheck: null, totalChecked: 0, progress: 0 };
+  
+  if (fs.existsSync(stateFile)) {
+    state = JSON.parse(fs.readFileSync(stateFile, 'utf8'));
+  }
+
+  // Update state
+  state.lastCheck = new Date().toISOString();
+  state.totalChecked = (state.totalChecked || 0) + results.checked.length;
+  state.progress = Math.round((state.totalChecked / 2400) * 100);
+  
+  // Add new dead ASINs
+  const newDeadASINs = results.dead.map(d => d.asin);
+  state.deadASINs = [...new Set([...(state.deadASINs || []), ...newDeadASINs])];
+
+  fs.writeFileSync(stateFile, JSON.stringify(state, null, 2));
+
+  console.log(`\nState updated:`);
+  console.log(`  Total lifetime dead: ${state.deadASINs.length}`);
+  console.log(`  Progress: ${state.totalChecked}/2400 (${state.progress}%)`);
 }
 
-checkAll().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+checkAll().catch(console.error);

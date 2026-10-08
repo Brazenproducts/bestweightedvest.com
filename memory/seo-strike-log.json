@@ -1,45 +1,51 @@
 {
   "strikes": {
     "bullstrap_shopify_token_401": {
-      "count": 1,
-      "firstSeen": "2026-09-17T15:00:00Z",
-      "lastSeen": "2026-09-17T15:00:00Z",
-      "description": "Bull Strap Shopify admin token returning 401 Unauthorized. Token: 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, Store: bull-strap-78.myshopify.com. New strike cycle started (previous cycle Strike 3 alert sent 2026-09-16).",
-      "alertThreshold": 3,
-      "alertSent": false,
-      "previousAlertSentAt": "2026-09-16T15:00:00Z",
-      "cycleStarted": "2026-09-17T15:00:00Z",
-      "note": "Strike 1 of new cycle. Alert fires at Strike 3 (projected 2026-09-19 if unresolved)."
+      "count": 0,
+      "note": "RESOLVED 2026-09-21. Token was broken Sep 17\u201320 (Strike 4, alert sent Sep 20). Token refreshed by cron job at 13:00 UTC on Sep 21 (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). HTTP 200 confirmed.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-20T15:06:00Z",
+      "resolvedAt": "2026-09-21T15:01:00Z"
     },
     "bartact_shopify_token_401": {
-      "count": 1,
-      "firstSeen": "2026-09-17T15:00:00Z",
-      "lastSeen": "2026-09-17T15:00:00Z",
-      "description": "Bartact Shopify admin token returning 401 Unauthorized. Token: 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, Store: bartact.myshopify.com. New strike cycle started (previous cycle Strike 3 alert sent 2026-09-16).",
-      "alertThreshold": 3,
-      "alertSent": false,
-      "previousAlertSentAt": "2026-09-16T15:00:00Z",
-      "cycleStarted": "2026-09-17T15:00:00Z",
-      "note": "Strike 1 of new cycle. Alert fires at Strike 3 (projected 2026-09-19 if unresolved)."
+      "count": 0,
+      "note": "RESOLVED 2026-09-21. Token was broken Sep 17\u201320 (Strike 4, alert sent Sep 20). Working token found in .env as of Sep 21 check \u2014 Mitch saved it. HTTP 200 confirmed.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-20T15:06:00Z",
+      "resolvedAt": "2026-09-21T15:01:00Z"
     },
     "skipatip_ssl": {
       "count": 0,
-      "note": "SSL renewed — was 26 days on 2026-09-13 (alerted), now 86 days as of 2026-09-17. Resolved.",
+      "note": "SSL renewed \u2014 was 26 days on 2026-09-13 (alerted), now 80 days as of 2026-09-23. Resolved.",
       "alertSent": true,
       "resolvedAt": "2026-09-15T15:00:00Z"
     },
     "gridguardsusa_ssl": {
       "count": 0,
-      "note": "SSL renewed — was 29 days on 2026-09-15 (alerted), now 87 days as of 2026-09-17. Resolved.",
+      "note": "SSL renewed \u2014 was 29 days on 2026-09-15 (alerted), now 81 days as of 2026-09-23. Resolved.",
       "alertSent": true,
       "resolvedAt": "2026-09-16T15:00:00Z"
     },
     "faithfulpassages_ssl_watch": {
       "count": 0,
-      "note": "Approaching threshold. At 30 days as of 2026-09-17. Alert fires immediately if drops below 30 days (SSL is immediate-alert category). Watch daily.",
-      "alertSent": false
+      "note": "SSL renewed \u2014 was 30 days on 2026-09-17, now 84 days as of 2026-09-23. Resolved.",
+      "alertSent": false,
+      "resolvedAt": "2026-09-20T15:06:00Z"
+    },
+    "bartact_ssl_watch": {
+      "count": 0,
+      "note": "SSL renewed \u2014 was approaching 30-day alert. Now 85 days (Dec 24, 2026) as of 2026-09-30. Fully healthy.",
+      "alertSent": false,
+      "resolvedAt": "2026-09-30T15:00:00Z"
+    },
+    "recentratings_ssl_watch": {
+      "count": 0,
+      "note": "SSL renewed \u2014 was 28 days on 2026-09-27 (alerted 2026-09-26), now 87 days as of 2026-09-30. Resolved.",
+      "alertSent": true,
+      "alertSentAt": "2026-09-26T15:05:00Z",
+      "resolvedAt": "2026-09-30T15:00:00Z"
     }
   },
-  "lastUpdated": "2026-09-17T15:00:00Z",
-  "note": "Both Shopify tokens reset to Strike 1 (new cycle). All SSL clean. faithfulpassages.com at 30 days — watch closely."
+  "lastUpdated": "2026-10-02T17:40:00Z",
+  "note": "2026-10-02: ALL CLEAN. Bull Strap Shopify token 200 OK (refreshed 17:39 UTC). All 9 SSL valid (all >30 days, earliest bullstrap Nov 9 = 38 days). Walk Industrial sites (blox/gridguards/bowtie/factor) clean, no affiliate junk. Bartact 10/10 collection meta descriptions set. No 404/500s. bartact/skipatip 3xx are known normal www redirects. Silent exit."
 }

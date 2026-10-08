@@ -1,0 +1,914 @@
+{
+  "date_range": "2026-09-07 to 2026-09-21",
+  "top_keywords": [
+    {
+      "query": "bartact seat covers",
+      "impressions": 402,
+      "clicks": 46,
+      "ctr": 11.44,
+      "position": 1.5
+    },
+    {
+      "query": "bartact",
+      "impressions": 237,
+      "clicks": 36,
+      "ctr": 15.19,
+      "position": 1.0
+    },
+    {
+      "query": "jeep seat covers",
+      "impressions": 1151,
+      "clicks": 24,
+      "ctr": 2.09,
+      "position": 5.4
+    },
+    {
+      "query": "molle attachments",
+      "impressions": 804,
+      "clicks": 23,
+      "ctr": 2.86,
+      "position": 4.7
+    },
+    {
+      "query": "jeep wrangler seat covers",
+      "impressions": 787,
+      "clicks": 22,
+      "ctr": 2.8,
+      "position": 5.6
+    },
+    {
+      "query": "molle panel accessories",
+      "impressions": 488,
+      "clicks": 15,
+      "ctr": 3.07,
+      "position": 5.5
+    },
+    {
+      "query": "tactical seat covers",
+      "impressions": 4155,
+      "clicks": 13,
+      "ctr": 0.31,
+      "position": 10.6
+    },
+    {
+      "query": "bartact fire extinguisher mount",
+      "impressions": 22,
+      "clicks": 10,
+      "ctr": 45.45,
+      "position": 1
+    },
+    {
+      "query": "jeep tj seat covers",
+      "impressions": 190,
+      "clicks": 8,
+      "ctr": 4.21,
+      "position": 5.4
+    },
+    {
+      "query": "molle accessories",
+      "impressions": 273,
+      "clicks": 7,
+      "ctr": 2.56,
+      "position": 4.5
+    },
+    {
+      "query": "bronco accessories",
+      "impressions": 458,
+      "clicks": 5,
+      "ctr": 1.09,
+      "position": 10.8
+    },
+    {
+      "query": "tactical seats",
+      "impressions": 186,
+      "clicks": 5,
+      "ctr": 2.69,
+      "position": 9.2
+    },
+    {
+      "query": "bartact seat covers jl",
+      "impressions": 20,
+      "clicks": 4,
+      "ctr": 20.0,
+      "position": 1
+    },
+    {
+      "query": "best jeep seat covers",
+      "impressions": 119,
+      "clicks": 4,
+      "ctr": 3.36,
+      "position": 4.2
+    },
+    {
+      "query": "best seat covers for jeep wrangler",
+      "impressions": 77,
+      "clicks": 4,
+      "ctr": 5.19,
+      "position": 3.8
+    },
+    {
+      "query": "car seat heat set",
+      "impressions": 11,
+      "clicks": 4,
+      "ctr": 36.36,
+      "position": 3.4
+    },
+    {
+      "query": "ford bronco accessories",
+      "impressions": 177,
+      "clicks": 4,
+      "ctr": 2.26,
+      "position": 12.2
+    },
+    {
+      "query": "jeep gladiator seat covers",
+      "impressions": 316,
+      "clicks": 4,
+      "ctr": 1.27,
+      "position": 7.0
+    },
+    {
+      "query": "jeep jk seat covers",
+      "impressions": 143,
+      "clicks": 4,
+      "ctr": 2.8,
+      "position": 7.0
+    },
+    {
+      "query": "jeep paracord grab handles",
+      "impressions": 22,
+      "clicks": 4,
+      "ctr": 18.18,
+      "position": 1.7
+    },
+    {
+      "query": "2000 jeep wrangler accessories",
+      "impressions": 37,
+      "clicks": 3,
+      "ctr": 8.11,
+      "position": 5
+    },
+    {
+      "query": "2006 jeep wrangler seat covers",
+      "impressions": 28,
+      "clicks": 3,
+      "ctr": 10.71,
+      "position": 3.4
+    },
+    {
+      "query": "bartac",
+      "impressions": 121,
+      "clicks": 3,
+      "ctr": 2.48,
+      "position": 13.2
+    },
+    {
+      "query": "bartact seat covers jk",
+      "impressions": 33,
+      "clicks": 3,
+      "ctr": 9.09,
+      "position": 1
+    },
+    {
+      "query": "best jeep wrangler seat covers",
+      "impressions": 100,
+      "clicks": 3,
+      "ctr": 3.0,
+      "position": 5.6
+    },
+    {
+      "query": "ford bronco seat covers",
+      "impressions": 285,
+      "clicks": 3,
+      "ctr": 1.05,
+      "position": 6.4
+    },
+    {
+      "query": "jeep wrangler car seat covers",
+      "impressions": 38,
+      "clicks": 3,
+      "ctr": 7.89,
+      "position": 6.5
+    },
+    {
+      "query": "jeep wrangler jl seat covers",
+      "impressions": 99,
+      "clicks": 3,
+      "ctr": 3.03,
+      "position": 5.7
+    },
+    {
+      "query": "molle clips",
+      "impressions": 262,
+      "clicks": 3,
+      "ctr": 1.15,
+      "position": 5.6
+    },
+    {
+      "query": "tactical car seat covers",
+      "impressions": 199,
+      "clicks": 3,
+      "ctr": 1.51,
+      "position": 9.3
+    }
+  ],
+  "zero_ctr_issues": [
+    {
+      "query": "tactical seat covers",
+      "page": "https://www.bartact.com/collections/seat-covers",
+      "impressions": 4124,
+      "ctr": 0.29,
+      "position": 10.8
+    },
+    {
+      "query": "car seat warmer",
+      "page": "https://www.bartact.com/products/car-seat-heater-kit-universal-warmer-12v-hi-lo-off-toggle-switch",
+      "impressions": 1587,
+      "ctr": 0,
+      "position": 5.2
+    },
+    {
+      "query": "roll bar fire extinguisher mount",
+      "page": "https://www.bartact.com/collections/fire-extinguisher-roll-bar-mount",
+      "impressions": 1488,
+      "ctr": 0,
+      "position": 8.1
+    },
+    {
+      "query": "d ring shackle",
+      "page": "https://www.bartact.com/products/bull-strap-3-4-heavy-duty-8t-d-ring-shackles-kit-w-isolators-washers-qty-2",
+      "impressions": 754,
+      "ctr": 0,
+      "position": 7.7
+    },
+    {
+      "query": "winch cover",
+      "page": "https://www.bartact.com/products/winch-cover-for-warn-zeon-10-and-12-patent-pending-bartact",
+      "impressions": 515,
+      "ctr": 0,
+      "position": 5.9
+    },
+    {
+      "query": "winch cover",
+      "page": "https://www.bartact.com/collections/winch-covers-patent-pending-by-bartact",
+      "impressions": 463,
+      "ctr": 0,
+      "position": 8.3
+    },
+    {
+      "query": "bronco seat covers",
+      "page": "https://www.bartact.com/products/bronco-seat-covers-front-tactical-seat-covers-for-ford-bronco-full-size-2021-2022-2023-2024-2025-for-2-door-or-4-door-bartact",
+      "impressions": 402,
+      "ctr": 0,
+      "position": 7.3
+    },
+    {
+      "query": "toyota tacoma seat covers",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-toyota-tacoma-2016-19-all-models-trd-non-trd-bartact-pair-w-molle",
+      "impressions": 377,
+      "ctr": 0,
+      "position": 9.2
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/collections/jeep-gladiator-seat-covers-accessories-2019",
+      "impressions": 371,
+      "ctr": 0.27,
+      "position": 2.5
+    },
+    {
+      "query": "ford bronco seat covers",
+      "page": "https://www.bartact.com/products/bronco-seat-covers-front-tactical-seat-covers-for-ford-bronco-full-size-2021-2022-2023-2024-2025-for-2-door-or-4-door-bartact",
+      "impressions": 280,
+      "ctr": 0.36,
+      "position": 6.5
+    },
+    {
+      "query": "tactical seat covers",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-jk-jku-2013-18-bartact-pair-w-molle-srs-air-bag-compliant",
+      "impressions": 246,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "bartact",
+      "page": "https://www.bartact.com/collections/accessories",
+      "impressions": 235,
+      "ctr": 0,
+      "position": 1.0
+    },
+    {
+      "query": "bartact",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+      "impressions": 228,
+      "ctr": 0.44,
+      "position": 1.0
+    },
+    {
+      "query": "bartact",
+      "page": "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "impressions": 227,
+      "ctr": 0.44,
+      "position": 1.0
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jk-jku-2007-18-accessories",
+      "impressions": 216,
+      "ctr": 0,
+      "position": 1.5
+    },
+    {
+      "query": "bartact",
+      "page": "https://www.bartact.com/collections/seat-covers",
+      "impressions": 214,
+      "ctr": 0.47,
+      "position": 1.0
+    },
+    {
+      "query": "kitchen fire extinguisher",
+      "page": "https://www.bartact.com/collections/kitchen-fire-extinguishers",
+      "impressions": 205,
+      "ctr": 0,
+      "position": 8.7
+    },
+    {
+      "query": "minecraft mask",
+      "page": "https://www.bartact.com/products/kids-size-minecraft-inspired-creeper-mask-minecraft-face-mask-reversible-2-ply-polyester-reusable-washable-face-mask-covers-w-filter-slot-by-bartact",
+      "impressions": 205,
+      "ctr": 0,
+      "position": 2.1
+    },
+    {
+      "query": "tactical seat covers for trucks",
+      "page": "https://www.bartact.com/collections/seat-covers",
+      "impressions": 203,
+      "ctr": 0,
+      "position": 11.1
+    },
+    {
+      "query": "molle bag",
+      "page": "https://www.bartact.com/collections/molle-pouches-molle-accessories-gear-bags-by-bartact",
+      "impressions": 196,
+      "ctr": 0,
+      "position": 10.2
+    },
+    {
+      "query": "grease fire extinguisher",
+      "page": "https://www.bartact.com/collections/kitchen-fire-extinguishers",
+      "impressions": 178,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "seatbelt covers",
+      "page": "https://www.bartact.com/products/universal-seat-belt-covers-pair-12-inches-tall-bartact",
+      "impressions": 148,
+      "ctr": 0,
+      "position": 7.3
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/products/front-seat-covers-for-jeep-wrangler-tj-1997-02-pair-bartact-base-line-performance",
+      "impressions": 144,
+      "ctr": 0,
+      "position": 10.3
+    },
+    {
+      "query": "pokemon mask",
+      "page": "https://www.bartact.com/products/kids-size-pokemon-inspired-pikachu-mask-pokemon-face-mask-pokemon-mask-reversible-2-ply-polyester-reusable-washable-face-mask-covers-w-filter-slot-by-bartact",
+      "impressions": 144,
+      "ctr": 0,
+      "position": 2.4
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-jk-jku-2011-12-bartact-pair-w-molle-non-srs-air-bag-compliant",
+      "impressions": 142,
+      "ctr": 0,
+      "position": 10.6
+    },
+    {
+      "query": "bronco door storage",
+      "page": "https://www.bartact.com/products/bronco-accessories-door-storage-pocket-bags-for-ford-bronco-2021-full-size-front-door-interior-storage-bartact-pat-pending",
+      "impressions": 139,
+      "ctr": 0,
+      "position": 9.4
+    },
+    {
+      "query": "bronco grab handles",
+      "page": "https://www.bartact.com/products/bronco-paracord-grab-handles-custom-for-ford-bronco-full-size-2021-2022-2023-2024-2025-2026-pair-of-2-bartact",
+      "impressions": 139,
+      "ctr": 0,
+      "position": 5.2
+    },
+    {
+      "query": "creeper mask",
+      "page": "https://www.bartact.com/products/kids-size-minecraft-inspired-creeper-mask-minecraft-face-mask-reversible-2-ply-polyester-reusable-washable-face-mask-covers-w-filter-slot-by-bartact",
+      "impressions": 128,
+      "ctr": 0,
+      "position": 3.3
+    },
+    {
+      "query": "jeep wrangler jl accessories",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "impressions": 119,
+      "ctr": 0,
+      "position": 11.6
+    },
+    {
+      "query": "molle seat covers",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-jk-jku-2011-12-bartact-pair-w-molle-srs-air-bag-compliant",
+      "impressions": 115,
+      "ctr": 0,
+      "position": 5.9
+    },
+    {
+      "query": "seat covers for jeeps",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+      "impressions": 115,
+      "ctr": 0,
+      "position": 5.8
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-tj-lj-2003-06-bartact-pair-w-molle-bartact",
+      "impressions": 112,
+      "ctr": 0,
+      "position": 10.8
+    },
+    {
+      "query": "warn winch cover",
+      "page": "https://www.bartact.com/products/winch-cover-for-warn-zeon-10-and-12-patent-pending-bartact",
+      "impressions": 110,
+      "ctr": 0,
+      "position": 8.8
+    },
+    {
+      "query": "fire extinguisher for grease fire",
+      "page": "https://www.bartact.com/collections/kitchen-fire-extinguishers",
+      "impressions": 105,
+      "ctr": 0,
+      "position": 8.3
+    },
+    {
+      "query": "seat covers for jeep wrangler",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+      "impressions": 105,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "jeep tj seat covers",
+      "page": "https://www.bartact.com/products/front-seat-covers-for-jeep-wrangler-tj-1997-02-pair-bartact-base-line-performance",
+      "impressions": 103,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "query": "seat covers for toyota tacoma",
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-toyota-tacoma-trd-2005-08-bartact-pair-w-molle",
+      "impressions": 102,
+      "ctr": 0,
+      "position": 9.9
+    }
+  ],
+  "near_misses": [
+    {
+      "query": "bronco accessories",
+      "page": "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "impressions": 431,
+      "clicks": 3,
+      "ctr": 0.7,
+      "position": 11.3
+    },
+    {
+      "query": "tactical seat covers for trucks",
+      "page": "https://www.bartact.com/collections/seat-covers",
+      "impressions": 203,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.1
+    },
+    {
+      "query": "tacoma seat covers",
+      "page": "https://www.bartact.com/collections/toyota-tacoma-seat-covers",
+      "impressions": 173,
+      "clicks": 1,
+      "ctr": 0.58,
+      "position": 12.6
+    },
+    {
+      "query": "ford bronco accessories",
+      "page": "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "impressions": 161,
+      "clicks": 3,
+      "ctr": 1.86,
+      "position": 12.7
+    },
+    {
+      "query": "jeep jl accessories",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "impressions": 149,
+      "clicks": 2,
+      "ctr": 1.34,
+      "position": 11.7
+    },
+    {
+      "query": "jeep wrangler jl accessories",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "impressions": 119,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.6
+    },
+    {
+      "query": "bartac",
+      "page": "https://www.bartact.com/",
+      "impressions": 115,
+      "clicks": 3,
+      "ctr": 2.61,
+      "position": 11.7
+    },
+    {
+      "query": "ford bronco accessories 2026",
+      "page": "https://www.bartact.com/blogs/news/best-ford-bronco-accessories-2026-must-have-interior-upgrades",
+      "impressions": 106,
+      "clicks": 2,
+      "ctr": 1.89,
+      "position": 11.9
+    },
+    {
+      "query": "molle bags",
+      "page": "https://www.bartact.com/products/molle-pouch-pals-molle-gear-compatible-14-x-5-5-x-2-5-lightweight-600d-uv-protected-polyester",
+      "impressions": 92,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.7
+    },
+    {
+      "query": "aftermarket heated seats",
+      "page": "https://www.bartact.com/products/car-seat-heater-kit-universal-warmer-12v-hi-lo-off-toggle-switch",
+      "impressions": 84,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.6
+    },
+    {
+      "query": "molle webbing",
+      "page": "https://www.bartact.com/collections/molle-accessories",
+      "impressions": 78,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.8
+    },
+    {
+      "query": "bronco accessories 2026",
+      "page": "https://www.bartact.com/blogs/news/best-ford-bronco-accessories-2026-must-have-interior-upgrades",
+      "impressions": 76,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.8
+    },
+    {
+      "query": "molle",
+      "page": "https://www.bartact.com/collections/molle-accessories",
+      "impressions": 74,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 16.1
+    },
+    {
+      "query": "bronco seat covers",
+      "page": "https://www.bartact.com/collections/ford-bronco-seat-covers",
+      "impressions": 64,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.0
+    },
+    {
+      "query": "punisher mask",
+      "page": "https://www.bartact.com/products/thin-blue-line-mask-punisher-mask-reversible-police-mask-2-layer-polyester-reusable-washable",
+      "impressions": 63,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.6
+    },
+    {
+      "query": "bartact seat covers",
+      "page": "https://www.bartact.com/products/rear-bench-tactical-seat-covers-for-jeep-wrangler-jku-2008-10-4-door-w-molle-bartact",
+      "impressions": 60,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.7
+    },
+    {
+      "query": "kitchen fire extinguishers",
+      "page": "https://www.bartact.com/collections/kitchen-fire-extinguishers",
+      "impressions": 52,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 15.9
+    },
+    {
+      "query": "wrangler jl accessories",
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "impressions": 52,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 13.3
+    },
+    {
+      "query": "5th gen 4runner seat covers",
+      "page": "https://www.bartact.com/products/rear-bench-tactical-seat-covers-for-toyota-4runner-5th-gen-2010-24-bartact",
+      "impressions": 51,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.2
+    }
+  ],
+  "collection_pages": [
+    {
+      "page": "https://www.bartact.com/collections/seat-covers",
+      "impressions": 9352,
+      "clicks": 106,
+      "ctr": 1.13,
+      "position": 9.0
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+      "impressions": 7421,
+      "clicks": 223,
+      "ctr": 3.0,
+      "position": 5.6
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-wrangler-seat-covers-accessories",
+      "impressions": 4436,
+      "clicks": 56,
+      "ctr": 1.26,
+      "position": 5.2
+    },
+    {
+      "page": "https://www.bartact.com/collections/molle-accessories",
+      "impressions": 3293,
+      "clicks": 66,
+      "ctr": 2.0,
+      "position": 6.7
+    },
+    {
+      "page": "https://www.bartact.com/collections/paracord-grab-handles",
+      "impressions": 2153,
+      "clicks": 43,
+      "ctr": 2.0,
+      "position": 5.1
+    },
+    {
+      "page": "https://www.bartact.com/collections/fire-extinguisher-roll-bar-mount",
+      "impressions": 2070,
+      "clicks": 9,
+      "ctr": 0.43,
+      "position": 7.7
+    },
+    {
+      "page": "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "impressions": 2033,
+      "clicks": 22,
+      "ctr": 1.08,
+      "position": 9.3
+    },
+    {
+      "page": "https://www.bartact.com/collections/grab-handles-for-jeep-wrangler-gladiator-ford-bronco-utvs-buggies-rails",
+      "impressions": 1896,
+      "clicks": 15,
+      "ctr": 0.79,
+      "position": 5.9
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-wrangler-jl-jlu-accessories-2018",
+      "impressions": 1864,
+      "clicks": 29,
+      "ctr": 1.56,
+      "position": 11.5
+    },
+    {
+      "page": "https://www.bartact.com/collections/car-truck-suv-utv-boat-fire-extinguishers-mounts",
+      "impressions": 1839,
+      "clicks": 13,
+      "ctr": 0.71,
+      "position": 10.2
+    },
+    {
+      "page": "https://www.bartact.com/collections/toyota-tacoma-seat-covers",
+      "impressions": 1727,
+      "clicks": 18,
+      "ctr": 1.04,
+      "position": 14.0
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-gladiator-seat-covers-accessories-2019",
+      "impressions": 1702,
+      "clicks": 24,
+      "ctr": 1.41,
+      "position": 6.3
+    },
+    {
+      "page": "https://www.bartact.com/collections/molle-buckles-attachments-accessories",
+      "impressions": 1437,
+      "clicks": 23,
+      "ctr": 1.6,
+      "position": 6.8
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-wrangler-tj-seat-covers",
+      "impressions": 1410,
+      "clicks": 44,
+      "ctr": 3.12,
+      "position": 4.4
+    },
+    {
+      "page": "https://www.bartact.com/collections/molle-pouches-molle-accessories-gear-bags-by-bartact",
+      "impressions": 1360,
+      "clicks": 4,
+      "ctr": 0.29,
+      "position": 14.2
+    },
+    {
+      "page": "https://www.bartact.com/collections/jeep-wrangler-tj-lj-2003-06-accessories",
+      "impressions": 1341,
+      "clicks": 15,
+      "ctr": 1.12,
+      "position": 7.0
+    },
+    {
+      "page": "https://www.bartact.com/collections/winch-covers-patent-pending-by-bartact",
+      "impressions": 1103,
+      "clicks": 7,
+      "ctr": 0.63,
+      "position": 8.3
+    },
+    {
+      "page": "https://www.bartact.com/collections/kitchen-fire-extinguishers",
+      "impressions": 1096,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 11.3
+    },
+    {
+      "page": "https://www.bartact.com/collections/toyota-4runner-seat-covers",
+      "impressions": 1042,
+      "clicks": 26,
+      "ctr": 2.5,
+      "position": 8.6
+    },
+    {
+      "page": "https://www.bartact.com/collections/ford-bronco-seat-covers",
+      "impressions": 845,
+      "clicks": 10,
+      "ctr": 1.18,
+      "position": 9.6
+    }
+  ],
+  "product_pages": [
+    {
+      "page": "https://www.bartact.com/products/car-seat-heater-kit-universal-warmer-12v-hi-lo-off-toggle-switch",
+      "impressions": 3397,
+      "clicks": 15,
+      "ctr": 0.44,
+      "position": 9.9
+    },
+    {
+      "page": "https://www.bartact.com/products/bronco-seat-covers-front-tactical-seat-covers-for-ford-bronco-full-size-2021-2022-2023-2024-2025-for-2-door-or-4-door-bartact",
+      "impressions": 1921,
+      "clicks": 11,
+      "ctr": 0.57,
+      "position": 7.1
+    },
+    {
+      "page": "https://www.bartact.com/products/paracord-grab-handles-bolt-on-for-jeep-wrangler-jl-jlu-2018-made-in-usa-550-paracord-bartact-1",
+      "impressions": 1423,
+      "clicks": 9,
+      "ctr": 0.63,
+      "position": 6.7
+    },
+    {
+      "page": "https://www.bartact.com/products/wrangliator-full-set-door-net-pockets-replacement-storage-bags-for-jeep-wrangler-jlu-and-gladiator-patent-pending-bartact",
+      "impressions": 1235,
+      "clicks": 16,
+      "ctr": 1.3,
+      "position": 7.1
+    },
+    {
+      "page": "https://www.bartact.com/products/bronco-paracord-grab-handles-custom-for-ford-bronco-full-size-2021-2022-2023-2024-2025-2026-pair-of-2-bartact",
+      "impressions": 1183,
+      "clicks": 21,
+      "ctr": 1.78,
+      "position": 5.4
+    },
+    {
+      "page": "https://www.bartact.com/products/front-seat-covers-for-jeep-wrangler-tj-1997-02-pair-bartact-base-line-performance",
+      "impressions": 1137,
+      "clicks": 6,
+      "ctr": 0.53,
+      "position": 8.3
+    },
+    {
+      "page": "https://www.bartact.com/products/bronco-accessories-door-storage-pocket-bags-for-ford-bronco-2021-full-size-front-door-interior-storage-bartact-pat-pending",
+      "impressions": 974,
+      "clicks": 9,
+      "ctr": 0.92,
+      "position": 7.5
+    },
+    {
+      "page": "https://www.bartact.com/products/winch-cover-for-warn-zeon-10-and-12-patent-pending-bartact",
+      "impressions": 896,
+      "clicks": 1,
+      "ctr": 0.11,
+      "position": 6.7
+    },
+    {
+      "page": "https://www.bartact.com/products/bull-strap-3-4-heavy-duty-8t-d-ring-shackles-kit-w-isolators-washers-qty-2",
+      "impressions": 888,
+      "clicks": 1,
+      "ctr": 0.11,
+      "position": 7.6
+    },
+    {
+      "page": "https://www.bartact.com/products/adjustable-paracord-door-limiting-straps-pair-of-2-for-1976-06-jeep-wrangler-cj-yj-tj-jk-jku-jl-jlu-gladiator-bartact",
+      "impressions": 830,
+      "clicks": 9,
+      "ctr": 1.08,
+      "position": 5.9
+    },
+    {
+      "page": "https://www.bartact.com/products/tj-door-handles-paracord-jeep-grab-handles-for-jeep-wrangler-tj-lj-97-06-interior-door-pull-handles-550-paracord-grab-handles-w-grommets-pair-bartact",
+      "impressions": 826,
+      "clicks": 7,
+      "ctr": 0.85,
+      "position": 7.0
+    },
+    {
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-tj-lj-2003-06-bartact-pair-w-molle-bartact",
+      "impressions": 794,
+      "clicks": 2,
+      "ctr": 0.25,
+      "position": 9.3
+    },
+    {
+      "page": "https://www.bartact.com/products/kids-size-minecraft-inspired-creeper-mask-minecraft-face-mask-reversible-2-ply-polyester-reusable-washable-face-mask-covers-w-filter-slot-by-bartact",
+      "impressions": 708,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 2.9
+    },
+    {
+      "page": "https://www.bartact.com/products/pals-molle-velcro-panel-strips-bartact-pat-pend",
+      "impressions": 685,
+      "clicks": 11,
+      "ctr": 1.61,
+      "position": 8.6
+    },
+    {
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-toyota-tacoma-trd-2005-08-bartact-pair-w-molle",
+      "impressions": 680,
+      "clicks": 0,
+      "ctr": 0,
+      "position": 6.7
+    },
+    {
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-jk-jku-2011-12-bartact-pair-w-molle-srs-air-bag-compliant",
+      "impressions": 676,
+      "clicks": 3,
+      "ctr": 0.44,
+      "position": 8.6
+    },
+    {
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-gladiator-2021-jt-bartact-pair-for-mojave-edition-only",
+      "impressions": 649,
+      "clicks": 4,
+      "ctr": 0.62,
+      "position": 7.5
+    },
+    {
+      "page": "https://www.bartact.com/products/kids-size-pokemon-inspired-pikachu-mask-pokemon-face-mask-pokemon-mask-reversible-2-ply-polyester-reusable-washable-face-mask-covers-w-filter-slot-by-bartact",
+      "impressions": 599,
+      "clicks": 1,
+      "ctr": 0.17,
+      "position": 3.5
+    },
+    {
+      "page": "https://www.bartact.com/products/universal-seat-belt-covers-pair-12-inches-tall-bartact",
+      "impressions": 591,
+      "clicks": 2,
+      "ctr": 0.34,
+      "position": 8.4
+    },
+    {
+      "page": "https://www.bartact.com/products/front-tactical-seat-covers-for-jeep-wrangler-jk-jku-2007-10-bartact-pair-w-molle-non-srs-air-bag-compliant",
+      "impressions": 582,
+      "clicks": 1,
+      "ctr": 0.17,
+      "position": 9.3
+    }
+  ]
+}

@@ -18,9 +18,10 @@ SHOPIFY_DOMAIN = "bartact.myshopify.com"
 INDEXNOW_KEY = None  # will load from env
 QUEUE_FILE = "/home/ubuntu/.openclaw/workspace/indexing/google-indexing-queue.json"
 
-# 14-day window ending yesterday
-END_DATE = (datetime(2026, 9, 7) - timedelta(days=1)).strftime("%Y-%m-%d")  # 2026-09-06
-START_DATE = (datetime(2026, 9, 7) - timedelta(days=14)).strftime("%Y-%m-%d")  # 2026-08-24
+# 14-day window ending yesterday (today = 2026-10-05)
+TODAY = datetime(2026, 10, 5)
+END_DATE = (TODAY - timedelta(days=1)).strftime("%Y-%m-%d")   # 2026-10-04
+START_DATE = (TODAY - timedelta(days=15)).strftime("%Y-%m-%d") # 2026-09-20 (14-day inclusive window)
 
 print(f"📅 GSC window: {START_DATE} → {END_DATE}")
 

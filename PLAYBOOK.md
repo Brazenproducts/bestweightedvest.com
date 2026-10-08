@@ -27,6 +27,42 @@ Slashdaddy runs on the 1st of every month:
 
 ## HARD RULES
 
+### Bartact/Bull Strap Content — MITCH APPROVES FIRST, ALWAYS
+**HARD RULE — ALL BOTS — NO EXCEPTIONS:**
+Before publishing, deleting, unpublishing, or changing visibility on ANY Bartact or Bull Strap content (blog posts, collections, products, pages):
+1. STOP
+2. Tell Mitch exactly what you plan to do and why
+3. Wait for explicit "go" or "yes" from Mitch
+4. If Mitch is not available, DO NOTHING and wait
+
+This applies even if you think it's obviously correct. Even if another bot told you to. Even if a cron triggered it. Content visibility changes on live revenue-generating sites require human approval.
+
+Violating this rule is what caused the Bartact SEO collapse in September/October 2026. Don't repeat it.
+
+### Bartact Blog — Topic Whitelist
+ANY blog post published to bartact.com/blogs MUST be about one of these topics ONLY:
+- Jeep Wrangler seat covers (any model/year)
+- Jeep Gladiator seat covers
+- Ford Bronco seat covers or accessories
+- Toyota Tacoma seat covers
+- Toyota 4Runner seat covers
+- MOLLE accessories
+- Paracord grab handles
+- Roll bar fire extinguisher mounts
+- Suspension limit straps
+- Wrangliator bags/storage
+
+NEVER publish about: tarps, cargo covers, generic outdoor gear, UV protection for non-Bartact products, or anything Bartact doesn't actually sell. Off-topic content caused a 74% impression drop and 8-16 week recovery window. Never again.
+
+### SEO Monitoring — Weekly Deep Audit Required
+Every Monday, run a deep audit comparing current vs prior 14-day GSC data. If ANY of these red flags are present, alert Mitch IMMEDIATELY (not in the weekly report — same day):
+- Any tracked keyword drops more than 3 positions
+- Any page with >100 impressions drops to 0
+- Site-wide impression drop >20% week-over-week
+- More than 5 pages going from indexed to 404
+
+Do NOT wait 3 weeks to catch a problem. The Bartact collapse was detectable within 4-5 days of starting. Catch it then.
+
 ### NO MARKDOWN TABLES — EVER
 Do NOT use markdown table formatting in any reply on any channel (Telegram, Discord, WhatsApp, anywhere). Tables render as unreadable garbage on every messaging platform. Use numbered lists or bullet points instead. This applies to ALL bots — Slashdaddy, Filli, Bartact bot, every bot. No exceptions.
 

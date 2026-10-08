@@ -727,3 +727,1510 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [2026-09-19T02:57:42.077Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-gauge-thickness-load-rating-spec.html
 [2026-09-19T02:57:42.621Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-gauge-thickness-load-rating-spec.html
 [2026-09-19T02:58:40Z] ✅ Published 4 posts: ppcontainers.com (2), ppcorrugate.com (2) | nextSiteIndex: 22 | totalPublished: 43
+[2026-09-20T11:30:54.199Z] ✅ Wrote blog/wall-thickness-load-rating-guide.html for ppcorrugatebox.com
+[2026-09-20T11:30:54.825Z] ⚠️ git pull --rebase for ppcorrugatebox.com: From https://github.com/Brazenproducts/ppcorrugatebox.com
+ * branch            main       -> FETCH_HEAD
+   5a53850..d3114f1  main       -> origin/main
+Rebasing (1/2)error: could not apply e35e9dd... fix(audit): auto-fix SEO issues
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+Could not apply e35e9dd... fix(audit): auto-fix SEO issues
+
+[2026-09-20T11:30:55.330Z] ❌ git push failed for ppcorrugatebox.com: To https://github.com/Brazenproducts/ppcorrugatebox.com.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Brazenproducts/ppcorrugatebox.com.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+[2026-09-20T11:30:55.586Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/wall-thickness-load-rating-guide.html
+[2026-09-20T11:30:56.310Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/wall-thickness-load-rating-guide.html
+[2026-09-20T11:31:41.452Z] ✅ Wrote blog/cleaning-hygiene-protocols-reusable-packaging.html for ppcorrugatebox.com
+[2026-09-20T11:31:41.475Z] ⚠️ git commit: error: Committing is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+[2026-09-20T11:31:41.479Z] ⚠️ git pull --rebase for ppcorrugatebox.com: error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+[2026-09-20T11:31:41.908Z] ❌ git push failed for ppcorrugatebox.com: To https://github.com/Brazenproducts/ppcorrugatebox.com.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Brazenproducts/ppcorrugatebox.com.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+[2026-09-20T11:31:42.410Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/cleaning-hygiene-protocols-reusable-packaging.html
+[2026-09-20T11:31:43.176Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/cleaning-hygiene-protocols-reusable-packaging.html
+[2026-09-20T11:32:34.885Z] Created blog/ for ppcorrugatedboxes.com
+[2026-09-20T11:32:34.886Z] Created blog/index.html for ppcorrugatedboxes.com
+[2026-09-20T11:32:34.904Z] ✅ Wrote blog/roi-analysis-reusable-versus-disposable.html for ppcorrugatedboxes.com
+[2026-09-20T11:32:35.279Z] ⚠️ git pull --rebase for ppcorrugatedboxes.com: From https://github.com/Brazenproducts/ppcorrugatedboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-20T11:32:36.947Z] ✅ Pushed ppcorrugatedboxes.com/blog/roi-analysis-reusable-versus-disposable.html
+[2026-09-20T11:32:37.184Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/roi-analysis-reusable-versus-disposable.html
+[2026-09-20T11:32:37.900Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/roi-analysis-reusable-versus-disposable.html
+[2026-09-20T11:33:29.804Z] ✅ Wrote blog/cold-chain-temperature-performance.html for ppcorrugatedboxes.com
+[2026-09-20T11:33:30.416Z] ⚠️ git pull --rebase for ppcorrugatedboxes.com: From https://github.com/Brazenproducts/ppcorrugatedboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-20T11:33:31.761Z] ✅ Pushed ppcorrugatedboxes.com/blog/cold-chain-temperature-performance.html
+[2026-09-20T11:33:31.999Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/cold-chain-temperature-performance.html
+[2026-09-20T11:33:32.581Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/cold-chain-temperature-performance.html
+[2026-09-20T11:34:35+00:00] ✅ Published 4 posts: ppcorrugatebox (2), ppcorrugatedboxes (2) | Total: 47 | Next: index 24 | Git issues: ppcorrugatebox rebase conflict (posts indexed successfully)
+[2026-09-20T15:31:05.928Z] ✅ Wrote blog/wall-thickness-load-rating-spec-guide.html for ppcorrugatedboxes.com
+[2026-09-20T15:31:06.332Z] ⚠️ git pull --rebase for ppcorrugatedboxes.com: From https://github.com/Brazenproducts/ppcorrugatedboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-20T15:31:07.674Z] ✅ Pushed ppcorrugatedboxes.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-20T15:31:07.991Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-20T15:31:08.835Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-20T15:32:25.796Z] ✅ Wrote blog/cleaning-protocols-sanitization-guidelines.html for ppcorrugatedboxes.com
+[2026-09-20T15:32:26.175Z] ⚠️ git pull --rebase for ppcorrugatedboxes.com: From https://github.com/Brazenproducts/ppcorrugatedboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-20T15:32:27.543Z] ✅ Pushed ppcorrugatedboxes.com/blog/cleaning-protocols-sanitization-guidelines.html
+[2026-09-20T15:32:27.823Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/cleaning-protocols-sanitization-guidelines.html
+[2026-09-20T15:32:28.322Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/cleaning-protocols-sanitization-guidelines.html
+[2026-09-20T15:33:27.329Z] Created blog/ for producecrates.com
+[2026-09-20T15:33:27.330Z] Created blog/index.html for producecrates.com
+[2026-09-20T15:33:27.348Z] ✅ Wrote blog/field-to-market-ventilation-stacking-guide.html for producecrates.com
+[2026-09-20T15:33:29.213Z] ✅ Pushed producecrates.com/blog/field-to-market-ventilation-stacking-guide.html
+[2026-09-20T15:33:29.434Z] Google Indexing ✅ 200 — https://producecrates.com/blog/field-to-market-ventilation-stacking-guide.html
+[2026-09-20T15:33:30.111Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/field-to-market-ventilation-stacking-guide.html
+[2026-09-20T15:34:35.011Z] ✅ Wrote blog/custom-order-sizing-lead-time-process.html for producecrates.com
+[2026-09-20T15:34:36.656Z] ✅ Pushed producecrates.com/blog/custom-order-sizing-lead-time-process.html
+[2026-09-20T15:34:36.929Z] Google Indexing ✅ 200 — https://producecrates.com/blog/custom-order-sizing-lead-time-process.html
+[2026-09-20T15:34:37.548Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/custom-order-sizing-lead-time-process.html
+[2026-09-20T15:35:44+00:00] ✅ Published 4 posts: ppcorrugatedboxes (2), producecrates (2). Total: 51. Next: sites 26-27.
+[2026-09-21T11:35:44.892Z] Created blog/ for reusableshippingboxes.com
+[2026-09-21T11:35:44.893Z] Created blog/index.html for reusableshippingboxes.com
+[2026-09-21T11:35:44.910Z] ✅ Wrote blog/cost-per-trip-analysis-reusable-vs-disposable-shipping-boxes.html for reusableshippingboxes.com
+[2026-09-21T11:35:45.300Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T11:35:46.781Z] ✅ Pushed reusableshippingboxes.com/blog/cost-per-trip-analysis-reusable-vs-disposable-shipping-boxes.html
+[2026-09-21T11:35:47.052Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/cost-per-trip-analysis-reusable-vs-disposable-shipping-boxes.html
+[2026-09-21T11:35:47.529Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/cost-per-trip-analysis-reusable-vs-disposable-shipping-boxes.html
+[2026-09-21T11:36:53.802Z] ✅ Wrote blog/cleaning-hygiene-protocols-reusable-pp-shipping-containers.html for reusableshippingboxes.com
+[2026-09-21T11:36:54.198Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T11:36:55.454Z] ✅ Pushed reusableshippingboxes.com/blog/cleaning-hygiene-protocols-reusable-pp-shipping-containers.html
+[2026-09-21T11:36:55.751Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/cleaning-hygiene-protocols-reusable-pp-shipping-containers.html
+[2026-09-21T11:36:56.456Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/cleaning-hygiene-protocols-reusable-pp-shipping-containers.html
+[2026-09-21T11:40:12.596Z] Created blog/ for vegetablecrates.com
+[2026-09-21T11:40:12.597Z] Created blog/index.html for vegetablecrates.com
+[2026-09-21T11:40:12.615Z] ✅ Wrote blog/temperature-cold-chain-performance-pp-vegetable-crates.html for vegetablecrates.com
+[2026-09-21T11:40:12.994Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T11:40:14.388Z] ✅ Pushed vegetablecrates.com/blog/temperature-cold-chain-performance-pp-vegetable-crates.html
+[2026-09-21T11:40:14.579Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/temperature-cold-chain-performance-pp-vegetable-crates.html
+[2026-09-21T11:40:15.140Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/temperature-cold-chain-performance-pp-vegetable-crates.html
+[2026-09-21T15:31:14.124Z] ✅ Wrote blog/fda-compliance-pp-reusable-shipping-boxes-food-grade.html for reusableshippingboxes.com
+[2026-09-21T15:31:14.527Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T15:31:15.799Z] ✅ Pushed reusableshippingboxes.com/blog/fda-compliance-pp-reusable-shipping-boxes-food-grade.html
+[2026-09-21T15:31:16.040Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/fda-compliance-pp-reusable-shipping-boxes-food-grade.html
+[2026-09-21T15:31:16.648Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/fda-compliance-pp-reusable-shipping-boxes-food-grade.html
+[2026-09-21T15:32:24.450Z] ✅ Wrote blog/custom-size-order-process-pp-reusable-shipping-boxes.html for reusableshippingboxes.com
+[2026-09-21T15:32:24.912Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T15:32:26.200Z] ✅ Pushed reusableshippingboxes.com/blog/custom-size-order-process-pp-reusable-shipping-boxes.html
+[2026-09-21T15:32:26.477Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/custom-size-order-process-pp-reusable-shipping-boxes.html
+[2026-09-21T15:32:27.246Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/custom-size-order-process-pp-reusable-shipping-boxes.html
+[2026-09-21T15:33:27.786Z] ✅ Wrote blog/gauge-thickness-load-ratings-pp-vegetable-crates-spec-guide.html for vegetablecrates.com
+[2026-09-21T15:33:28.201Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T15:33:29.531Z] ✅ Pushed vegetablecrates.com/blog/gauge-thickness-load-ratings-pp-vegetable-crates-spec-guide.html
+[2026-09-21T15:33:29.796Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/gauge-thickness-load-ratings-pp-vegetable-crates-spec-guide.html
+[2026-09-21T15:33:30.382Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/gauge-thickness-load-ratings-pp-vegetable-crates-spec-guide.html
+[2026-09-21T15:34:39.310Z] ✅ Wrote blog/roi-reusable-vs-disposable-vegetable-crates-cost-analysis.html for vegetablecrates.com
+[2026-09-21T15:34:39.707Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-21T15:34:41.038Z] ✅ Pushed vegetablecrates.com/blog/roi-reusable-vs-disposable-vegetable-crates-cost-analysis.html
+[2026-09-21T15:34:41.284Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/roi-reusable-vs-disposable-vegetable-crates-cost-analysis.html
+[2026-09-21T15:34:41.955Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/roi-reusable-vs-disposable-vegetable-crates-cost-analysis.html
+[2026-09-21T15:36:01.593Z] ✅ Published 4 posts: reusableshippingboxes (2), vegetablecrates (2). Total: 55. Next: cardboardproduceboxes (index 0).
+[2026-09-22T11:31:08.520Z] ✅ Wrote blog/moisture-resistance-hygiene-produce-packaging.html for cardboardproduceboxes.com
+[2026-09-22T11:31:08.927Z] ⚠️ git pull --rebase for cardboardproduceboxes.com: From https://github.com/Brazenproducts/cardboardproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-22T11:31:10.237Z] ✅ Pushed cardboardproduceboxes.com/blog/moisture-resistance-hygiene-produce-packaging.html
+[2026-09-22T11:31:10.525Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/moisture-resistance-hygiene-produce-packaging.html
+[2026-09-22T11:31:11.295Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/moisture-resistance-hygiene-produce-packaging.html
+[2026-09-22T11:31:58.120Z] ✅ Wrote blog/custom-sizing-lead-times-produce-boxes.html for cardboardproduceboxes.com
+[2026-09-22T11:31:58.516Z] ⚠️ git pull --rebase for cardboardproduceboxes.com: From https://github.com/Brazenproducts/cardboardproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-22T11:31:59.836Z] ✅ Pushed cardboardproduceboxes.com/blog/custom-sizing-lead-times-produce-boxes.html
+[2026-09-22T11:32:00.103Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/custom-sizing-lead-times-produce-boxes.html
+[2026-09-22T11:32:00.875Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/custom-sizing-lead-times-produce-boxes.html
+[2026-09-22T11:32:47.937Z] ✅ Wrote blog/wall-thickness-load-rating-specifications.html for corrugatedplasticboxes.com
+[2026-09-22T11:32:48.334Z] ⚠️ git pull --rebase for corrugatedplasticboxes.com: From https://github.com/Brazenproducts/corrugatedplasticboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-22T11:32:50.530Z] ✅ Pushed corrugatedplasticboxes.com/blog/wall-thickness-load-rating-specifications.html
+[2026-09-22T11:32:50.810Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/wall-thickness-load-rating-specifications.html
+[2026-09-22T11:32:51.439Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/wall-thickness-load-rating-specifications.html
+[2026-09-22T11:33:50.112Z] ✅ Wrote blog/fda-usda-compliance-food-grade-pp-boxes.html for corrugatedplasticboxes.com
+[2026-09-22T11:33:50.484Z] ⚠️ git pull --rebase for corrugatedplasticboxes.com: From https://github.com/Brazenproducts/corrugatedplasticboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-22T11:33:51.878Z] ✅ Pushed corrugatedplasticboxes.com/blog/fda-usda-compliance-food-grade-pp-boxes.html
+[2026-09-22T11:33:52.145Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/fda-usda-compliance-food-grade-pp-boxes.html
+[2026-09-22T11:33:52.650Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/fda-usda-compliance-food-grade-pp-boxes.html
+[2026-09-22T11:35:10.264Z] ✅ Published 4 posts: cardboardproduceboxes.com (2), corrugatedplasticboxes.com (2). Total: 59. Next: sites 2-3.
+[2026-09-22T15:31:13.367Z] ✅ Wrote blog/cold-chain-performance-corrugated-plastic.html for corrugatedplasticusa.com
+[2026-09-22T15:31:16.245Z] ✅ Pushed corrugatedplasticusa.com/blog/cold-chain-performance-corrugated-plastic.html
+[2026-09-22T15:31:16.527Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/cold-chain-performance-corrugated-plastic.html
+[2026-09-22T15:31:17.343Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/cold-chain-performance-corrugated-plastic.html
+[2026-09-22T15:32:23.203Z] ✅ Wrote blog/gauge-thickness-load-rating-guide.html for corrugatedplasticusa.com
+[2026-09-22T15:32:25.225Z] ✅ Pushed corrugatedplasticusa.com/blog/gauge-thickness-load-rating-guide.html
+[2026-09-22T15:32:25.488Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/gauge-thickness-load-rating-guide.html
+[2026-09-22T15:32:25.983Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/gauge-thickness-load-rating-guide.html
+[2026-09-22T15:33:37.079Z] ✅ Wrote blog/roi-analysis-slip-sheets-vs-wood-pallets.html for corrugatedslipsheet.com
+[2026-09-22T15:33:38.945Z] ✅ Pushed corrugatedslipsheet.com/blog/roi-analysis-slip-sheets-vs-wood-pallets.html
+[2026-09-22T15:33:39.187Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/roi-analysis-slip-sheets-vs-wood-pallets.html
+[2026-09-22T15:33:40.660Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/roi-analysis-slip-sheets-vs-wood-pallets.html
+[2026-09-22T15:39:06.101Z] ✅ Wrote blog/custom-slip-sheet-order-specifications-guide.html for corrugatedslipsheet.com
+[2026-09-22T15:39:08.187Z] ✅ Pushed corrugatedslipsheet.com/blog/custom-slip-sheet-order-specifications-guide.html
+[2026-09-22T15:39:08.480Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/custom-slip-sheet-order-specifications-guide.html
+[2026-09-22T15:39:09.039Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/custom-slip-sheet-order-specifications-guide.html
+[2026-09-22T15:39:09.500Z] ✅ Published 4 posts: corrugatedplasticusa.com (2), corrugatedslipsheet.com (2). Total: 63. Next: sites 4-5.
+[2026-09-23T11:30:57.678Z] ✅ Wrote blog/custom-slip-sheet-order-process-guide.html for corrugatedslipsheets.com
+[2026-09-23T11:30:59.611Z] ✅ Pushed corrugatedslipsheets.com/blog/custom-slip-sheet-order-process-guide.html
+[2026-09-23T11:30:59.885Z] Google Indexing ✅ 200 — https://corrugatedslipsheets.com/blog/custom-slip-sheet-order-process-guide.html
+[2026-09-23T11:31:00.544Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheets.com/blog/custom-slip-sheet-order-process-guide.html
+[2026-09-23T11:31:40.133Z] ✅ Wrote blog/load-rating-guide-slip-sheets.html for corrugatedslipsheets.com
+[2026-09-23T11:31:41.935Z] ✅ Pushed corrugatedslipsheets.com/blog/load-rating-guide-slip-sheets.html
+[2026-09-23T11:31:42.207Z] Google Indexing ✅ 200 — https://corrugatedslipsheets.com/blog/load-rating-guide-slip-sheets.html
+[2026-09-23T11:31:42.865Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheets.com/blog/load-rating-guide-slip-sheets.html
+[2026-09-23T11:32:25.525Z] ✅ Wrote blog/temperature-performance-pp-corrugate-cold-chain.html for corrugatesheet.com
+[2026-09-23T11:32:27.394Z] ✅ Pushed corrugatesheet.com/blog/temperature-performance-pp-corrugate-cold-chain.html
+[2026-09-23T11:32:27.623Z] Google Indexing ✅ 200 — https://corrugatesheet.com/blog/temperature-performance-pp-corrugate-cold-chain.html
+[2026-09-23T11:32:28.407Z] Bing IndexNow ✅ 200 — https://corrugatesheet.com/blog/temperature-performance-pp-corrugate-cold-chain.html
+[2026-09-23T11:33:10.840Z] ✅ Wrote blog/cost-per-trip-analysis-corrugate-sheets.html for corrugatesheet.com
+[2026-09-23T11:33:12.655Z] ✅ Pushed corrugatesheet.com/blog/cost-per-trip-analysis-corrugate-sheets.html
+[2026-09-23T11:33:12.912Z] Google Indexing ✅ 200 — https://corrugatesheet.com/blog/cost-per-trip-analysis-corrugate-sheets.html
+[2026-09-23T11:33:13.481Z] Bing IndexNow ✅ 200 — https://corrugatesheet.com/blog/cost-per-trip-analysis-corrugate-sheets.html
+2026-09-23T11:34:15+00:00 | ✅ Published 4 posts: corrugatedslipsheets (2), corrugatesheet (2) | Sites 4-5 | Total: 67
+[2026-09-24T11:31:25.187Z] ✅ Wrote blog/cleaning-protocols-custom-pp-corrugate.html for customplasticcorrugate.com
+[2026-09-24T11:31:27.090Z] ✅ Pushed customplasticcorrugate.com/blog/cleaning-protocols-custom-pp-corrugate.html
+[2026-09-24T11:31:27.368Z] Google Indexing ✅ 200 — https://customplasticcorrugate.com/blog/cleaning-protocols-custom-pp-corrugate.html
+[2026-09-24T11:31:28.057Z] Bing IndexNow ✅ 200 — https://customplasticcorrugate.com/blog/cleaning-protocols-custom-pp-corrugate.html
+[2026-09-24T11:32:38.462Z] ✅ Wrote blog/cold-chain-temperature-performance-pp-corrugate.html for customplasticcorrugate.com
+[2026-09-24T11:32:40.801Z] ✅ Pushed customplasticcorrugate.com/blog/cold-chain-temperature-performance-pp-corrugate.html
+[2026-09-24T11:32:41.075Z] Google Indexing ✅ 200 — https://customplasticcorrugate.com/blog/cold-chain-temperature-performance-pp-corrugate.html
+[2026-09-24T11:32:41.736Z] Bing IndexNow ✅ 200 — https://customplasticcorrugate.com/blog/cold-chain-temperature-performance-pp-corrugate.html
+[2026-09-24T11:34:13.480Z] ✅ Wrote blog/plastic-gaylord-spec-guide.html for gaylordboxesplastic.com
+[2026-09-24T11:34:13.884Z] ⚠️ git pull --rebase for gaylordboxesplastic.com: From https://github.com/Brazenproducts/gaylordboxesplastic.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-24T11:34:15.496Z] ✅ Pushed gaylordboxesplastic.com/blog/plastic-gaylord-spec-guide.html
+[2026-09-24T11:34:15.769Z] Google Indexing ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-spec-guide.html
+[2026-09-24T11:34:16.493Z] Bing IndexNow ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-spec-guide.html
+[2026-09-24T11:34:52.653Z] ✅ Wrote blog/reusable-gaylord-cost-per-trip.html for gaylordboxesplastic.com
+[2026-09-24T11:34:53.069Z] ⚠️ git pull --rebase for gaylordboxesplastic.com: From https://github.com/Brazenproducts/gaylordboxesplastic.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-24T11:34:54.347Z] ✅ Pushed gaylordboxesplastic.com/blog/reusable-gaylord-cost-per-trip.html
+[2026-09-24T11:34:54.583Z] Google Indexing ✅ 200 — https://gaylordboxesplastic.com/blog/reusable-gaylord-cost-per-trip.html
+[2026-09-24T11:34:55.093Z] Bing IndexNow ✅ 200 — https://gaylordboxesplastic.com/blog/reusable-gaylord-cost-per-trip.html
+[2026-09-24T11:35:45Z] SUCCESS sites=customplasticcorrugate,gaylordboxesplastic posts=4 nextSiteIndex=8 totalPublished updated
+[2026-09-24T11:35:56Z] SUCCESS sites=customplasticcorrugate,gaylordboxesplastic posts=4 nextSiteIndex=8 totalPublished updated
+[2026-09-24T11:36:07Z] SUCCESS sites=customplasticcorrugate,gaylordboxesplastic posts=4 nextSiteIndex=8 totalPublished updated
+[2026-09-24T11:36:20Z] SUCCESS sites=customplasticcorrugate,gaylordboxesplastic posts=4 nextSiteIndex=8 totalPublished updated
+[2026-09-24T11:37:39Z] SUCCESS customplasticcorrugate,gaylordboxesplastic 4-posts-published nextSiteIndex=8
+[2026-09-24T15:31:06.922Z] ✅ Wrote blog/custom-pallet-order-process-specifications.html for heavydutypallets.com
+[2026-09-24T15:31:07.333Z] ⚠️ git pull --rebase for heavydutypallets.com: From https://github.com/Brazenproducts/heavydutypallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-24T15:31:10.424Z] ✅ Pushed heavydutypallets.com/blog/custom-pallet-order-process-specifications.html
+[2026-09-24T15:31:10.771Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/custom-pallet-order-process-specifications.html
+[2026-09-24T15:31:11.817Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/custom-pallet-order-process-specifications.html
+[2026-09-24T15:32:15.041Z] ✅ Wrote blog/pallet-cleaning-protocols-food-safety.html for heavydutypallets.com
+[2026-09-24T15:32:15.460Z] ⚠️ git pull --rebase for heavydutypallets.com: From https://github.com/Brazenproducts/heavydutypallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-24T15:32:17.701Z] ✅ Pushed heavydutypallets.com/blog/pallet-cleaning-protocols-food-safety.html
+[2026-09-24T15:32:17.980Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/pallet-cleaning-protocols-food-safety.html
+[2026-09-24T15:32:18.400Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/pallet-cleaning-protocols-food-safety.html
+[2026-09-24T15:34:37.078Z] ✅ Wrote blog/cold-chain-plastic-pallet-performance.html for heavydutyplasticpallets.com
+[2026-09-24T15:34:37.499Z] ⚠️ git pull --rebase for heavydutyplasticpallets.com: From https://github.com/Brazenproducts/heavydutyplasticpallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-24T15:34:44.616Z] ✅ Pushed heavydutyplasticpallets.com/blog/cold-chain-plastic-pallet-performance.html
+[2026-09-24T15:34:44.914Z] Google Indexing ✅ 200 — https://heavydutyplasticpallets.com/blog/cold-chain-plastic-pallet-performance.html
+[2026-09-24T15:34:45.551Z] Bing IndexNow ✅ 200 — https://heavydutyplasticpallets.com/blog/cold-chain-plastic-pallet-performance.html
+[2026-09-25T11:31:14.061Z] ✅ Wrote blog/export-pallet-specifications-international-shipping.html for heavydutypallets.com
+[2026-09-25T11:31:14.728Z] ⚠️ git pull --rebase for heavydutypallets.com: From https://github.com/Brazenproducts/heavydutypallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-25T11:31:16.244Z] ✅ Pushed heavydutypallets.com/blog/export-pallet-specifications-international-shipping.html
+[2026-09-25T11:31:16.499Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/export-pallet-specifications-international-shipping.html
+[2026-09-25T11:31:17.415Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/export-pallet-specifications-international-shipping.html
+[2026-09-25T11:32:09.373Z] ✅ Wrote blog/plastic-pallet-cost-per-trip-analysis.html for heavydutypallets.com
+[2026-09-25T11:32:10.047Z] ⚠️ git pull --rebase for heavydutypallets.com: From https://github.com/Brazenproducts/heavydutypallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-25T11:32:11.406Z] ✅ Pushed heavydutypallets.com/blog/plastic-pallet-cost-per-trip-analysis.html
+[2026-09-25T11:32:11.785Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/plastic-pallet-cost-per-trip-analysis.html
+[2026-09-25T11:32:12.248Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/plastic-pallet-cost-per-trip-analysis.html
+[2026-09-25T11:33:05.741Z] ✅ Wrote blog/plastic-pallet-hygiene-protocols-food-safety.html for heavydutyplasticpallets.com
+[2026-09-25T11:33:06.231Z] ⚠️ git pull --rebase for heavydutyplasticpallets.com: From https://github.com/Brazenproducts/heavydutyplasticpallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-25T11:33:07.830Z] ✅ Pushed heavydutyplasticpallets.com/blog/plastic-pallet-hygiene-protocols-food-safety.html
+[2026-09-25T11:33:08.111Z] Google Indexing ✅ 200 — https://heavydutyplasticpallets.com/blog/plastic-pallet-hygiene-protocols-food-safety.html
+[2026-09-25T11:33:09.014Z] Bing IndexNow ✅ 200 — https://heavydutyplasticpallets.com/blog/plastic-pallet-hygiene-protocols-food-safety.html
+[2026-09-25T11:34:08.220Z] ✅ Wrote blog/custom-plastic-pallet-order-guide.html for heavydutyplasticpallets.com
+[2026-09-25T11:34:08.609Z] ⚠️ git pull --rebase for heavydutyplasticpallets.com: From https://github.com/Brazenproducts/heavydutyplasticpallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-25T11:34:09.991Z] ✅ Pushed heavydutyplasticpallets.com/blog/custom-plastic-pallet-order-guide.html
+[2026-09-25T11:34:10.182Z] Google Indexing ✅ 200 — https://heavydutyplasticpallets.com/blog/custom-plastic-pallet-order-guide.html
+[2026-09-25T11:34:10.893Z] Bing IndexNow ✅ 200 — https://heavydutyplasticpallets.com/blog/custom-plastic-pallet-order-guide.html
+[2026-09-25T11:35:13+00:00] ✅ Published 4 posts: heavydutypallets (2), heavydutyplasticpallets (2). Updated state: nextSiteIndex=10, totalPublished=75
+[2026-09-25T15:31:09.528Z] ✅ Wrote blog/custom-meat-lug-order-process-guide.html for meatlugs.com
+[2026-09-25T15:31:11.735Z] ✅ Pushed meatlugs.com/blog/custom-meat-lug-order-process-guide.html
+[2026-09-25T15:31:11.898Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://meatlugs.com/blog/custom-meat-lug-order-process-guide.html
+[2026-09-25T15:31:12.642Z] Bing IndexNow ✅ 200 — https://meatlugs.com/blog/custom-meat-lug-order-process-guide.html
+[2026-09-25T15:31:58.718Z] ✅ Wrote blog/cold-chain-performance-meat-lug-insulation.html for meatlugs.com
+[2026-09-25T15:32:00.656Z] ✅ Pushed meatlugs.com/blog/cold-chain-performance-meat-lug-insulation.html
+[2026-09-25T15:32:00.914Z] Google Indexing ✅ 200 — https://meatlugs.com/blog/cold-chain-performance-meat-lug-insulation.html
+[2026-09-25T15:32:01.399Z] Bing IndexNow ✅ 200 — https://meatlugs.com/blog/cold-chain-performance-meat-lug-insulation.html
+[2026-09-25T15:32:52.579Z] ✅ Wrote blog/fda-usda-compliance-plastic-corrugated-boxes.html for plasticcorrugatedbox.com
+[2026-09-25T15:32:56.382Z] ✅ Pushed plasticcorrugatedbox.com/blog/fda-usda-compliance-plastic-corrugated-boxes.html
+[2026-09-25T15:32:56.503Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticcorrugatedbox.com/blog/fda-usda-compliance-plastic-corrugated-boxes.html
+[2026-09-25T15:32:57.149Z] Bing IndexNow ✅ 200 — https://plasticcorrugatedbox.com/blog/fda-usda-compliance-plastic-corrugated-boxes.html
+[2026-09-25T15:33:52.709Z] ✅ Wrote blog/load-rating-wall-thickness-plastic-corrugated.html for plasticcorrugatedbox.com
+[2026-09-25T15:33:54.593Z] ✅ Pushed plasticcorrugatedbox.com/blog/load-rating-wall-thickness-plastic-corrugated.html
+[2026-09-25T15:33:54.770Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticcorrugatedbox.com/blog/load-rating-wall-thickness-plastic-corrugated.html
+[2026-09-25T15:33:55.339Z] Bing IndexNow ✅ 200 — https://plasticcorrugatedbox.com/blog/load-rating-wall-thickness-plastic-corrugated.html
+[2026-09-25T15:34:59Z] ✅ Published 4 posts: meatlugs (2), plasticcorrugatedbox (2) | Total: 79 | Next: index 12
+[2026-09-26T11:31:08.312Z] ✅ Wrote blog/cleaning-hygiene-protocols-plastic-gaylords.html for plasticgaylord.com
+[2026-09-26T11:31:08.710Z] ⚠️ git pull --rebase for plasticgaylord.com: From https://github.com/Brazenproducts/plasticgaylord.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T11:31:10.079Z] ✅ Pushed plasticgaylord.com/blog/cleaning-hygiene-protocols-plastic-gaylords.html
+[2026-09-26T11:31:10.259Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylord.com/blog/cleaning-hygiene-protocols-plastic-gaylords.html
+[2026-09-26T11:31:11.022Z] Bing IndexNow ✅ 200 — https://plasticgaylord.com/blog/cleaning-hygiene-protocols-plastic-gaylords.html
+[2026-09-26T11:32:12.450Z] FATAL: Bad escaped character in JSON at position 1902 (line 1 column 1903)
+[2026-09-26T11:32:39.819Z] ✅ Wrote blog/custom-order-process-bulk-pp-containers.html for plasticgaylord.com
+[2026-09-26T11:32:40.452Z] ⚠️ git pull --rebase for plasticgaylord.com: From https://github.com/Brazenproducts/plasticgaylord.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T11:32:41.734Z] ✅ Pushed plasticgaylord.com/blog/custom-order-process-bulk-pp-containers.html
+[2026-09-26T11:32:41.922Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylord.com/blog/custom-order-process-bulk-pp-containers.html
+[2026-09-26T11:32:42.421Z] Bing IndexNow ✅ 200 — https://plasticgaylord.com/blog/custom-order-process-bulk-pp-containers.html
+[2026-09-26T11:33:45.926Z] ✅ Wrote blog/temperature-performance-cold-chain-bulk-containers.html for plasticgaylordbox.com
+[2026-09-26T11:33:46.595Z] ⚠️ git pull --rebase for plasticgaylordbox.com: From https://github.com/Brazenproducts/plasticgaylordbox.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T11:33:48.077Z] ✅ Pushed plasticgaylordbox.com/blog/temperature-performance-cold-chain-bulk-containers.html
+[2026-09-26T11:33:48.261Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylordbox.com/blog/temperature-performance-cold-chain-bulk-containers.html
+[2026-09-26T11:33:48.964Z] Bing IndexNow ✅ 200 — https://plasticgaylordbox.com/blog/temperature-performance-cold-chain-bulk-containers.html
+[2026-09-26T11:34:56.100Z] ✅ Wrote blog/wall-thickness-load-rating-spec-guide.html for plasticgaylordbox.com
+[2026-09-26T11:34:56.500Z] ⚠️ git pull --rebase for plasticgaylordbox.com: From https://github.com/Brazenproducts/plasticgaylordbox.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T11:34:57.813Z] ✅ Pushed plasticgaylordbox.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-26T11:34:57.986Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylordbox.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-26T11:34:58.468Z] Bing IndexNow ✅ 200 — https://plasticgaylordbox.com/blog/wall-thickness-load-rating-spec-guide.html
+[2026-09-26T11:35:00Z] ✅ Published 4 posts across 2 sites
+  - plasticgaylord.com: cleaning-hygiene-protocols-plastic-gaylords.html
+  - plasticgaylord.com: custom-order-process-bulk-pp-containers.html
+  - plasticgaylordbox.com: temperature-performance-cold-chain-bulk-containers.html
+  - plasticgaylordbox.com: wall-thickness-load-rating-spec-guide.html
+  - All posts indexed via Bing (Google quota exceeded)
+  - State updated: nextSiteIndex 12→14, totalPublished 79→83
+[2026-09-26T15:30:53.228Z] ✅ Wrote blog/cleaning-protocols-plastic-gaylord-boxes.html for plasticgaylordboxes.com
+[2026-09-26T15:30:53.639Z] ⚠️ git pull --rebase for plasticgaylordboxes.com: From https://github.com/Brazenproducts/plasticgaylordboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T15:30:55.113Z] ✅ Pushed plasticgaylordboxes.com/blog/cleaning-protocols-plastic-gaylord-boxes.html
+[2026-09-26T15:30:55.306Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylordboxes.com/blog/cleaning-protocols-plastic-gaylord-boxes.html
+[2026-09-26T15:30:55.912Z] Bing IndexNow ✅ 200 — https://plasticgaylordboxes.com/blog/cleaning-protocols-plastic-gaylord-boxes.html
+[2026-09-26T15:31:38.889Z] ✅ Wrote blog/cold-chain-performance-plastic-gaylords.html for plasticgaylordboxes.com
+[2026-09-26T15:31:39.279Z] ⚠️ git pull --rebase for plasticgaylordboxes.com: From https://github.com/Brazenproducts/plasticgaylordboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-26T15:31:40.552Z] ✅ Pushed plasticgaylordboxes.com/blog/cold-chain-performance-plastic-gaylords.html
+[2026-09-26T15:31:40.740Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://plasticgaylordboxes.com/blog/cold-chain-performance-plastic-gaylords.html
+[2026-09-26T15:31:41.514Z] Bing IndexNow ✅ 200 — https://plasticgaylordboxes.com/blog/cold-chain-performance-plastic-gaylords.html
+[2026-09-26T15:32:26.184Z] ✅ Wrote blog/custom-polypropylene-box-order-process.html for polypropylenebox.com
+[2026-09-26T15:32:28.029Z] ✅ Pushed polypropylenebox.com/blog/custom-polypropylene-box-order-process.html
+[2026-09-26T15:32:28.182Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://polypropylenebox.com/blog/custom-polypropylene-box-order-process.html
+[2026-09-26T15:32:29.851Z] Bing IndexNow ✅ 200 — https://polypropylenebox.com/blog/custom-polypropylene-box-order-process.html
+[2026-09-26T15:33:14.287Z] ✅ Wrote blog/pp-box-wall-thickness-load-rating-guide.html for polypropylenebox.com
+[2026-09-26T15:33:16.053Z] ✅ Pushed polypropylenebox.com/blog/pp-box-wall-thickness-load-rating-guide.html
+[2026-09-26T15:33:16.242Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://polypropylenebox.com/blog/pp-box-wall-thickness-load-rating-guide.html
+[2026-09-26T15:33:17.178Z] Bing IndexNow ✅ 200 — https://polypropylenebox.com/blog/pp-box-wall-thickness-load-rating-guide.html
+[2026-09-26T15:33:17Z] Blog publishing run completed successfully
+- Sites: plasticgaylordboxes (index 14), polypropylenebox (index 15)
+- Posts published: 4/4 successful
+  1. plasticgaylordboxes.com/blog/cleaning-protocols-plastic-gaylord-boxes.html
+  2. plasticgaylordboxes.com/blog/cold-chain-performance-plastic-gaylords.html
+  3. polypropylenebox.com/blog/custom-polypropylene-box-order-process.html
+  4. polypropylenebox.com/blog/pp-box-wall-thickness-load-rating-guide.html
+- Total published to date: 87 posts
+- Next run: sites 16-17 (polypropylenecontainer, poultryboxes)
+- Google Indexing: Quota exceeded (429) for all posts
+- Bing IndexNow: All successful (200)
+- Git warnings: Rebase conflict in plasticgaylordboxes repo (non-blocking, pushes successful)
+
+[2026-09-27T11:31:14.891Z] ✅ Wrote blog/cleaning-hygiene-protocols-pp-containers.html for polypropylenecontainer.com
+[2026-09-27T11:31:16.987Z] ✅ Pushed polypropylenecontainer.com/blog/cleaning-hygiene-protocols-pp-containers.html
+[2026-09-27T11:31:17.233Z] Google Indexing ✅ 200 — https://polypropylenecontainer.com/blog/cleaning-hygiene-protocols-pp-containers.html
+[2026-09-27T11:31:18.509Z] Bing IndexNow ✅ 200 — https://polypropylenecontainer.com/blog/cleaning-hygiene-protocols-pp-containers.html
+[2026-09-27T11:32:21.872Z] ✅ Wrote blog/custom-pp-container-order-process.html for polypropylenecontainer.com
+[2026-09-27T11:32:23.902Z] ✅ Pushed polypropylenecontainer.com/blog/custom-pp-container-order-process.html
+[2026-09-27T11:32:24.144Z] Google Indexing ✅ 200 — https://polypropylenecontainer.com/blog/custom-pp-container-order-process.html
+[2026-09-27T11:32:24.904Z] Bing IndexNow ✅ 200 — https://polypropylenecontainer.com/blog/custom-pp-container-order-process.html
+[2026-09-27T11:33:33.203Z] ✅ Wrote blog/cold-chain-temperature-performance-poultry-boxes.html for poultryboxes.com
+[2026-09-27T11:33:33.605Z] ⚠️ git pull --rebase for poultryboxes.com: From https://github.com/Brazenproducts/poultryboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T11:33:34.844Z] ✅ Pushed poultryboxes.com/blog/cold-chain-temperature-performance-poultry-boxes.html
+[2026-09-27T11:33:35.133Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/cold-chain-temperature-performance-poultry-boxes.html
+[2026-09-27T11:33:36.233Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/cold-chain-temperature-performance-poultry-boxes.html
+[2026-09-27T11:36:38.437Z] ✅ Wrote blog/fda-usda-compliance-poultry-boxes.html for poultryboxes.com
+[2026-09-27T11:36:38.818Z] ⚠️ git pull --rebase for poultryboxes.com: From https://github.com/Brazenproducts/poultryboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T11:36:39.961Z] ✅ Pushed poultryboxes.com/blog/fda-usda-compliance-poultry-boxes.html
+[2026-09-27T11:36:40.238Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/fda-usda-compliance-poultry-boxes.html
+[2026-09-27T11:36:40.731Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/fda-usda-compliance-poultry-boxes.html
+[2026-09-27T11:36:40Z] OK published 4 posts for sites polypropylenecontainer,poultryboxes; nextSiteIndex=18; totalPublished=91
+[2026-09-27T11:36:40Z] OK published 4 posts for sites polypropylenecontainer,poultryboxes; nextSiteIndex=18; totalPublished=91
+[2026-09-27T11:36:40Z] OK published 4 posts for sites polypropylenecontainer,poultryboxes; nextSiteIndex=18; totalPublished=91
+[2026-09-27T11:36:40Z] OK published 4 posts for sites polypropylenecontainer,poultryboxes; nextSiteIndex=18; totalPublished=91
+[2026-09-27T15:34:03.336Z] ✅ Wrote blog/reusable-vs-disposable-poultry-crates-roi.html for poultrycrates.com
+[2026-09-27T15:34:03.738Z] ⚠️ git pull --rebase for poultrycrates.com: From https://github.com/Brazenproducts/poultrycrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T15:34:05.032Z] ✅ Pushed poultrycrates.com/blog/reusable-vs-disposable-poultry-crates-roi.html
+[2026-09-27T15:34:05.295Z] Google Indexing ✅ 200 — https://poultrycrates.com/blog/reusable-vs-disposable-poultry-crates-roi.html
+[2026-09-27T15:34:06.728Z] Bing IndexNow ✅ 200 — https://poultrycrates.com/blog/reusable-vs-disposable-poultry-crates-roi.html
+[2026-09-27T15:34:40.469Z] ✅ Wrote blog/poultry-crate-spec-guide-gauge-load-ratings.html for poultrycrates.com
+[2026-09-27T15:34:40.837Z] ⚠️ git pull --rebase for poultrycrates.com: From https://github.com/Brazenproducts/poultrycrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T15:34:42.020Z] ✅ Pushed poultrycrates.com/blog/poultry-crate-spec-guide-gauge-load-ratings.html
+[2026-09-27T15:34:42.259Z] Google Indexing ✅ 200 — https://poultrycrates.com/blog/poultry-crate-spec-guide-gauge-load-ratings.html
+[2026-09-27T15:34:42.781Z] Bing IndexNow ✅ 200 — https://poultrycrates.com/blog/poultry-crate-spec-guide-gauge-load-ratings.html
+[2026-09-27T15:35:14.897Z] ✅ Wrote blog/reusable-pp-poultry-shipping-box-roi.html for poultryshippingboxes.com
+[2026-09-27T15:35:15.292Z] ⚠️ git pull --rebase for poultryshippingboxes.com: From https://github.com/Brazenproducts/poultryshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T15:35:16.703Z] ✅ Pushed poultryshippingboxes.com/blog/reusable-pp-poultry-shipping-box-roi.html
+[2026-09-27T15:35:16.969Z] Google Indexing ✅ 200 — https://poultryshippingboxes.com/blog/reusable-pp-poultry-shipping-box-roi.html
+[2026-09-27T15:35:17.985Z] Bing IndexNow ✅ 200 — https://poultryshippingboxes.com/blog/reusable-pp-poultry-shipping-box-roi.html
+[2026-09-27T15:35:50.830Z] ✅ Wrote blog/fda-usda-compliance-poultry-shipping-boxes.html for poultryshippingboxes.com
+[2026-09-27T15:35:51.248Z] ⚠️ git pull --rebase for poultryshippingboxes.com: From https://github.com/Brazenproducts/poultryshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-27T15:35:52.535Z] ✅ Pushed poultryshippingboxes.com/blog/fda-usda-compliance-poultry-shipping-boxes.html
+[2026-09-27T15:35:52.806Z] Google Indexing ✅ 200 — https://poultryshippingboxes.com/blog/fda-usda-compliance-poultry-shipping-boxes.html
+[2026-09-27T15:35:53.638Z] Bing IndexNow ✅ 200 — https://poultryshippingboxes.com/blog/fda-usda-compliance-poultry-shipping-boxes.html
+[2026-09-27T15:35:53Z] RUN OK — sites: poultrycrates.com (+2), poultryshippingboxes.com (+2) — posts published: 4 — totalPublished: 95 — nextSiteIndex: 20
+[2026-09-28T11:31:04.947Z] ✅ Wrote blog/pp-container-roi-reusable-vs-disposable.html for ppcontainers.com
+[2026-09-28T11:31:07.816Z] ✅ Pushed ppcontainers.com/blog/pp-container-roi-reusable-vs-disposable.html
+[2026-09-28T11:31:08.037Z] Google Indexing ✅ 200 — https://ppcontainers.com/blog/pp-container-roi-reusable-vs-disposable.html
+[2026-09-28T11:31:08.512Z] Bing IndexNow ✅ 200 — https://ppcontainers.com/blog/pp-container-roi-reusable-vs-disposable.html
+[2026-09-28T11:31:41.611Z] ✅ Wrote blog/pp-container-cleaning-hygiene-protocols.html for ppcontainers.com
+[2026-09-28T11:31:46.489Z] ✅ Pushed ppcontainers.com/blog/pp-container-cleaning-hygiene-protocols.html
+[2026-09-28T11:31:46.793Z] Google Indexing ✅ 200 — https://ppcontainers.com/blog/pp-container-cleaning-hygiene-protocols.html
+[2026-09-28T11:31:47.267Z] Bing IndexNow ✅ 200 — https://ppcontainers.com/blog/pp-container-cleaning-hygiene-protocols.html
+[2026-09-28T11:32:23.377Z] ✅ Wrote blog/pp-corrugate-reusable-vs-cardboard-roi.html for ppcorrugate.com
+[2026-09-28T11:32:25.147Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-reusable-vs-cardboard-roi.html
+[2026-09-28T11:32:25.430Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-reusable-vs-cardboard-roi.html
+[2026-09-28T11:32:26.209Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-reusable-vs-cardboard-roi.html
+[2026-09-28T11:32:59.597Z] ✅ Wrote blog/pp-corrugate-gauge-spec-guide-buyers.html for ppcorrugate.com
+[2026-09-28T11:33:01.386Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-gauge-spec-guide-buyers.html
+[2026-09-28T11:33:01.632Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-gauge-spec-guide-buyers.html
+[2026-09-28T11:33:02.622Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-gauge-spec-guide-buyers.html
+[2026-09-28T11:33:02Z] Clean run: 4 posts published. Sites: ppcontainers (pp-container-roi-reusable-vs-disposable.html, pp-container-cleaning-hygiene-protocols.html), ppcorrugate (pp-corrugate-reusable-vs-cardboard-roi.html, pp-corrugate-gauge-spec-guide-buyers.html). nextSiteIndex: 22, totalPublished: 99.
+[2026-09-28T15:30:51.985Z] ✅ Wrote blog/pp-corrugate-cold-chain-performance-guide.html for ppcorrugate.com
+[2026-09-28T15:30:54.049Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-cold-chain-performance-guide.html
+[2026-09-28T15:30:54.357Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cold-chain-performance-guide.html
+[2026-09-28T15:30:54.908Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cold-chain-performance-guide.html
+[2026-09-28T15:31:48.508Z] ✅ Wrote blog/pp-corrugate-fda-usda-compliance-food-packaging.html for ppcorrugate.com
+[2026-09-28T15:31:50.571Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-fda-usda-compliance-food-packaging.html
+[2026-09-28T15:31:50.868Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-fda-usda-compliance-food-packaging.html
+[2026-09-28T15:31:51.551Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-fda-usda-compliance-food-packaging.html
+[2026-09-28T15:32:40.202Z] ✅ Wrote blog/pp-corrugate-box-roi-reusable-vs-cardboard.html for ppcorrugatebox.com
+[2026-09-28T15:32:40.225Z] ⚠️ git commit: error: Committing is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+[2026-09-28T15:32:40.230Z] ⚠️ git pull --rebase for ppcorrugatebox.com: error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+
+[2026-09-28T15:32:40.756Z] ❌ git push failed for ppcorrugatebox.com: To https://github.com/Brazenproducts/ppcorrugatebox.com.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Brazenproducts/ppcorrugatebox.com.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+[2026-09-28T15:32:41.010Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/pp-corrugate-box-roi-reusable-vs-cardboard.html
+[2026-09-28T15:32:41.560Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/pp-corrugate-box-roi-reusable-vs-cardboard.html
+[2026-09-28T15:33:53.773Z] ✅ Wrote blog/pp-corrugate-box-spec-guide-gauge-load-ratings.html for ppcorrugatebox.com
+[2026-09-28T15:33:55.709Z] ✅ Pushed ppcorrugatebox.com/blog/pp-corrugate-box-spec-guide-gauge-load-ratings.html
+[2026-09-28T15:33:55.954Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/pp-corrugate-box-spec-guide-gauge-load-ratings.html
+[2026-09-28T15:33:56.564Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/pp-corrugate-box-spec-guide-gauge-load-ratings.html
+[2026-09-28T15:33:56Z] Run complete. Sites: ppcorrugate.com (2 posts), ppcorrugatebox.com (2 posts). Total published: 103. nextSiteIndex: 24.
+[2026-09-29T15:30:54.911Z] ✅ Wrote blog/roi-calculation-reusable-vs-waxed-cardboard-crates.html for producecrates.com
+[2026-09-29T15:30:56.704Z] ✅ Pushed producecrates.com/blog/roi-calculation-reusable-vs-waxed-cardboard-crates.html
+[2026-09-29T15:30:56.996Z] Google Indexing ✅ 200 — https://producecrates.com/blog/roi-calculation-reusable-vs-waxed-cardboard-crates.html
+[2026-09-29T15:30:57.650Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/roi-calculation-reusable-vs-waxed-cardboard-crates.html
+[2026-09-29T15:31:38.324Z] ✅ Wrote blog/cold-chain-temperature-performance-reusable-crates.html for producecrates.com
+[2026-09-29T15:31:40.151Z] ✅ Pushed producecrates.com/blog/cold-chain-temperature-performance-reusable-crates.html
+[2026-09-29T15:31:40.441Z] Google Indexing ✅ 200 — https://producecrates.com/blog/cold-chain-temperature-performance-reusable-crates.html
+[2026-09-29T15:31:40.984Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/cold-chain-temperature-performance-reusable-crates.html
+[2026-09-29T15:32:26.783Z] ✅ Wrote blog/wall-thickness-load-rating-specification-guide.html for reusableshippingboxes.com
+[2026-09-29T15:32:27.222Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-29T15:32:28.736Z] ✅ Pushed reusableshippingboxes.com/blog/wall-thickness-load-rating-specification-guide.html
+[2026-09-29T15:32:28.999Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/wall-thickness-load-rating-specification-guide.html
+[2026-09-29T15:32:29.660Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/wall-thickness-load-rating-specification-guide.html
+[2026-09-29T15:33:17.401Z] ✅ Wrote blog/usda-fsis-compliance-meat-poultry-reusable-containers.html for reusableshippingboxes.com
+[2026-09-29T15:33:17.775Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-29T15:33:19.204Z] ✅ Pushed reusableshippingboxes.com/blog/usda-fsis-compliance-meat-poultry-reusable-containers.html
+[2026-09-29T15:33:19.487Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/usda-fsis-compliance-meat-poultry-reusable-containers.html
+[2026-09-29T15:33:20.277Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/usda-fsis-compliance-meat-poultry-reusable-containers.html
+[2026-09-29T15:34:14Z] ✅ Published 4 posts: producecrates (2), reusableshippingboxes (2). Total: 107. Next: index 26.
+[2026-09-30T11:31:11.528Z] ✅ Wrote blog/roi-reusable-shipping-boxes-closed-loop-distribution.html for reusableshippingboxes.com
+[2026-09-30T11:31:11.924Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T11:31:13.302Z] ✅ Pushed reusableshippingboxes.com/blog/roi-reusable-shipping-boxes-closed-loop-distribution.html
+[2026-09-30T11:31:13.490Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/roi-reusable-shipping-boxes-closed-loop-distribution.html
+[2026-09-30T11:31:14.243Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/roi-reusable-shipping-boxes-closed-loop-distribution.html
+[2026-09-30T11:32:24.560Z] ✅ Wrote blog/temperature-performance-reusable-pp-boxes-cold-chain.html for reusableshippingboxes.com
+[2026-09-30T11:32:25.003Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T11:32:26.253Z] ✅ Pushed reusableshippingboxes.com/blog/temperature-performance-reusable-pp-boxes-cold-chain.html
+[2026-09-30T11:32:26.490Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/temperature-performance-reusable-pp-boxes-cold-chain.html
+[2026-09-30T11:32:27.034Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/temperature-performance-reusable-pp-boxes-cold-chain.html
+[2026-09-30T11:33:11.301Z] ✅ Wrote blog/fda-usda-compliance-pp-vegetable-crates-food-safety.html for vegetablecrates.com
+[2026-09-30T11:33:11.696Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T11:33:13.075Z] ✅ Pushed vegetablecrates.com/blog/fda-usda-compliance-pp-vegetable-crates-food-safety.html
+[2026-09-30T11:33:13.322Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/fda-usda-compliance-pp-vegetable-crates-food-safety.html
+[2026-09-30T11:33:13.911Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/fda-usda-compliance-pp-vegetable-crates-food-safety.html
+[2026-09-30T11:34:16.452Z] ✅ Wrote blog/custom-order-process-pp-vegetable-crates-sizing.html for vegetablecrates.com
+[2026-09-30T11:34:16.835Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T11:34:19.269Z] ✅ Pushed vegetablecrates.com/blog/custom-order-process-pp-vegetable-crates-sizing.html
+[2026-09-30T11:34:19.511Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/custom-order-process-pp-vegetable-crates-sizing.html
+[2026-09-30T11:34:20.232Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/custom-order-process-pp-vegetable-crates-sizing.html
+[2026-09-30T11:30:00Z] Run complete. Sites: reusableshippingboxes (index 26), vegetablecrates (index 27). Posts published: 4. Total published: 111. nextSiteIndex wrapped to 0. All posts indexed on Google and Bing successfully. Git rebase-merge warning noted (non-blocking, pushes succeeded).
+[2026-09-30T15:31:10.782Z] ✅ Wrote blog/cost-per-trip-cardboard-vs-pp-produce.html for cardboardproduceboxes.com
+[2026-09-30T15:31:11.147Z] ⚠️ git pull --rebase for cardboardproduceboxes.com: From https://github.com/Brazenproducts/cardboardproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T15:31:12.682Z] ✅ Pushed cardboardproduceboxes.com/blog/cost-per-trip-cardboard-vs-pp-produce.html
+[2026-09-30T15:31:12.913Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/cost-per-trip-cardboard-vs-pp-produce.html
+[2026-09-30T15:31:13.569Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/cost-per-trip-cardboard-vs-pp-produce.html
+[2026-09-30T15:31:43.923Z] ✅ Wrote blog/spec-buying-guide-produce-box-gauge.html for cardboardproduceboxes.com
+[2026-09-30T15:31:44.344Z] ⚠️ git pull --rebase for cardboardproduceboxes.com: From https://github.com/Brazenproducts/cardboardproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T15:31:45.861Z] ✅ Pushed cardboardproduceboxes.com/blog/spec-buying-guide-produce-box-gauge.html
+[2026-09-30T15:31:46.117Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/spec-buying-guide-produce-box-gauge.html
+[2026-09-30T15:31:46.960Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/spec-buying-guide-produce-box-gauge.html
+[2026-09-30T15:32:27.623Z] ✅ Wrote blog/reusable-vs-disposable-corrugated-plastic-roi.html for corrugatedplasticboxes.com
+[2026-09-30T15:32:28.360Z] ⚠️ git pull --rebase for corrugatedplasticboxes.com: From https://github.com/Brazenproducts/corrugatedplasticboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T15:32:30.214Z] ✅ Pushed corrugatedplasticboxes.com/blog/reusable-vs-disposable-corrugated-plastic-roi.html
+[2026-09-30T15:32:30.486Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/reusable-vs-disposable-corrugated-plastic-roi.html
+[2026-09-30T15:32:31.142Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/reusable-vs-disposable-corrugated-plastic-roi.html
+[2026-09-30T15:33:13.201Z] ✅ Wrote blog/pp-corrugated-box-spec-guide-procurement.html for corrugatedplasticboxes.com
+[2026-09-30T15:33:13.612Z] ⚠️ git pull --rebase for corrugatedplasticboxes.com: From https://github.com/Brazenproducts/corrugatedplasticboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-09-30T15:33:15.125Z] ✅ Pushed corrugatedplasticboxes.com/blog/pp-corrugated-box-spec-guide-procurement.html
+[2026-09-30T15:33:15.351Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/pp-corrugated-box-spec-guide-procurement.html
+[2026-09-30T15:33:15.909Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/pp-corrugated-box-spec-guide-procurement.html
+[2026-09-30T15:33:15Z] Run complete. Sites: cardboardproduceboxes.com (2 posts), corrugatedplasticboxes.com (2 posts). Total published this run: 4. totalPublished: 115. nextSiteIndex advanced to 2.
+[2026-10-01T11:30:55.500Z] ✅ Wrote blog/cleaning-maintenance-reusable-corrugated-plastic.html for corrugatedplasticusa.com
+[2026-10-01T11:30:58.019Z] ✅ Pushed corrugatedplasticusa.com/blog/cleaning-maintenance-reusable-corrugated-plastic.html
+[2026-10-01T11:30:58.274Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/cleaning-maintenance-reusable-corrugated-plastic.html
+[2026-10-01T11:30:59.373Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/cleaning-maintenance-reusable-corrugated-plastic.html
+[2026-10-01T11:31:33.800Z] ✅ Wrote blog/custom-order-process-corrugated-plastic-usa.html for corrugatedplasticusa.com
+[2026-10-01T11:31:35.421Z] ✅ Pushed corrugatedplasticusa.com/blog/custom-order-process-corrugated-plastic-usa.html
+[2026-10-01T11:31:35.648Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/custom-order-process-corrugated-plastic-usa.html
+[2026-10-01T11:31:36.242Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/custom-order-process-corrugated-plastic-usa.html
+[2026-10-01T11:32:36.286Z] ✅ Wrote blog/temperature-cold-chain-pp-slip-sheets.html for corrugatedslipsheet.com
+[2026-10-01T11:32:38.126Z] ✅ Pushed corrugatedslipsheet.com/blog/temperature-cold-chain-pp-slip-sheets.html
+[2026-10-01T11:32:38.407Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/temperature-cold-chain-pp-slip-sheets.html
+[2026-10-01T11:32:38.985Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/temperature-cold-chain-pp-slip-sheets.html
+[2026-10-01T11:33:23.613Z] ✅ Wrote blog/cleaning-protocols-reusable-slip-sheets.html for corrugatedslipsheet.com
+[2026-10-01T11:33:25.488Z] ✅ Pushed corrugatedslipsheet.com/blog/cleaning-protocols-reusable-slip-sheets.html
+[2026-10-01T11:33:25.677Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/cleaning-protocols-reusable-slip-sheets.html
+[2026-10-01T11:33:26.132Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/cleaning-protocols-reusable-slip-sheets.html
+[2026-10-01T11:33:26Z] RUN OK — sites: corrugatedplasticusa.com, corrugatedslipsheet.com — posts: 4 published, 0 failed — totalPublished: 119 — nextSiteIndex: 4
+[2026-10-01T15:30:57.269Z] ✅ Wrote blog/warehouse-cleaning-protocols-slip-sheets.html for corrugatedslipsheets.com
+[2026-10-01T15:30:59.082Z] ✅ Pushed corrugatedslipsheets.com/blog/warehouse-cleaning-protocols-slip-sheets.html
+[2026-10-01T15:30:59.353Z] Google Indexing ✅ 200 — https://corrugatedslipsheets.com/blog/warehouse-cleaning-protocols-slip-sheets.html
+[2026-10-01T15:31:01.032Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheets.com/blog/warehouse-cleaning-protocols-slip-sheets.html
+[2026-10-01T15:31:47.643Z] ✅ Wrote blog/cold-chain-slip-sheet-performance-guide.html for corrugatedslipsheets.com
+[2026-10-01T15:31:49.491Z] ✅ Pushed corrugatedslipsheets.com/blog/cold-chain-slip-sheet-performance-guide.html
+[2026-10-01T15:31:49.800Z] Google Indexing ✅ 200 — https://corrugatedslipsheets.com/blog/cold-chain-slip-sheet-performance-guide.html
+[2026-10-01T15:31:50.646Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheets.com/blog/cold-chain-slip-sheet-performance-guide.html
+[2026-10-01T15:32:35.794Z] ✅ Wrote blog/gauge-wall-thickness-corrugate-sheet-spec.html for corrugatesheet.com
+[2026-10-01T15:32:37.826Z] ✅ Pushed corrugatesheet.com/blog/gauge-wall-thickness-corrugate-sheet-spec.html
+[2026-10-01T15:32:38.091Z] Google Indexing ✅ 200 — https://corrugatesheet.com/blog/gauge-wall-thickness-corrugate-sheet-spec.html
+[2026-10-01T15:32:39.151Z] Bing IndexNow ✅ 200 — https://corrugatesheet.com/blog/gauge-wall-thickness-corrugate-sheet-spec.html
+[2026-10-01T15:33:31.014Z] ✅ Wrote blog/reusable-vs-disposable-corrugate-roi.html for corrugatesheet.com
+[2026-10-01T15:33:33.153Z] ✅ Pushed corrugatesheet.com/blog/reusable-vs-disposable-corrugate-roi.html
+[2026-10-01T15:33:33.445Z] Google Indexing ✅ 200 — https://corrugatesheet.com/blog/reusable-vs-disposable-corrugate-roi.html
+[2026-10-01T15:33:34.026Z] Bing IndexNow ✅ 200 — https://corrugatesheet.com/blog/reusable-vs-disposable-corrugate-roi.html
+[2026-10-01T15:34:42.134Z] ✅ Published 4 posts: corrugatedslipsheets (warehouse-cleaning-protocols-slip-sheets.html, cold-chain-slip-sheet-performance-guide.html), corrugatesheet (gauge-wall-thickness-corrugate-sheet-spec.html, reusable-vs-disposable-corrugate-roi.html). Total published: 123. Next sites: customplasticcorrugate, gaylordboxesplastic.
+[2026-10-02T17:36:28.175Z] ✅ Wrote blog/custom-pp-corrugate-order-process.html for customplasticcorrugate.com
+[2026-10-02T17:36:30.100Z] ✅ Pushed customplasticcorrugate.com/blog/custom-pp-corrugate-order-process.html
+[2026-10-02T17:36:30.468Z] Google Indexing ✅ 200 — https://customplasticcorrugate.com/blog/custom-pp-corrugate-order-process.html
+[2026-10-02T17:36:31.557Z] Bing IndexNow ✅ 200 — https://customplasticcorrugate.com/blog/custom-pp-corrugate-order-process.html
+[2026-10-02T17:37:03.646Z] ✅ Wrote blog/custom-plastic-corrugate-applications-guide.html for customplasticcorrugate.com
+[2026-10-02T17:37:05.948Z] ✅ Pushed customplasticcorrugate.com/blog/custom-plastic-corrugate-applications-guide.html
+[2026-10-02T17:37:06.201Z] Google Indexing ✅ 200 — https://customplasticcorrugate.com/blog/custom-plastic-corrugate-applications-guide.html
+[2026-10-02T17:37:06.785Z] Bing IndexNow ✅ 200 — https://customplasticcorrugate.com/blog/custom-plastic-corrugate-applications-guide.html
+[2026-10-02T17:37:38.937Z] ✅ Wrote blog/plastic-gaylord-cleaning-hygiene-protocols.html for gaylordboxesplastic.com
+[2026-10-02T17:37:39.280Z] ⚠️ git pull --rebase for gaylordboxesplastic.com: From https://github.com/Brazenproducts/gaylordboxesplastic.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-02T17:37:40.527Z] ✅ Pushed gaylordboxesplastic.com/blog/plastic-gaylord-cleaning-hygiene-protocols.html
+[2026-10-02T17:37:40.730Z] Google Indexing ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-cleaning-hygiene-protocols.html
+[2026-10-02T17:37:41.545Z] Bing IndexNow ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-cleaning-hygiene-protocols.html
+[2026-10-02T17:38:23.822Z] ✅ Wrote blog/plastic-gaylord-cold-chain-performance.html for gaylordboxesplastic.com
+[2026-10-02T17:38:25.389Z] ✅ Pushed gaylordboxesplastic.com/blog/plastic-gaylord-cold-chain-performance.html
+[2026-10-02T17:38:25.652Z] Google Indexing ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-cold-chain-performance.html
+[2026-10-02T17:38:26.245Z] Bing IndexNow ✅ 200 — https://gaylordboxesplastic.com/blog/plastic-gaylord-cold-chain-performance.html
+[2026-10-02T17:38:35.000Z] CLEAN RUN — Published 4 posts to 2 sites (customplasticcorrugate x2, gaylordboxesplastic x2). All Google+Bing indexing 200. nextSiteIndex 6->8, totalPublished 123->127. Cleaned stale .git/rebase-merge dir in gaylordboxesplastic (Aug-3 leftover).
+[2026-10-02T17:41:06.739Z] ✅ Wrote blog/plastic-pallet-weight-capacity-ratings.html for heavydutypallets.com
+[2026-10-02T17:41:07.322Z] ⚠️ git pull --rebase for heavydutypallets.com: From https://github.com/Brazenproducts/heavydutypallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-02T17:41:08.747Z] ✅ Pushed heavydutypallets.com/blog/plastic-pallet-weight-capacity-ratings.html
+[2026-10-02T17:41:09.021Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/plastic-pallet-weight-capacity-ratings.html
+[2026-10-02T17:41:09.959Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/plastic-pallet-weight-capacity-ratings.html
+[2026-10-02T17:41:43.469Z] ✅ Wrote blog/nestable-vs-stackable-pallet-selection.html for heavydutypallets.com
+[2026-10-02T17:41:46.402Z] ✅ Pushed heavydutypallets.com/blog/nestable-vs-stackable-pallet-selection.html
+[2026-10-02T17:41:46.571Z] Google Indexing ✅ 200 — https://heavydutypallets.com/blog/nestable-vs-stackable-pallet-selection.html
+[2026-10-02T17:41:47.217Z] Bing IndexNow ✅ 200 — https://heavydutypallets.com/blog/nestable-vs-stackable-pallet-selection.html
+[2026-10-02T17:42:19.288Z] ✅ Wrote blog/plastic-pallet-roi-vs-wood-analysis.html for heavydutyplasticpallets.com
+[2026-10-02T17:42:19.816Z] ⚠️ git pull --rebase for heavydutyplasticpallets.com: From https://github.com/Brazenproducts/heavydutyplasticpallets.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-02T17:42:21.196Z] ✅ Pushed heavydutyplasticpallets.com/blog/plastic-pallet-roi-vs-wood-analysis.html
+[2026-10-02T17:42:21.455Z] Google Indexing ✅ 200 — https://heavydutyplasticpallets.com/blog/plastic-pallet-roi-vs-wood-analysis.html
+[2026-10-02T17:42:22.207Z] Bing IndexNow ✅ 200 — https://heavydutyplasticpallets.com/blog/plastic-pallet-roi-vs-wood-analysis.html
+[2026-10-02T17:42:54.157Z] ✅ Wrote blog/export-plastic-pallet-sourcing-guide.html for heavydutyplasticpallets.com
+[2026-10-02T17:42:55.888Z] ✅ Pushed heavydutyplasticpallets.com/blog/export-plastic-pallet-sourcing-guide.html
+[2026-10-02T17:42:56.175Z] Google Indexing ✅ 200 — https://heavydutyplasticpallets.com/blog/export-plastic-pallet-sourcing-guide.html
+[2026-10-02T17:42:56.774Z] Bing IndexNow ✅ 200 — https://heavydutyplasticpallets.com/blog/export-plastic-pallet-sourcing-guide.html
+[2026-10-02T17:43:00.000Z] RUN COMPLETE — heavydutypallets (2 posts) + heavydutyplasticpallets (2 posts) = 4/4 published OK. Google ✅ Bing ✅. nextSiteIndex 8→10, totalPublished 127→131.
+[2026-10-03T11:30:43.980Z] ✅ Wrote blog/meat-lug-cleaning-sanitation-protocols.html for meatlugs.com
+[2026-10-03T11:30:45.550Z] ✅ Pushed meatlugs.com/blog/meat-lug-cleaning-sanitation-protocols.html
+[2026-10-03T11:30:45.842Z] Google Indexing ✅ 200 — https://meatlugs.com/blog/meat-lug-cleaning-sanitation-protocols.html
+[2026-10-03T11:30:46.585Z] Bing IndexNow ✅ 200 — https://meatlugs.com/blog/meat-lug-cleaning-sanitation-protocols.html
+[2026-10-03T11:31:19.549Z] ✅ Wrote blog/meat-lug-fda-usda-compliance-guide.html for meatlugs.com
+[2026-10-03T11:31:20.966Z] ✅ Pushed meatlugs.com/blog/meat-lug-fda-usda-compliance-guide.html
+[2026-10-03T11:31:21.260Z] Google Indexing ✅ 200 — https://meatlugs.com/blog/meat-lug-fda-usda-compliance-guide.html
+[2026-10-03T11:31:21.726Z] Bing IndexNow ✅ 200 — https://meatlugs.com/blog/meat-lug-fda-usda-compliance-guide.html
+[2026-10-03T11:31:52.509Z] ✅ Wrote blog/plastic-corrugated-box-roi-analysis.html for plasticcorrugatedbox.com
+[2026-10-03T11:31:54.360Z] ✅ Pushed plasticcorrugatedbox.com/blog/plastic-corrugated-box-roi-analysis.html
+[2026-10-03T11:31:54.632Z] Google Indexing ✅ 200 — https://plasticcorrugatedbox.com/blog/plastic-corrugated-box-roi-analysis.html
+[2026-10-03T11:31:55.653Z] Bing IndexNow ✅ 200 — https://plasticcorrugatedbox.com/blog/plastic-corrugated-box-roi-analysis.html
+[2026-10-03T11:32:28.644Z] ✅ Wrote blog/custom-plastic-corrugated-box-order-guide.html for plasticcorrugatedbox.com
+[2026-10-03T11:32:30.336Z] ✅ Pushed plasticcorrugatedbox.com/blog/custom-plastic-corrugated-box-order-guide.html
+[2026-10-03T11:32:30.590Z] Google Indexing ✅ 200 — https://plasticcorrugatedbox.com/blog/custom-plastic-corrugated-box-order-guide.html
+[2026-10-03T11:32:31.128Z] Bing IndexNow ✅ 200 — https://plasticcorrugatedbox.com/blog/custom-plastic-corrugated-box-order-guide.html
+[2026-10-03T11:32:39.000Z] CLEAN RUN — published 4/4 posts: meatlugs (cleaning-sanitation-protocols, fda-usda-compliance-guide), plasticcorrugatedbox (roi-analysis, custom-order-guide). All Google+Bing 200. nextSiteIndex 10->12, totalPublished 131->135.
+[2026-10-03T15:30:40.651Z] ✅ Wrote blog/plastic-gaylord-pharma-logistics-guide.html for plasticgaylord.com
+[2026-10-03T15:30:41.002Z] ⚠️ git pull --rebase for plasticgaylord.com: From https://github.com/Brazenproducts/plasticgaylord.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-03T15:30:42.487Z] ✅ Pushed plasticgaylord.com/blog/plastic-gaylord-pharma-logistics-guide.html
+[2026-10-03T15:30:42.825Z] Google Indexing ✅ 200 — https://plasticgaylord.com/blog/plastic-gaylord-pharma-logistics-guide.html
+[2026-10-03T15:30:43.791Z] Bing IndexNow ✅ 200 — https://plasticgaylord.com/blog/plastic-gaylord-pharma-logistics-guide.html
+[2026-10-03T15:31:16.121Z] ✅ Wrote blog/plastic-gaylord-vs-fiber-cost-comparison.html for plasticgaylord.com
+[2026-10-03T15:31:16.629Z] ⚠️ git pull --rebase for plasticgaylord.com: From https://github.com/Brazenproducts/plasticgaylord.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-03T15:31:17.797Z] ✅ Pushed plasticgaylord.com/blog/plastic-gaylord-vs-fiber-cost-comparison.html
+[2026-10-03T15:31:18.054Z] Google Indexing ✅ 200 — https://plasticgaylord.com/blog/plastic-gaylord-vs-fiber-cost-comparison.html
+[2026-10-03T15:31:18.654Z] Bing IndexNow ✅ 200 — https://plasticgaylord.com/blog/plastic-gaylord-vs-fiber-cost-comparison.html
+[2026-10-03T15:31:49.564Z] ✅ Wrote blog/custom-plastic-gaylord-box-order-process.html for plasticgaylordbox.com
+[2026-10-03T15:31:50.137Z] ⚠️ git pull --rebase for plasticgaylordbox.com: From https://github.com/Brazenproducts/plasticgaylordbox.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-03T15:31:51.455Z] ✅ Pushed plasticgaylordbox.com/blog/custom-plastic-gaylord-box-order-process.html
+[2026-10-03T15:31:51.721Z] Google Indexing ✅ 200 — https://plasticgaylordbox.com/blog/custom-plastic-gaylord-box-order-process.html
+[2026-10-03T15:31:52.472Z] Bing IndexNow ✅ 200 — https://plasticgaylordbox.com/blog/custom-plastic-gaylord-box-order-process.html
+[2026-10-03T15:32:23.471Z] ✅ Wrote blog/collapsible-plastic-gaylord-box-roi.html for plasticgaylordbox.com
+[2026-10-03T15:32:23.809Z] ⚠️ git pull --rebase for plasticgaylordbox.com: From https://github.com/Brazenproducts/plasticgaylordbox.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-03T15:32:25.188Z] ✅ Pushed plasticgaylordbox.com/blog/collapsible-plastic-gaylord-box-roi.html
+[2026-10-03T15:32:25.441Z] Google Indexing ✅ 200 — https://plasticgaylordbox.com/blog/collapsible-plastic-gaylord-box-roi.html
+[2026-10-03T15:32:25.959Z] Bing IndexNow ✅ 200 — https://plasticgaylordbox.com/blog/collapsible-plastic-gaylord-box-roi.html
+[2026-10-03T15:32:26.000Z] RUN OK — sites: plasticgaylord, plasticgaylordbox | published 4/4 posts
+  - plasticgaylord: plastic-gaylord-pharma-logistics-guide.html (Google 200, Bing 200)
+  - plasticgaylord: plastic-gaylord-vs-fiber-cost-comparison.html (Google 200, Bing 200)
+  - plasticgaylordbox: custom-plastic-gaylord-box-order-process.html (Google 200, Bing 200)
+  - plasticgaylordbox: collapsible-plastic-gaylord-box-roi.html (Google 200, Bing 200)
+  nextSiteIndex 12 -> 14 | totalPublished 135 -> 139
+  note: cleared stale .git/rebase-merge dirs in both repos (publish warnings were non-fatal)
+[2026-10-04T11:30:40.605Z] ✅ Wrote blog/reusable-vs-disposable-gaylord-roi.html for plasticgaylordboxes.com
+[2026-10-04T11:30:40.936Z] ⚠️ git pull --rebase for plasticgaylordboxes.com: From https://github.com/Brazenproducts/plasticgaylordboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-04T11:30:42.288Z] ✅ Pushed plasticgaylordboxes.com/blog/reusable-vs-disposable-gaylord-roi.html
+[2026-10-04T11:30:42.584Z] Google Indexing ✅ 200 — https://plasticgaylordboxes.com/blog/reusable-vs-disposable-gaylord-roi.html
+[2026-10-04T11:30:43.644Z] Bing IndexNow ✅ 200 — https://plasticgaylordboxes.com/blog/reusable-vs-disposable-gaylord-roi.html
+[2026-10-04T11:31:17.313Z] ✅ Wrote blog/plastic-gaylord-fda-usda-compliance.html for plasticgaylordboxes.com
+[2026-10-04T11:31:18.872Z] ✅ Pushed plasticgaylordboxes.com/blog/plastic-gaylord-fda-usda-compliance.html
+[2026-10-04T11:31:19.127Z] Google Indexing ✅ 200 — https://plasticgaylordboxes.com/blog/plastic-gaylord-fda-usda-compliance.html
+[2026-10-04T11:31:19.677Z] Bing IndexNow ✅ 200 — https://plasticgaylordboxes.com/blog/plastic-gaylord-fda-usda-compliance.html
+[2026-10-04T11:31:47.492Z] ✅ Wrote blog/reusable-pp-box-roi-analysis.html for polypropylenebox.com
+[2026-10-04T11:31:49.156Z] ✅ Pushed polypropylenebox.com/blog/reusable-pp-box-roi-analysis.html
+[2026-10-04T11:31:49.411Z] Google Indexing ✅ 200 — https://polypropylenebox.com/blog/reusable-pp-box-roi-analysis.html
+[2026-10-04T11:31:49.995Z] Bing IndexNow ✅ 200 — https://polypropylenebox.com/blog/reusable-pp-box-roi-analysis.html
+[2026-10-04T11:32:18.401Z] ✅ Wrote blog/pp-box-temperature-cold-chain-performance.html for polypropylenebox.com
+[2026-10-04T11:32:20.056Z] ✅ Pushed polypropylenebox.com/blog/pp-box-temperature-cold-chain-performance.html
+[2026-10-04T11:32:20.304Z] Google Indexing ✅ 200 — https://polypropylenebox.com/blog/pp-box-temperature-cold-chain-performance.html
+[2026-10-04T11:32:20.892Z] Bing IndexNow ✅ 200 — https://polypropylenebox.com/blog/pp-box-temperature-cold-chain-performance.html
+[2026-10-04T11:32:21.000Z] === RUN COMPLETE (cron) === sites: plasticgaylordboxes, polypropylenebox | 4/4 posts published & indexed (Google 200, Bing 200) | nextSiteIndex 14->16 | totalPublished 139->143
+[2026-10-04T15:30:41.026Z] ✅ Wrote blog/pp-container-wall-thickness-load-ratings.html for polypropylenecontainer.com
+[2026-10-04T15:30:42.699Z] ✅ Pushed polypropylenecontainer.com/blog/pp-container-wall-thickness-load-ratings.html
+[2026-10-04T15:30:42.967Z] Google Indexing ✅ 200 — https://polypropylenecontainer.com/blog/pp-container-wall-thickness-load-ratings.html
+[2026-10-04T15:30:43.757Z] Bing IndexNow ✅ 200 — https://polypropylenecontainer.com/blog/pp-container-wall-thickness-load-ratings.html
+[2026-10-04T15:31:16.024Z] ✅ Wrote blog/reusable-pp-containers-roi-analysis.html for polypropylenecontainer.com
+[2026-10-04T15:31:17.799Z] ✅ Pushed polypropylenecontainer.com/blog/reusable-pp-containers-roi-analysis.html
+[2026-10-04T15:31:18.011Z] Google Indexing ✅ 200 — https://polypropylenecontainer.com/blog/reusable-pp-containers-roi-analysis.html
+[2026-10-04T15:31:18.681Z] Bing IndexNow ✅ 200 — https://polypropylenecontainer.com/blog/reusable-pp-containers-roi-analysis.html
+[2026-10-04T15:31:50.827Z] ✅ Wrote blog/poultry-box-cleaning-sanitation-protocols.html for poultryboxes.com
+[2026-10-04T15:31:51.154Z] ⚠️ git pull --rebase for poultryboxes.com: From https://github.com/Brazenproducts/poultryboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-04T15:31:52.494Z] ✅ Pushed poultryboxes.com/blog/poultry-box-cleaning-sanitation-protocols.html
+[2026-10-04T15:31:52.787Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/poultry-box-cleaning-sanitation-protocols.html
+[2026-10-04T15:31:54.057Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/poultry-box-cleaning-sanitation-protocols.html
+[2026-10-04T15:32:26.885Z] ✅ Wrote blog/custom-poultry-box-order-process-guide.html for poultryboxes.com
+[2026-10-04T15:32:27.217Z] ⚠️ git pull --rebase for poultryboxes.com: From https://github.com/Brazenproducts/poultryboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-04T15:32:28.357Z] ✅ Pushed poultryboxes.com/blog/custom-poultry-box-order-process-guide.html
+[2026-10-04T15:32:28.555Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/custom-poultry-box-order-process-guide.html
+[2026-10-04T15:32:29.471Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/custom-poultry-box-order-process-guide.html
+[2026-10-04T15:32:29.000Z] ✅ Clean run — 4 posts published (nextSiteIndex 16→18, totalPublished 143→147)
+  - polypropylenecontainer.com/blog/pp-container-wall-thickness-load-ratings.html (Spec Reference) ✅ Google 200 / Bing 200
+  - polypropylenecontainer.com/blog/reusable-pp-containers-roi-analysis.html (Cost Analysis) ✅ Google 200 / Bing 200
+  - poultryboxes.com/blog/poultry-box-cleaning-sanitation-protocols.html (How-To) ✅ Google 200 / Bing 200
+  - poultryboxes.com/blog/custom-poultry-box-order-process-guide.html (Buying Guide) ✅ Google 200 / Bing 200
+  Note: cleared stale .git/rebase-merge dir in poultryboxes repo (non-fatal warnings; all pushes + indexing succeeded).
+[2026-10-05T11:30:41.016Z] Created blog/ for poultryboxes.com
+[2026-10-05T11:30:41.017Z] Created blog/index.html for poultryboxes.com
+[2026-10-05T11:30:41.036Z] ✅ Wrote blog/reusable-vs-disposable-poultry-boxes-roi.html for poultryboxes.com
+[2026-10-05T11:30:42.721Z] ✅ Pushed poultryboxes.com/blog/reusable-vs-disposable-poultry-boxes-roi.html
+[2026-10-05T11:30:43.002Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/reusable-vs-disposable-poultry-boxes-roi.html
+[2026-10-05T11:30:43.481Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/reusable-vs-disposable-poultry-boxes-roi.html
+[2026-10-05T11:31:14.482Z] ✅ Wrote blog/pp-poultry-box-spec-guide-ventilation-load.html for poultryboxes.com
+[2026-10-05T11:31:16.035Z] ✅ Pushed poultryboxes.com/blog/pp-poultry-box-spec-guide-ventilation-load.html
+[2026-10-05T11:31:16.277Z] Google Indexing ✅ 200 — https://poultryboxes.com/blog/pp-poultry-box-spec-guide-ventilation-load.html
+[2026-10-05T11:31:17.012Z] Bing IndexNow ✅ 200 — https://poultryboxes.com/blog/pp-poultry-box-spec-guide-ventilation-load.html
+[2026-10-05T11:31:45.653Z] ✅ Wrote blog/poultry-crate-cold-chain-performance.html for poultrycrates.com
+[2026-10-05T11:31:46.046Z] ⚠️ git pull --rebase for poultrycrates.com: From https://github.com/Brazenproducts/poultrycrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-05T11:31:47.278Z] ✅ Pushed poultrycrates.com/blog/poultry-crate-cold-chain-performance.html
+[2026-10-05T11:31:47.497Z] Google Indexing ✅ 200 — https://poultrycrates.com/blog/poultry-crate-cold-chain-performance.html
+[2026-10-05T11:31:48.113Z] Bing IndexNow ✅ 200 — https://poultrycrates.com/blog/poultry-crate-cold-chain-performance.html
+[2026-10-05T11:32:32.470Z] ✅ Wrote blog/custom-poultry-crate-order-process.html for poultrycrates.com
+[2026-10-05T11:32:34.045Z] ✅ Pushed poultrycrates.com/blog/custom-poultry-crate-order-process.html
+[2026-10-05T11:32:34.222Z] Google Indexing ✅ 200 — https://poultrycrates.com/blog/custom-poultry-crate-order-process.html
+[2026-10-05T11:32:34.725Z] Bing IndexNow ✅ 200 — https://poultrycrates.com/blog/custom-poultry-crate-order-process.html
+[2026-10-05T11:32:34.000Z] RUN COMPLETE — Published 4/4 posts across poultryboxes.com (2) + poultrycrates.com (2). All Google+Bing indexing 200. Note: cleared stale Aug-3 rebase-merge dir in poultrycrates repo, fast-forwarded to origin. nextSiteIndex 18->20, totalPublished 147->151.
+[2026-10-05T15:34:22.067Z] ✅ Wrote blog/pp-container-cost-per-trip-analysis.html for ppcontainers.com
+[2026-10-05T15:34:23.978Z] ✅ Pushed ppcontainers.com/blog/pp-container-cost-per-trip-analysis.html
+[2026-10-05T15:34:24.188Z] Google Indexing ✅ 200 — https://ppcontainers.com/blog/pp-container-cost-per-trip-analysis.html
+[2026-10-05T15:34:24.698Z] Bing IndexNow ✅ 200 — https://ppcontainers.com/blog/pp-container-cost-per-trip-analysis.html
+[2026-10-05T15:34:56.477Z] ✅ Wrote blog/pp-container-spec-guide-wall-load-ratings.html for ppcontainers.com
+[2026-10-05T15:34:58.175Z] ✅ Pushed ppcontainers.com/blog/pp-container-spec-guide-wall-load-ratings.html
+[2026-10-05T15:34:58.451Z] Google Indexing ✅ 200 — https://ppcontainers.com/blog/pp-container-spec-guide-wall-load-ratings.html
+[2026-10-05T15:34:59.063Z] Bing IndexNow ✅ 200 — https://ppcontainers.com/blog/pp-container-spec-guide-wall-load-ratings.html
+[2026-10-05T15:35:32.654Z] ✅ Wrote blog/pp-corrugate-cleaning-sanitation-protocols.html for ppcorrugate.com
+[2026-10-05T15:35:34.416Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-cleaning-sanitation-protocols.html
+[2026-10-05T15:35:34.709Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cleaning-sanitation-protocols.html
+[2026-10-05T15:35:35.534Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cleaning-sanitation-protocols.html
+[2026-10-05T15:36:02.816Z] ✅ Wrote blog/pp-corrugate-cost-per-trip-cost-analysis.html for ppcorrugate.com
+[2026-10-05T15:36:04.413Z] ✅ Pushed ppcorrugate.com/blog/pp-corrugate-cost-per-trip-cost-analysis.html
+[2026-10-05T15:36:04.660Z] Google Indexing ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cost-per-trip-cost-analysis.html
+[2026-10-05T15:36:05.400Z] Bing IndexNow ✅ 200 — https://ppcorrugate.com/blog/pp-corrugate-cost-per-trip-cost-analysis.html
+[2026-10-05T15:36:05.000Z] RUN OK — sites: ppcontainers, ppcorrugate | 4/4 posts published
+  ppcontainers.com/blog/pp-container-cost-per-trip-analysis.html (Google 200, Bing 200)
+  ppcontainers.com/blog/pp-container-spec-guide-wall-load-ratings.html (Google 200, Bing 200)
+  ppcorrugate.com/blog/pp-corrugate-cleaning-sanitation-protocols.html (Google 200, Bing 200)
+  ppcorrugate.com/blog/pp-corrugate-cost-per-trip-cost-analysis.html (Google 200, Bing 200)
+  nextSiteIndex: 20 -> 22 | totalPublished: 151 -> 155
+[2026-10-06T11:30:46.021Z] ✅ Wrote blog/reusable-versus-disposable-roi.html for ppcorrugatebox.com
+[2026-10-06T11:30:47.875Z] ✅ Pushed ppcorrugatebox.com/blog/reusable-versus-disposable-roi.html
+[2026-10-06T11:30:48.152Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/reusable-versus-disposable-roi.html
+[2026-10-06T11:30:48.931Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/reusable-versus-disposable-roi.html
+[2026-10-06T11:31:21.883Z] ✅ Wrote blog/custom-order-process-lead-times.html for ppcorrugatebox.com
+[2026-10-06T11:31:23.533Z] ✅ Pushed ppcorrugatebox.com/blog/custom-order-process-lead-times.html
+[2026-10-06T11:31:23.783Z] Google Indexing ✅ 200 — https://ppcorrugatebox.com/blog/custom-order-process-lead-times.html
+[2026-10-06T11:31:24.579Z] Bing IndexNow ✅ 200 — https://ppcorrugatebox.com/blog/custom-order-process-lead-times.html
+[2026-10-06T11:31:56.159Z] ✅ Wrote blog/fda-usda-compliance-food-contact.html for ppcorrugatedboxes.com
+[2026-10-06T11:31:56.702Z] ⚠️ git pull --rebase for ppcorrugatedboxes.com: From https://github.com/Brazenproducts/ppcorrugatedboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-06T11:31:57.937Z] ✅ Pushed ppcorrugatedboxes.com/blog/fda-usda-compliance-food-contact.html
+[2026-10-06T11:31:58.239Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/fda-usda-compliance-food-contact.html
+[2026-10-06T11:31:58.893Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/fda-usda-compliance-food-contact.html
+[2026-10-06T11:32:32.020Z] ✅ Wrote blog/stacking-palletization-best-practices.html for ppcorrugatedboxes.com
+[2026-10-06T11:32:33.860Z] ✅ Pushed ppcorrugatedboxes.com/blog/stacking-palletization-best-practices.html
+[2026-10-06T11:32:34.078Z] Google Indexing ✅ 200 — https://ppcorrugatedboxes.com/blog/stacking-palletization-best-practices.html
+[2026-10-06T11:32:34.602Z] Bing IndexNow ✅ 200 — https://ppcorrugatedboxes.com/blog/stacking-palletization-best-practices.html
+[2026-10-06T15:30:50.454Z] ✅ Wrote blog/produce-crate-gauge-load-rating-guide.html for producecrates.com
+[2026-10-06T15:30:52.482Z] ✅ Pushed producecrates.com/blog/produce-crate-gauge-load-rating-guide.html
+[2026-10-06T15:30:52.674Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://producecrates.com/blog/produce-crate-gauge-load-rating-guide.html
+[2026-10-06T15:30:54.104Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/produce-crate-gauge-load-rating-guide.html
+[2026-10-06T15:31:32.289Z] ✅ Wrote blog/cost-per-trip-analysis-produce-crates.html for producecrates.com
+[2026-10-06T15:31:33.928Z] ✅ Pushed producecrates.com/blog/cost-per-trip-analysis-produce-crates.html
+[2026-10-06T15:31:34.069Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://producecrates.com/blog/cost-per-trip-analysis-produce-crates.html
+[2026-10-06T15:31:34.554Z] Bing IndexNow ✅ 200 — https://producecrates.com/blog/cost-per-trip-analysis-produce-crates.html
+[2026-10-06T15:32:17.018Z] ✅ Wrote blog/buying-guide-choosing-reusable-shipping-boxes.html for reusableshippingboxes.com
+[2026-10-06T15:32:17.399Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-06T15:32:18.756Z] ✅ Pushed reusableshippingboxes.com/blog/buying-guide-choosing-reusable-shipping-boxes.html
+[2026-10-06T15:32:18.998Z] Google Indexing ✅ 200 — https://reusableshippingboxes.com/blog/buying-guide-choosing-reusable-shipping-boxes.html
+[2026-10-06T15:32:19.816Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/buying-guide-choosing-reusable-shipping-boxes.html
+[2026-10-06T15:32:57.224Z] ✅ Wrote blog/how-to-implement-closed-loop-box-program.html for reusableshippingboxes.com
+[2026-10-06T15:32:57.577Z] ⚠️ git pull --rebase for reusableshippingboxes.com: From https://github.com/Brazenproducts/reusableshippingboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-06T15:32:58.833Z] ✅ Pushed reusableshippingboxes.com/blog/how-to-implement-closed-loop-box-program.html
+[2026-10-06T15:32:59.007Z] Google Indexing ❌ HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric  — https://reusableshippingboxes.com/blog/how-to-implement-closed-loop-box-program.html
+[2026-10-06T15:32:59.493Z] Bing IndexNow ✅ 200 — https://reusableshippingboxes.com/blog/how-to-implement-closed-loop-box-program.html
+[2026-10-06T15:33:00.000Z] RUN OK — sites: producecrates (idx 24), reusableshippingboxes (idx 25). 4/4 posts published.
+  - producecrates: produce-crate-gauge-load-rating-guide.html (Bing 200, Google 429 quota)
+  - producecrates: cost-per-trip-analysis-produce-crates.html (Bing 200, Google 429 quota)
+  - reusableshippingboxes: buying-guide-choosing-reusable-shipping-boxes.html (Bing 200, Google 200)
+  - reusableshippingboxes: how-to-implement-closed-loop-box-program.html (Bing 200, Google 429 quota)
+  nextSiteIndex 24->26, totalPublished 159->163. Note: cleaned stale .git/rebase-merge on reusableshippingboxes.com (pushes succeeded).
+[2026-10-07T11:30:55.118Z] ✅ Wrote blog/cleaning-hygiene-protocols-reusable-vegetable-crates.html for vegetablecrates.com
+[2026-10-07T11:30:55.474Z] ⚠️ git pull --rebase for vegetablecrates.com: From https://github.com/Brazenproducts/vegetablecrates.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-07T11:30:56.876Z] ✅ Pushed vegetablecrates.com/blog/cleaning-hygiene-protocols-reusable-vegetable-crates.html
+[2026-10-07T11:30:57.114Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/cleaning-hygiene-protocols-reusable-vegetable-crates.html
+[2026-10-07T11:30:58.056Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/cleaning-hygiene-protocols-reusable-vegetable-crates.html
+[2026-10-07T11:31:33.042Z] ✅ Wrote blog/cost-per-trip-analysis-vegetable-crates.html for vegetablecrates.com
+[2026-10-07T11:31:34.757Z] ✅ Pushed vegetablecrates.com/blog/cost-per-trip-analysis-vegetable-crates.html
+[2026-10-07T11:31:34.980Z] Google Indexing ✅ 200 — https://vegetablecrates.com/blog/cost-per-trip-analysis-vegetable-crates.html
+[2026-10-07T11:31:35.741Z] Bing IndexNow ✅ 200 — https://vegetablecrates.com/blog/cost-per-trip-analysis-vegetable-crates.html
+[2026-10-07T11:32:10.749Z] Created blog/ for waxproduceboxes.com
+[2026-10-07T11:32:10.751Z] Created blog/index.html for waxproduceboxes.com
+[2026-10-07T11:32:10.770Z] ✅ Wrote blog/wax-boxes-vs-pp-moisture-resistant-produce-packaging.html for waxproduceboxes.com
+[2026-10-07T11:32:11.122Z] ⚠️ git pull --rebase for waxproduceboxes.com: From https://github.com/Brazenproducts/waxproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-07T11:32:12.374Z] ✅ Pushed waxproduceboxes.com/blog/wax-boxes-vs-pp-moisture-resistant-produce-packaging.html
+[2026-10-07T11:32:12.661Z] Google Indexing ✅ 200 — https://waxproduceboxes.com/blog/wax-boxes-vs-pp-moisture-resistant-produce-packaging.html
+[2026-10-07T11:32:13.786Z] Bing IndexNow ✅ 200 — https://waxproduceboxes.com/blog/wax-boxes-vs-pp-moisture-resistant-produce-packaging.html
+[2026-10-07T11:32:50.605Z] ✅ Wrote blog/spec-guide-moisture-resistant-boxes-wet-produce-seafood.html for waxproduceboxes.com
+[2026-10-07T11:32:52.181Z] ✅ Pushed waxproduceboxes.com/blog/spec-guide-moisture-resistant-boxes-wet-produce-seafood.html
+[2026-10-07T11:32:52.419Z] Google Indexing ✅ 200 — https://waxproduceboxes.com/blog/spec-guide-moisture-resistant-boxes-wet-produce-seafood.html
+[2026-10-07T11:32:52.947Z] Bing IndexNow ✅ 200 — https://waxproduceboxes.com/blog/spec-guide-moisture-resistant-boxes-wet-produce-seafood.html
+[2026-10-07T15:30:40.614Z] ✅ Wrote blog/stacking-strength-ventilation-produce-boxes.html for cardboardproduceboxes.com
+[2026-10-07T15:30:40.987Z] ⚠️ git pull --rebase for cardboardproduceboxes.com: From https://github.com/Brazenproducts/cardboardproduceboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-07T15:30:42.396Z] ✅ Pushed cardboardproduceboxes.com/blog/stacking-strength-ventilation-produce-boxes.html
+[2026-10-07T15:30:42.721Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/stacking-strength-ventilation-produce-boxes.html
+[2026-10-07T15:30:44.159Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/stacking-strength-ventilation-produce-boxes.html
+[2026-10-07T15:31:20.546Z] Created blog/ for cardboardproduceboxes.com
+[2026-10-07T15:31:20.547Z] Created blog/index.html for cardboardproduceboxes.com
+[2026-10-07T15:31:20.566Z] ✅ Wrote blog/pooling-closed-loop-produce-box-programs.html for cardboardproduceboxes.com
+[2026-10-07T15:31:22.277Z] ✅ Pushed cardboardproduceboxes.com/blog/pooling-closed-loop-produce-box-programs.html
+[2026-10-07T15:31:22.509Z] Google Indexing ✅ 200 — https://cardboardproduceboxes.com/blog/pooling-closed-loop-produce-box-programs.html
+[2026-10-07T15:31:22.982Z] Bing IndexNow ✅ 200 — https://cardboardproduceboxes.com/blog/pooling-closed-loop-produce-box-programs.html
+[2026-10-07T15:31:54.585Z] ✅ Wrote blog/flute-profile-gauge-selection-guide.html for corrugatedplasticboxes.com
+[2026-10-07T15:31:55.122Z] ⚠️ git pull --rebase for corrugatedplasticboxes.com: From https://github.com/Brazenproducts/corrugatedplasticboxes.com
+ * branch            main       -> FETCH_HEAD
+fatal: It seems that there is already a rebase-merge directory, and
+I wonder if you are in the middle of another rebase.  If that is the
+case, please try
+	git rebase (--continue | --abort | --skip)
+If that is not the case, please
+	rm -fr ".git/rebase-merge"
+and run me again.  I am stopping in case you still have something
+valuable there.
+
+
+[2026-10-07T15:31:56.686Z] ✅ Pushed corrugatedplasticboxes.com/blog/flute-profile-gauge-selection-guide.html
+[2026-10-07T15:31:56.967Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/flute-profile-gauge-selection-guide.html
+[2026-10-07T15:31:57.669Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/flute-profile-gauge-selection-guide.html
+[2026-10-07T15:32:32.973Z] Created blog/ for corrugatedplasticboxes.com
+[2026-10-07T15:32:32.974Z] Created blog/index.html for corrugatedplasticboxes.com
+[2026-10-07T15:32:32.992Z] ✅ Wrote blog/anti-static-esd-corrugated-plastic-boxes.html for corrugatedplasticboxes.com
+[2026-10-07T15:32:35.036Z] ✅ Pushed corrugatedplasticboxes.com/blog/anti-static-esd-corrugated-plastic-boxes.html
+[2026-10-07T15:32:35.482Z] Google Indexing ✅ 200 — https://corrugatedplasticboxes.com/blog/anti-static-esd-corrugated-plastic-boxes.html
+[2026-10-07T15:32:36.023Z] Bing IndexNow ✅ 200 — https://corrugatedplasticboxes.com/blog/anti-static-esd-corrugated-plastic-boxes.html
+[2026-10-07T15:32:36.000Z] Clean run — 4/4 posts published. Sites: cardboardproduceboxes (stacking-strength-ventilation-produce-boxes, pooling-closed-loop-produce-box-programs), corrugatedplasticboxes (flute-profile-gauge-selection-guide, anti-static-esd-corrugated-plastic-boxes). nextSiteIndex 0->2, totalPublished 167->171. All Google+Bing 200.
+[2026-10-08T11:30:42.608Z] ✅ Wrote blog/reusable-corrugated-plastic-roi-us-operations.html for corrugatedplasticusa.com
+[2026-10-08T11:30:44.851Z] ✅ Pushed corrugatedplasticusa.com/blog/reusable-corrugated-plastic-roi-us-operations.html
+[2026-10-08T11:30:45.159Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/reusable-corrugated-plastic-roi-us-operations.html
+[2026-10-08T11:30:46.531Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/reusable-corrugated-plastic-roi-us-operations.html
+[2026-10-08T11:31:16.889Z] ✅ Wrote blog/fda-usda-compliance-corrugated-plastic-food.html for corrugatedplasticusa.com
+[2026-10-08T11:31:18.784Z] ✅ Pushed corrugatedplasticusa.com/blog/fda-usda-compliance-corrugated-plastic-food.html
+[2026-10-08T11:31:19.053Z] Google Indexing ✅ 200 — https://corrugatedplasticusa.com/blog/fda-usda-compliance-corrugated-plastic-food.html
+[2026-10-08T11:31:19.842Z] Bing IndexNow ✅ 200 — https://corrugatedplasticusa.com/blog/fda-usda-compliance-corrugated-plastic-food.html
+[2026-10-08T11:31:48.989Z] ✅ Wrote blog/how-to-transition-pallets-to-slip-sheets.html for corrugatedslipsheet.com
+[2026-10-08T11:31:50.801Z] ✅ Pushed corrugatedslipsheet.com/blog/how-to-transition-pallets-to-slip-sheets.html
+[2026-10-08T11:31:51.084Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/how-to-transition-pallets-to-slip-sheets.html
+[2026-10-08T11:31:52.182Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/how-to-transition-pallets-to-slip-sheets.html
+[2026-10-08T11:32:21.702Z] ✅ Wrote blog/corrugated-slip-sheet-load-rating-gauge-guide.html for corrugatedslipsheet.com
+[2026-10-08T11:32:23.501Z] ✅ Pushed corrugatedslipsheet.com/blog/corrugated-slip-sheet-load-rating-gauge-guide.html
+[2026-10-08T11:32:23.802Z] Google Indexing ✅ 200 — https://corrugatedslipsheet.com/blog/corrugated-slip-sheet-load-rating-gauge-guide.html
+[2026-10-08T11:32:24.417Z] Bing IndexNow ✅ 200 — https://corrugatedslipsheet.com/blog/corrugated-slip-sheet-load-rating-gauge-guide.html
+[2026-10-08T11:32:24.000Z] RUN COMPLETE — 4 posts published across corrugatedplasticusa.com (2) and corrugatedslipsheet.com (2); all Google+Bing indexed 200; nextSiteIndex 2->4; totalPublished 171->175

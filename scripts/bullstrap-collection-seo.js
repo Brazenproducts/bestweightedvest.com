@@ -5,7 +5,7 @@
 // (3) Submits every collection URL to Google Indexing API + Bing/Yandex IndexNow
 // State saved per-collection in memory/bullstrap-collection-seo-state.json
 
-require('dotenv').config({ path: require('path').resolve(__dirname, '../../../.env') });
+require('dotenv').config({ path: require('path').resolve(__dirname, '../.env') });
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
@@ -166,17 +166,22 @@ async function updateCollectionSEO(id, title, description) {
 
 // ─── Generate SEO content ──────────────────────────────────────────────────────
 function generateSEO(handle, title) {
-  const parts = handle.split('-');
-  const brand = parts[0]?.toUpperCase() || title.split(' ')[0];
   const isCarli = handle.includes('carli');
-  
-  const seoTitle = isCarli
-    ? `${title} | Premium Suspension & Lift Kits | Bull Strap`
-    : `${brand} ${title} | Fitment Guaranteed | Bull Strap`;
-  
-  const seoDesc = isCarli
-    ? `Shop ${brand} ${title} suspension kits and accessories. Premium fitment, competitive pricing, and expert support. Free shipping over $99.`
-    : `${brand} ${title} for your truck or SUV. Expert fitment, genuine parts, and fast shipping. Shop quality accessories at Bull Strap.`;
+  const isSuspension = /suspension|lift|shock|leveling|coilover|spring|strut/.test(handle);
+  const isAirFilter = /air-filter|air-intake/.test(handle);
+  const isExhaust = /exhaust|pipe|silencer|muffler/.test(handle);
+
+  let seoTitle, seoDesc;
+  if (isCarli) {
+    seoTitle = `${title} | Carli Suspension | Bull Strap`;
+    seoDesc = `Shop ${title} from Carli Suspension at Bull Strap. Premium suspension and lift kits with expert fitment and fast shipping. Free shipping over $99.`;
+  } else if (isSuspension) {
+    seoTitle = `${title} | Suspension & Lift Kits | Bull Strap`;
+    seoDesc = `Shop ${title} at Bull Strap. Quality suspension components with guaranteed fitment for your truck or SUV. Fast shipping, expert support.`;
+  } else {
+    seoTitle = `${title} | Bull Strap`;
+    seoDesc = `Shop ${title} at Bull Strap. Guaranteed fitment, genuine parts, and fast shipping. Expert support available.`;
+  }
   
   return { seoTitle, seoDesc };
 }

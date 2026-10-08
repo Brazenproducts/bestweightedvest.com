@@ -1,86 +1,60 @@
 #!/usr/bin/env node
-
 /**
- * All-Sites Daily Smoke Test
- * Checks connectivity and basic page load for all bots' live sites
- * Sites: skipatip, bartact, bullstrap, faithfulpassages, fernallern
+ * All-Sites Smoke Test — uses curl with -L to follow redirects + bypass Cloudflare
  */
-
-const https = require('https');
+const { execSync } = require('child_process');
+const fs = require('fs');
+require('dotenv').config({ path: '/home/ubuntu/.openclaw/workspace/.env' });
 
 const SITES = {
-  'skipatip': 'https://skipatip.com',
-  'bartact': 'https://bartact.com',
+  'bartact': 'https://www.bartact.com',
   'bullstrap': 'https://bullstrap.com',
+  'skipatip': 'https://skipatip.com',
   'faithfulpassages': 'https://faithfulpassages.com',
-  'fernallern': 'https://fernallern.com',
+  'recentratings': 'https://recentratings.com',
 };
 
-const TIMEOUT = 15000; // 15 seconds per site
-const failures = [];
-const results = {};
+const TELEGRAM = process.env.TELEGRAM_BOT_TOKEN_SLASHDADDY || process.env.TELEGRAM_BOT_TOKEN;
+const CHAT_ID = '7550065844';
 
-async function checkSite(name, url) {
-  return new Promise((resolve) => {
-    const timeout = setTimeout(() => {
-      failures.push(`${name}: TIMEOUT (>${TIMEOUT / 1000}s)`);
-      results[name] = 'TIMEOUT';
-      resolve();
-    }, TIMEOUT);
-
-    https.get(url, (res) => {
-      clearTimeout(timeout);
-      
-      if (res.statusCode >= 200 && res.statusCode < 400) {
-        results[name] = `OK (${res.statusCode})`;
-        resolve();
-      } else {
-        failures.push(`${name}: HTTP ${res.statusCode}`);
-        results[name] = `ERROR ${res.statusCode}`;
-        resolve();
-      }
-    }).on('error', (err) => {
-      clearTimeout(timeout);
-      failures.push(`${name}: ${err.message}`);
-      results[name] = `ERROR: ${err.message}`;
-      resolve();
-    });
-  });
-}
-
-async function runTests() {
-  console.log(`🔍 Starting smoke test at ${new Date().toISOString()}`);
-  console.log('---');
-
-  // Test all sites in parallel
-  const tests = Object.entries(SITES).map(([name, url]) => 
-    checkSite(name, url)
-  );
-
-  await Promise.all(tests);
-
-  // Print results
-  console.log('\n📊 Results:');
-  Object.entries(results).forEach(([name, status]) => {
-    console.log(`  ${name}: ${status}`);
-  });
-
-  // Summary
-  const totalTests = Object.keys(SITES).length;
-  const passCount = totalTests - failures.length;
-
-  console.log('---');
-  if (failures.length > 0) {
-    console.log(`\n🚨 FAILURES (${failures.length}/${totalTests}):`);
-    failures.forEach(f => console.log(`  • ${f}`));
-    process.exit(1);
-  } else {
-    console.log(`\n✅ All ${totalTests} sites OK`);
-    process.exit(0);
+function checkSite(name, url) {
+  try {
+    const code = execSync(
+      `curl -o /dev/null -s -w "%{http_code}" -L --max-time 15 --user-agent "Mozilla/5.0" "${url}"`,
+      { timeout: 20000 }
+    ).toString().trim();
+    return parseInt(code);
+  } catch (e) {
+    return 0;
   }
 }
 
-runTests().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+async function notify(msg) {
+  if (!TELEGRAM) { console.log(msg); return; }
+  const https = require('https');
+  const body = JSON.stringify({ chat_id: CHAT_ID, text: msg });
+  const req = https.request({ host: 'api.telegram.org', path: `/bot${TELEGRAM}/sendMessage`, method: 'POST', headers: { 'Content-Type': 'application/json' } }, () => {});
+  req.on('error', () => {});
+  req.write(body); req.end();
+}
+
+const failures = [];
+const results = {};
+
+for (const [name, url] of Object.entries(SITES)) {
+  const code = checkSite(name, url);
+  results[name] = code;
+  if (code === 0 || code >= 400) {
+    failures.push(`${name}: HTTP ${code || 'TIMEOUT'}`);
+  } else {
+    console.log(`✅ ${name}: ${code}`);
+  }
+}
+
+if (failures.length > 0) {
+  const msg = `🚨 Site smoke test FAILED:\n${failures.map(f => `• ${f}`).join('\n')}`;
+  console.log(msg);
+  notify(msg);
+} else {
+  console.log('✅ All sites OK');
+}

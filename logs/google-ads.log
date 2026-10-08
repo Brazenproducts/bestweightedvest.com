@@ -261,3 +261,573 @@ Node.js v24.18.1
 ---
 _Monitor script executed at Saturday, September 19th, 2026 - 14:00 AM (UTC)_
 
+◇ injected env (10) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Sunday, September 20th, 2026 - 14:00 AM (UTC)  
+**Data for:** Sunday, September 19th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Sunday, September 20th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (10) from .env // tip: ⌘ suppress logs { quiet: true }
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Monday, September 21th, 2026 - 14:00 AM (UTC)  
+**Data for:** Monday, September 20th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Monday, September 21th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (10) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Tuesday, September 22th, 2026 - 14:00 AM (UTC)  
+**Data for:** Tuesday, September 21th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Tuesday, September 22th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Wednesday, September 23th, 2026 - 14:00 AM (UTC)  
+**Data for:** Wednesday, September 22th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Wednesday, September 23th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Thursday, September 24th, 2026 - 14:00 AM (UTC)  
+**Data for:** Thursday, September 23th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Thursday, September 24th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Friday, September 25th, 2026 - 14:00 AM (UTC)  
+**Data for:** Friday, September 24th, 2026 (yesterday)
+
+## Status: 🚨 CRITICAL
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Total Revenue:** $0.00
+- **Total ROAS:** 0.00x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+🚨 **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- 🚨 <b>ROAS BELOW 1.5x</b> - Current ROAS: 0.00x
+- ⚠️ <b>NO SPEND</b> - Campaigns may be paused or not serving
+
+### Action Required
+**YES** - ROAS 0.00x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Friday, September 25th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Saturday, September 26th, 2026 - 14:00 AM (UTC)  
+**Data for:** Saturday, September 25th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $10.17 / $250 budget (4.1%)
+- **Total Revenue:** $2259.00
+- **Total ROAS:** 222.12x
+- **Total Conversions:** 0.9
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $10.17 spend, 1 conv, 222.12x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $10.17 spent today
+
+### Action Required
+**YES** - ROAS 222.12x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Saturday, September 26th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Sunday, September 27th, 2026 - 14:00 AM (UTC)  
+**Data for:** Sunday, September 26th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $10.35 / $250 budget (4.1%)
+- **Total Revenue:** $994.85
+- **Total ROAS:** 96.12x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $10.35 spend, 0 conv, 96.12x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $10.35 spent today
+
+### Action Required
+**YES** - ROAS 96.12x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Sunday, September 27th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Monday, September 28th, 2026 - 14:00 AM (UTC)  
+**Data for:** Monday, September 27th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $14.52 / $250 budget (5.8%)
+- **Total Revenue:** $3369.74
+- **Total ROAS:** 232.08x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $14.52 spend, 0 conv, 232.08x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $14.52 spent today
+
+### Action Required
+**YES** - ROAS 232.08x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Monday, September 28th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Tuesday, September 29th, 2026 - 14:00 AM (UTC)  
+**Data for:** Tuesday, September 28th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $10.53 / $250 budget (4.2%)
+- **Total Revenue:** $1626.83
+- **Total ROAS:** 154.49x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $10.53 spend, 0 conv, 154.49x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $10.53 spent today
+
+### Action Required
+**YES** - ROAS 154.49x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Tuesday, September 29th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Wednesday, September 30th, 2026 - 14:00 AM (UTC)  
+**Data for:** Wednesday, September 29th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $9.47 / $250 budget (3.8%)
+- **Total Revenue:** $1416.84
+- **Total ROAS:** 149.61x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $9.47 spend, 0 conv, 149.61x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $9.47 spent today
+
+### Action Required
+**YES** - ROAS 149.61x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Wednesday, September 30th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Thursday, October 1th, 2026 - 14:00 AM (UTC)  
+**Data for:** Thursday, October 0th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $5.60 / $250 budget (2.2%)
+- **Total Revenue:** $709.88
+- **Total ROAS:** 126.76x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (ENABLED) - $5.60 spend, 0 conv, 126.76x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $5.60 spent today
+
+### Action Required
+**YES** - ROAS 126.76x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Thursday, October 1th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/shopping-roas-latest.md
+
+# Bartact Shopping ROAS Monitor
+**Date:** Saturday, October 3th, 2026 - 14:00 AM (UTC)  
+**Data for:** Saturday, October 2th, 2026 (yesterday)
+
+## Status: ✅ HEALTHY
+
+### Summary
+- **Total Spend:** $5.33 / $250 budget (2.1%)
+- **Total Revenue:** $641.92
+- **Total ROAS:** 120.44x
+- **Total Conversions:** 0.0
+
+### Campaign Status
+✅ **Bartact Shopping - All Products** (PAUSED) - $5.33 spend, 0 conv, 120.44x ROAS
+🚨 **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+🚨 **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, 0.00x ROAS
+
+### Alerts
+- ⚠️ <b>LOW SPEND</b> - Only $5.33 spent today
+
+### Action Required
+**YES** - ROAS 120.44x is below 1.5x threshold or spend is critically low. Requires investigation.
+
+---
+_Monitor script executed at Saturday, October 3th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+🔍 Checking Shopify for gclid orders...
+  📊 Shopify: 21 orders, 3 with gclid, $328.71 revenue, 14.3% capture rate
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/bartact-ads-latest.md
+
+# Bartact Shopping ROAS Monitor - Google Ads Audit
+**Date:** Sunday, October 4th, 2026 - 14:00 AM (UTC)  
+**Data for:** Sunday, October 3th, 2026 (yesterday)
+
+## Status: ⏸️ NO SPEND (campaigns paused/removed — ROAS N/A)
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Google Revenue Claimed:** $0.00
+- **Shopify gclid Revenue:** $328.71
+- **Google Over-Reporting:** $-328.71 (-100%)
+- **Total ROAS (Google):** N/A (no spend)
+- **Adjusted ROAS (Shopify gclid):** 0x
+- **Total Conversions:** 0
+- **gclid Capture Rate:** 14.3% (3/21 orders)
+
+### Campaign Status
+⏸️ **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+
+### Action Required
+**NO** - All Shopping campaigns are paused/removed, so there is $0 ad spend and ROAS is not applicable. The $328.71 in Shopify gclid revenue is residual attribution (historical clicks / stale gclid params on organic/direct orders), not campaign-driven. No action needed unless you intend campaigns to be live.
+
+---
+_Audit executed at Sunday, October 4th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+🔍 Checking Shopify for gclid orders...
+  📊 Shopify: 24 orders, 2 with gclid, $99.15 revenue, 8.3% capture rate
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/bartact-ads-latest.md
+
+# Bartact Shopping ROAS Monitor - Google Ads Audit
+**Date:** Monday, October 5th, 2026 - 14:00 AM (UTC)  
+**Data for:** Monday, October 4th, 2026 (yesterday)
+
+## Status: ⏸️ NO SPEND (campaigns paused/removed — ROAS N/A)
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Google Revenue Claimed:** $0.00
+- **Shopify gclid Revenue:** $99.15
+- **Google Over-Reporting:** $-99.15 (-100%)
+- **Total ROAS (Google):** N/A (no spend)
+- **Adjusted ROAS (Shopify gclid):** 0x
+- **Total Conversions:** 0
+- **gclid Capture Rate:** 8.3% (2/24 orders)
+
+### Campaign Status
+⏸️ **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+
+### Action Required
+**NO** - All Shopping campaigns are paused/removed, so there is $0 ad spend and ROAS is not applicable. The $99.15 in Shopify gclid revenue is residual attribution (historical clicks / stale gclid params on organic/direct orders), not campaign-driven. No action needed unless you intend campaigns to be live.
+
+---
+_Audit executed at Monday, October 5th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (14) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+🔍 Checking Shopify for gclid orders...
+  📊 Shopify: 18 orders, 1 with gclid, $31.99 revenue, 5.6% capture rate
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/bartact-ads-latest.md
+
+# Bartact Shopping ROAS Monitor - Google Ads Audit
+**Date:** Tuesday, October 6th, 2026 - 14:00 AM (UTC)  
+**Data for:** Tuesday, October 5th, 2026 (yesterday)
+
+## Status: ⏸️ NO SPEND (campaigns paused/removed — ROAS N/A)
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Google Revenue Claimed:** $0.00
+- **Shopify gclid Revenue:** $31.99
+- **Google Over-Reporting:** $-31.99 (-100%)
+- **Total ROAS (Google):** N/A (no spend)
+- **Adjusted ROAS (Shopify gclid):** 0x
+- **Total Conversions:** 0
+- **gclid Capture Rate:** 5.6% (1/18 orders)
+
+### Campaign Status
+⏸️ **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+
+### Action Required
+**NO** - All Shopping campaigns are paused/removed, so there is $0 ad spend and ROAS is not applicable. The $31.99 in Shopify gclid revenue is residual attribution (historical clicks / stale gclid params on organic/direct orders), not campaign-driven. No action needed unless you intend campaigns to be live.
+
+---
+_Audit executed at Tuesday, October 6th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (17) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+🔍 Checking Shopify for gclid orders...
+  📊 Shopify: 21 orders, 0 with gclid, $0.00 revenue, 0.0% capture rate
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/bartact-ads-latest.md
+
+# Bartact Shopping ROAS Monitor - Google Ads Audit
+**Date:** Wednesday, October 7th, 2026 - 14:00 AM (UTC)  
+**Data for:** Wednesday, October 6th, 2026 (yesterday)
+
+## Status: ⏸️ NO SPEND (campaigns paused/removed — ROAS N/A)
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Google Revenue Claimed:** $0.00
+- **Shopify gclid Revenue:** $0.00
+- **Google Over-Reporting:** $0.00 (0%)
+- **Total ROAS (Google):** N/A (no spend)
+- **Adjusted ROAS (Shopify gclid):** 0x
+- **Total Conversions:** 0
+- **gclid Capture Rate:** 0.0% (0/21 orders)
+
+### Campaign Status
+⏸️ **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+
+### Action Required
+**NO** - All Shopping campaigns are paused/removed, so there is $0 ad spend and ROAS is not applicable. The $0.00 in Shopify gclid revenue is residual attribution (historical clicks / stale gclid params on organic/direct orders), not campaign-driven. No action needed unless you intend campaigns to be live.
+
+---
+_Audit executed at Wednesday, October 7th, 2026 - 14:00 AM (UTC)_
+
+◇ injected env (17) from .env
+[PLAYBOOK] Sections checked: Affiliate Tags (brazenprodu01-20/02-20 only), Content Standards (500w min), Google Ads READ ONLY, Bull Strap NO ADS, Protected Domains. Running within policy.
+📊 Fetching Bartact Shopping ROAS data...
+🔍 Checking Shopify for gclid orders...
+  📊 Shopify: 15 orders, 0 with gclid, $0.00 revenue, 0.0% capture rate
+✅ Report saved to /home/ubuntu/.openclaw/workspace/memory/bartact-ads-latest.md
+
+# Bartact Shopping ROAS Monitor - Google Ads Audit
+**Date:** Thursday, October 8th, 2026 - 14:00 AM (UTC)  
+**Data for:** Thursday, October 7th, 2026 (yesterday)
+
+## Status: ⏸️ NO SPEND (campaigns paused/removed — ROAS N/A)
+
+### Summary
+- **Total Spend:** $0.00 / $250 budget (0.0%)
+- **Google Revenue Claimed:** $0.00
+- **Shopify gclid Revenue:** $0.00
+- **Google Over-Reporting:** $0.00 (0%)
+- **Total ROAS (Google):** N/A (no spend)
+- **Adjusted ROAS (Shopify gclid):** 0x
+- **Total Conversions:** 0
+- **gclid Capture Rate:** 0.0% (0/15 orders)
+
+### Campaign Status
+⏸️ **Bartact Shopping - All Products** (PAUSED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Smart Shopping** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+⏸️ **Top Selling Products(ssc)** (REMOVED) - $0.00 spend, 0 conv, ROAS N/A
+
+### Action Required
+**NO** - All Shopping campaigns are paused/removed, so there is $0 ad spend and ROAS is not applicable. The $0.00 in Shopify gclid revenue is residual attribution (historical clicks / stale gclid params on organic/direct orders), not campaign-driven. No action needed unless you intend campaigns to be live.
+
+---
+_Audit executed at Thursday, October 8th, 2026 - 14:00 AM (UTC)_
+

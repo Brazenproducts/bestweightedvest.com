@@ -1,0 +1,75 @@
+{
+  "directories": [
+    {
+      "name": "Google Business Profile",
+      "url": "https://business.google.com",
+      "value": "High - Google-owned, indexed immediately",
+      "manual": true,
+      "notes": "Requires phone verification, allows service-area business"
+    },
+    {
+      "name": "Bing Places",
+      "url": "https://www.bingplaces.com",
+      "value": "Medium - Bing/Yahoo visibility",
+      "manual": true,
+      "notes": "Free listing, syncs with Bing search"
+    },
+    {
+      "name": "ThomasNet",
+      "url": "https://business.thomasnet.com",
+      "value": "High - B2B industrial focus",
+      "manual": true,
+      "notes": "Free supplier profile, highly authoritative for procurement"
+    },
+    {
+      "name": "Manta",
+      "url": "https://www.manta.com/business/claim",
+      "value": "Medium - General business directory",
+      "manual": true,
+      "notes": "Free business profile, good for local SEO"
+    },
+    {
+      "name": "IndustryNet",
+      "url": "https://www.industrynet.com",
+      "value": "High - Industrial B2B focus",
+      "manual": true,
+      "notes": "Free company profile, manufacturing/supply chain focus"
+    },
+    {
+      "name": "Kompass",
+      "url": "https://us.kompass.com",
+      "value": "Medium - International B2B directory",
+      "manual": true,
+      "notes": "Free basic listing, global reach"
+    },
+    {
+      "name": "Hotfrog",
+      "url": "https://www.hotfrog.com",
+      "value": "Low - General directory",
+      "manual": true,
+      "notes": "Free business listing, easy submission"
+    },
+    {
+      "name": "Cylex",
+      "url": "https://www.cylex-usa.com",
+      "value": "Low - Local directory",
+      "manual": true,
+      "notes": "Free profile, US focus"
+    },
+    {
+      "name": "Brownbook",
+      "url": "https://www.brownbook.net",
+      "value": "Low - Business directory",
+      "manual": true,
+      "notes": "Free submission, decent DA"
+    },
+    {
+      "name": "Spoke",
+      "url": "https://www.spoke.com",
+      "value": "Medium - B2B contact directory",
+      "manual": true,
+      "notes": "Free company page"
+    }
+  ],
+  "automation_notes": "All require manual submission (email verification, captcha). Budget 10-15 min per site per directory. Priority: ThomasNet, IndustryNet, Google Business first."
+}

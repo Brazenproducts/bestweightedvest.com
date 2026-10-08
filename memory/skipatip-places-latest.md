@@ -1,95 +1,107 @@
-# SkipATip Places Collection — Daily Run Report
+# SkipATip Places Collection — Daily Report
+**Date:** Thursday, October 8th, 2026 — 9:00 AM UTC  
+**Run Status:** ❌ **FAILED — External Services Unavailable**
 
-**Date:** Saturday, September 19, 2026 @ 9:00 AM UTC  
-**Run ID:** efa5d28b-a5ee-4681-834e-8d905e1d4e91
+---
 
-## ⚠️ Run Status: FAILED (Dependencies Down)
+## 🔴 Critical Issues
 
-### Collection Pipeline (Step 1) — ❌ FAILED
-**Command:** `node scripts/data-pipeline/03-collect-places.js --limit=100`
-
-**Error:** Queue fetch error: 503 Service Unavailable
-- The Google Places API queue server is currently unavailable
-- The script attempted to reset stuck cities but failed at queue fetch stage
-- No places were collected this run
-
-**Details:**
+### 1. Collection Pipeline Failed (503)
+**Script:** `scripts/data-pipeline/03-collect-places.js --limit=100`
 ```
 Fatal: Error: Queue fetch error: 503
-at getNextCities (/home/ubuntu/.openclaw/workspace/skipatip/scripts/data-pipeline/03-collect-places.js:183:22)
+at getNextCities (.../03-collect-places.js:183:22)
+```
+- **Status:** Queue service unavailable
+- **Impact:** Zero new places collected
+- **Cities processed this run:** 0
+- **Places collected this run:** 0
+
+### 2. Database Offline (Crash Recovery)
+**Diagnosis:** Supabase Postgres stuck in crash recovery (`57P03`)
+- Compute tier: **Micro** (undersized for 2.9M rows)
+- PostgREST API: HTTP 503 (cannot initialize schema cache)
+- All database queries hang indefinitely
+- **Last successful collection:** September 17, 2026 (17 days ago)
+- **Root cause:** IO exhaustion from undersized compute tier + repeated full-table-scan stats queries
+
+**Evidence:**
+- `scripts/quick-24h-stats.js` hung for 30+ seconds before timeout
+- Previous diagnostics (Oct 5, 2026) confirmed DB unavailable via Management API
+- Restart attempt on Oct 7 failed (DB still wedged)
+
+---
+
+## 📊 Database State (Last Known: Oct 7, 2026)
+
+| Metric | Value | 24h Delta | Status |
+|--------|-------|-----------|--------|
+| **Total Places in DB** | 2,890,854 | 0 | ⚠️ **Frozen** |
+| **Total Reviews** | Unknown | Unknown | ❌ **Unavailable** |
+| **Unique Cities** | Unknown | — | ❌ **Unavailable** |
+| **Cities Processed (today)** | 0 | — | ❌ **Failed** |
+| **Days Since Last Collection** | 17 | — | ⚠️ **Critical lag** |
+
+---
+
+## ⚙️ Recommended Actions (Priority Order)
+
+### IMMEDIATE (requires user dashboard access)
+1. **Restart Supabase project** (project pause + resume)
+   - Dashboard: https://supabase.com/dashboard/project/zqmepfdghljknyojfsmq/settings/compute-and-disk
+   - Goal: Clear wedged recovery state (57P03)
+
+2. **Optionally: Upgrade compute tier** (if restart alone insufficient)
+   - Current: **Micro** (87 MB/s baseline IO)
+   - Recommended: **Small** ($15/mo, 174 MB/s) or **Medium** ($60/mo, 347 MB/s)
+   - Justification: 2.9M rows + daily collection workload needs more IO headroom
+
+### IMMEDIATE (investigate externals)
+3. **Check queue service status**
+   - Google Places API quota/rate limits?
+   - Internal job queue (if applicable) health?
+   - Retry collection script manually after Supabase recovers
+
+### ONCE DB IS ONLINE
+4. **Deploy IO optimization fixes** (I can build immediately after connectivity restored)
+   - Replace full-table-scan stats queries with RPC/materialized view
+   - Add missing indexes (`created_at`, `reviews_synced_at`, `city`, `collection_queue(status)`)
+   - Consolidate 10+ redundant stats scripts into one efficient script
+
+---
+
+## 📋 Skipped Steps
+
+- ✗ **update-site-stats.js** — skipped (stats unavailable)
+- ✗ **Vercel homepage stat update** — awaiting database recovery
+
+---
+
+## 🔍 Manual Verification Commands
+
+Once DB recovers, re-run to confirm:
+```bash
+cd /home/ubuntu/.openclaw/workspace/skipatip
+
+# Verify connectivity (should return HTTP 200 with a number)
+curl -s -w '\nHTTP:%{http_code}\n' \
+  "$NEXT_PUBLIC_SUPABASE_URL/rest/v1/places_raw?select=count" \
+  -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+  -H "Prefer: count=exact"
+# Expected: HTTP 200 + count number
+# If still seeing PGRST002 / 503 → database still wedged
+
+# Re-run collection
+node scripts/data-pipeline/03-collect-places.js --limit=100
+
+# Re-run stats
+node scripts/quick-24h-stats.js
+
+# Update site
+node scripts/update-site-stats.js
 ```
 
 ---
 
-### 24h Statistics (Step 3) — ❌ FAILED
-**Command:** `node scripts/quick-24h-stats.js`
-
-**Error:** Supabase connectivity/query failure
-- Cannot read properties of null (reading 'map')
-- Attempted to fetch total places, reviews, and 24h deltas
-- Database query returned null instead of expected data array
-
-**Status:** Cannot retrieve current database statistics
-
----
-
-### Site Stats Update (Step 4) — ⚠️ PARTIAL SUCCESS
-**Command:** `node scripts/update-site-stats.js`
-
-**Results:**
-- ✅ Script executed successfully (exit code 0)
-- ❌ Database query failed: Places: null | Cities: null | States: 0
-- ⚠️ Vercel environment variable updates blocked due to conflicts:
-  - `PLACES_RAW_COUNT` already exists (env conflict)
-  - `PLACES_RAW_CITIES` already exists (env conflict)
-  - `PLACES_RAW_STATES` already exists (env conflict)
-- **Action Needed:** Manually update Vercel vars or remove conflicts before retry
-
----
-
-## Current Metrics
-
-**Last Successful Stats:** Unknown (unavailable this run)
-- Total places in DB: **[UNAVAILABLE]**
-- Places added in last 24h: **[UNAVAILABLE]**
-- Unique cities total: **[UNAVAILABLE]**
-- Unique states: **[UNAVAILABLE]**
-
----
-
-## Cities Processed This Run
-
-**Count:** 0 (collection failed at initialization)  
-**Status:** No cities were fetched from queue
-
----
-
-## Issues & Recommendations
-
-### Immediate Actions Required
-1. **Check Google Places API Service Status**
-   - The 503 error indicates the queue server is down
-   - Monitor service health before retrying
-
-2. **Verify Supabase Connectivity**
-   - Test database connection: `supabase` CLI health check
-   - Confirm NEXT_PUBLIC_SUPABASE_URL and auth keys are valid
-   - Check network connectivity to Supabase endpoint
-
-3. **Resolve Vercel Environment Conflicts**
-   - The env var conflicts suggest duplicate variable definitions
-   - Check Vercel dashboard: Settings → Environment Variables
-   - Remove duplicates or use update (PATCH) instead of create (POST)
-   - Consider adding a `--force` flag to the update script
-
-### Retry Timing
-- Recommended retry in **30 minutes** to allow external services to recover
-- Or manually trigger when confirmed service status is normal
-
-### Logs Location
-- Collection script errors logged above
-- Full session logs available in OpenClaw session history
-
----
-
-**Next scheduled run:** Tomorrow, 9:00 AM UTC (if cron is active)
+**Next scheduled run:** Manual after services recover or next cron heartbeat  
+**Last status update:** 2026-10-08 09:00 UTC

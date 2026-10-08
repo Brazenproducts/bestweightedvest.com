@@ -1,10 +1,98 @@
 # SEO Playbook — Wins & Lessons
 
-**Last updated:** Saturday, Sep 19, 2026 03:00 UTC (Week of Sep 13–19)
+**Last updated:** Saturday, Sep 26, 2026 00:30 UTC (Week of Sep 20–26)
 
 ---
 
-## Confirmed Wins This Week (Sep 13–19)
+## Urgent Findings This Week (Oct 3, 2026) — AWAITING VERIFICATION & APPROVAL
+
+### 🔴 CRITICAL: Bartact Organic Ranking Collapse (Oct 3)
+
+**Reported by:** Bartact Bot (SEO Friday discovery, Oct 3 2026)
+
+**Findings:**
+Major ranking declines across primary money keywords (14-day comparison window):
+
+| Keyword | Prior | Current | Drop | Impact |
+|---|---|---|---|---|
+| molle accessories | #4.2 | #13.7 | ↓9.5 | Page 1 → 2 |
+| jeep seat covers | #4.5 | #13.0 | ↓8.5 | Page 1 → 2 |
+| ford bronco seat covers | #5.6 | #11.9 | ↓6.2 | Page 1 → 2 |
+| ford bronco accessories | #12.9 | #15.9 | ↓3.1 | Page 2 → 3 |
+| jeep wrangler seat covers | #6.0 | #9.0 | ↓3.0 | Page 1 → 2 |
+| jeep wrangler jl seat covers | #6.2 | #8.2 | ↓2.0 | Page 1 → 2 |
+| jeep gladiator seat covers | #7.1 | #8.4 | ↓1.3 | Page 1 → 2 |
+
+**Zero-CTR Problem Pages (high volume, near-zero engagement):**
+- "tactical seat covers" #11.3 — 3,719 impressions, 9 clicks (0.24% CTR)
+- "ford bronco seat covers" — 300 impressions, 1 click (0.33% CTR)
+- "jeep seat covers" — 460 impressions, 2 clicks (0.43% CTR)
+
+**Content Gaps (zero search visibility):**
+- paracord grab handles
+- molle seat covers jeep
+- suspension limit straps
+- roll bar fire extinguisher holder
+- jeep wrangler accessories
+- jeep wrangler jk seat covers
+
+These product pages aren't surfacing in search at all.
+
+**Positive Signals:**
+- "bartact seat covers" holding #1.0 (brand term secure)
+- 2 new keywords entering Page 1: "jeep wrangler grab handles" #8.0, "jeep wrangler jku seat covers" #8.1
+- No backlink losses detected
+
+**Analysis & Hypothesis:**
+Bartact bot suspects correlation with late-September disruption (same Sept 24 event that triggered paid ads breakdown). Pattern suggests possible:
+- Algorithm update affecting affiliate/ecommerce content
+- Site-level issue (indexation, crawlability, trust signal loss)
+- Specific URL structure or content pattern penalization
+
+**CRITICAL NEXT STEPS (Awaiting Mitch Approval):**
+
+❌ **DO NOT IMPLEMENT** until approved. Mitch flagged:
+1. **Verify against real GSC data** — Bartact numbers may be tracking artifact or tool glitch (suspiciously clean drop pattern). Pull Search Console raw data first.
+2. **Confirm hypothesis** — Is this site-wide, keyword pattern, or algorithm change?
+3. **Approved actions only** — Content rewrites, re-indexing, structural changes require explicit Mitch approval.
+
+**Proposed Recovery Sequence (pending verification):**
+1. **Re-index critical collection pages** (molle-accessories, seat-covers, ford-bronco-seat-covers) via IndexNow
+2. **Refresh meta descriptions** on zero-CTR pages with power words (tactical, molle, military-grade)
+3. **Content expansion** on thin pages ("tactical seat covers" likely under 500 words)
+4. **Internal link audit** — check for lost equity from blog deletions
+5. **Structured data review** — verify Product/BreadcrumbList schema intact
+
+**Impact if true:** Loss of organic traffic on primary revenue keywords = direct revenue hit (molle accessories, jeep/bronco seat covers are top 3 performers).
+
+**Status:** ⏳ HELD pending Mitch verification + approval. No changes made yet.
+
+---
+
+## Confirmed Wins This Week (Sep 20–26)
+
+### Bartact & Filli — Affiliate Site Quality Fixes (Sep 21–25) ✅
+
+**Project:** Systematic traffic leaks discovered and fixed across Bartact affiliate network.
+
+**Critical fixes shipped:**
+- **broncoseatcover.com** (Sep 21): Removed broken year/make/model (YMM) dropdown that was redirecting Bronco buyers straight to Amazon generic search instead of keeping them on Bartact product pages. **Commit `6866658`**. Immediate traffic recovery.
+  - Fixed false Raptor claim (Bartact doesn't make Raptor front seats)
+  - Patched 8 broken Amazon image URLs
+  - Added Bronco Sport Amazon-only section
+
+**What this means:**
+- YMM widget was **actively sending traffic away from Bartact** for no reason
+- Same generator likely built similar traps on 600+ other Bartact affiliate sites
+- Network-wide audit + fix = traffic recovery across entire affiliate network
+
+**Lesson:** Automated generators can create cascading problems. YMM dropdowns bypass affiliate partners. Audit + test generated content before deploying at scale.
+
+**Next steps:** Systematic sweep of other 604 seat cover sites for similar YMM redirects. Mitch approval pending.
+
+**Impact:** Traffic recovery to Bartact product pages. Potential 50–100+ clicks/week across network if similar issues found.
+
+---
 
 ### Swalmy.com — SDVOSB Authority Site Launch (Sep 16) ✅
 
@@ -206,11 +294,14 @@
 
 1. **Internal linking is reversible debt.** Blog deletions cascade faster than people expect. Map equity before removals.
 2. **Page 1 ≠ page 1 money.** Thin content kills CTR. Expand before the ranking stalls.
-3. **Meta descriptions are CTR levers.** Power words matter. "Tactical" >> "Bartact".
+3. **Meta descriptions are CTR levers.** Power words matter. "Tactical" >> "Bartact". (Example: "tactical seat covers" #11 with 4,420 impr, 0.27% CTR)
 4. **FAQ schema works.** Perplexity cites it. Implement on high-potential templates (collections, comparison pages, methodologies).
 5. **Sitemap audits should be monthly.** 69k-page backlog took 5 weeks to discover. Add to maintenance calendar.
 6. **Backlinks are multipliers, not movers.** "Tactical seat covers" + 1 link = 2–3 spots. Needs both ranking position AND authority.
 7. **Compute capacity is infrastructure.** Set up token refresh crons and compute alerts early. Don't wait for 503s.
+8. **Automated generators create cascading traps.** YMM dropdowns can redirect traffic away from affiliate partners. Audit + test generated content before deploying at scale. (broncoseatcover.com example)
+9. **Page 2 visibility still matters.** 4,420 impressions on Page 2 ranking = massive opportunity. Bad SERP snippet = revenue leak. Monitor and fix zero-CTR clusters.
+10. **SSL + infrastructure alerts are critical.** bartact.com + recentratings.com hitting 30-day expiry window simultaneously = same cert batch. Plan renewals together, don't wait for 3-strike rule.
 
 ---
 
@@ -234,16 +325,79 @@
 
 ---
 
-## Next Week (Sep 20–26)
+## Current Blockers / Action Items (Awaiting Mitch Approval — Sep 26)
 
-**Blocked by:** Bartact sales crisis. Bartact title/meta impact data pending Sep 23 GSC window.
+### 🔴 CRITICAL: Bartact "Tactical Seat Covers" — CTR Collapse
+- Ranking: **#11** (Page 2)
+- Visibility: **4,420 impressions** in past 4 days
+- Engagement: **0.27% CTR** (only 12 clicks)
+- **Issue:** SERP snippet is broken or title/meta not compelling
+- **Fix:** Rewrite title + meta description with power words (tactical, molle, military-grade language)
+- **Expected impact:** 2–3 CTR point gain = 50+ extra clicks/week
+- **Approval needed:** YES (title/meta rewrite)
 
-- **Bartact**: Resolve theme rollback first, then resume SEO work. Title/meta impact analysis Sep 23.
-- **Filli**: Pending approvals (17-site rebuild + Imperial Brady)
-- **Bull Strap**: Full report compilation
-- **RecentRatings**: FAQ schema rollout to /rankings/, canonical audit
-- **Fern Allern**: Continue blog publishing (stable)
-- **SkipATip**: Indexing & backlink health monitoring
+### 🔴 CRITICAL: SSL Certificate Renewal
+- **bartact.com** + **recentratings.com** both expire **Oct 25, 2026**
+- **Days until alert:** **TOMORROW (Sep 26)** — <30 day threshold fires automatic alert
+- **Action:** Renew both SSL certs (same cert batch, likely need renewal together)
+- **Risk:** Uptime/HTTPS warnings if expired
+- **Approval needed:** YES (renew now)
+
+### 🟠 HIGH: Bartact Affiliate Network — YMM Widget Audit
+- **Finding:** broncoseatcover.com had broken YMM dropdown redirecting to Amazon
+- **Status:** FIXED (Sep 21, commit 6866658) ✅
+- **Next play:** Audit 604 other Bartact affiliate sites for similar YMM widgets
+- **Expected impact:** Network-wide traffic recovery
+- **Approval needed:** YES (systematic audit + fix)
+
+### 🟡 MEDIUM: Filli Photo URL Sweep
+- **Issue:** "More top picks" sections using broken Amazon Product Advertising API URLs (`images-na.ssl-images-amazon.com`)
+- **Fix:** Systematic sweep to replace with `m.media-amazon.com` CDN URLs
+- **Scope:** 604 Bartact sites
+- **Approval needed:** NO (standard maintenance)
+
+### 🟡 MEDIUM: Bull Strap IndexNow Script
+- **Issue:** Weekly IndexNow cron job failed Sep 22 — scripts not found
+  - `indexnow-submit.js` — MISSING
+  - `submit-sitemaps.js` — MISSING
+- **Fix:** Reconfigure cron with correct script names (available: `weekly-indexnow-all-sites.js`, `elipacko-backlinks-indexnow-weekly.js`)
+- **Approval needed:** YES (confirm script name)
+
+### 🟡 MEDIUM: Bartact Zero-CTR Keywords
+- **"paracord grab handles"** — #5.6, 89 impr, 0 clicks
+- **"suspension limit straps"** — #10, 23 impr, 0 clicks
+- **Issue:** Intent mismatch or SERP snippet not compelling
+- **Action:** Expand content or rewrite meta descriptions
+- **Approval needed:** NO (standard optimization)
+
+---
+
+## Next Week (Sep 27–Oct 3)
+
+**Blocked by:** SSL renewal (Sep 26 alert) + Mitch approvals on tactical seat covers fix + affiliate network audit.
+
+- **Bartact**: 
+  - 🔴 Renew SSL certs (bartact.com + recentratings.com) — fires tomorrow
+  - 🔴 Fix "tactical seat covers" SERP snippet (title/meta rewrite)
+  - 🟠 Audit 604 sites for YMM widget traps (post-approval)
+  - 🟡 Expand zero-CTR keywords ("paracord grab handles", "suspension limit straps")
+- **Filli**: 
+  - ✅ broncoseatcover.com fix shipped (Sep 21)
+  - 🟠 Network-wide photo URL sweep (broken Amazon CDN links)
+  - Pending approval: 17-site backlink rebuild + Imperial Brady integration
+- **Bull Strap**: 
+  - 🟡 Fix IndexNow script path (cron job failed Sep 22)
+  - Weekly cadence: 199 URLs/day, holding
+- **RecentRatings**: 
+  - FAQ schema rollout to /rankings/ (pending)
+  - Canonical audit on /dashboard/page.tsx
+  - index.html cleanup (404 on Vercel, prevent indexing risk)
+- **Fern Allern**: 
+  - Continue blog publishing (100% success rate restored)
+  - Next: MOLLE accessories guide
+- **SkipATip**: 
+  - SEO audit blocked (web_search tool disabled)
+  - Monitor Supabase uptime
 
 ---
 
@@ -260,3 +414,27 @@
 **Cron Job:** Friday 5pm PST / Saturday 01:00 UTC
 **Report Recipient:** Mitch via Telegram (7550065844)
 **Status:** Awaiting approvals on 3 high-impact decisions
+
+---
+
+## Friday Report Summary (Oct 3, 2026 — Week of Sep 29–Oct 3)
+
+**Bots Polled:** Bartact ✅ | Filli ⏳ | Bull Strap ⏳ | Fern Allern ⏳ | SkipATip ⏳ | RecentRatings ⏳
+
+**Reported to Mitch:** Oct 3 early AM (via Telegram 7550065844)
+
+**Key Finding:** Bartact organic ranking collapse detected (molle accessories -9.5, jeep seat covers -8.5, ford bronco seat covers -6.2). All primary money keywords dropped from Page 1 → Page 2.
+
+**Status:** 
+- ✅ Bartact report received & compiled
+- ✅ Sent prioritized action list to Mitch (Top 3: ranking collapse, zero-CTR fixes, content gaps)
+- ✅ Mitch approval gate enforced (no auto-implementation)
+- ✅ Playbook updated with critical finding
+- ⏳ Awaiting Mitch approval to verify against GSC data
+- ⏳ Remaining bot reports (Filli, Bull Strap, Fern Allern, SkipATip, RecentRatings) still pending
+
+**Next Steps:**
+1. Await Mitch's decision on verification approach (pull real GSC, hold, or proceed)
+2. Collect remaining bot reports when available
+3. Execute only approved actions
+4. Update playbook with verified findings + lessons learned

@@ -1,0 +1,115 @@
+#!/usr/bin/env python3
+"""
+Bot Attack Monitor for Shopify Store
+Checks for suspicious checkout patterns indicating bot activity
+"""
+
+import os
+import sys
+import json
+from datetime import datetime, timedelta
+import requests
+
+SHOPIFY_STORE = "bartact.myshopify.com"
+SHOPIFY_TOKEN = os.getenv("SHOPIFY_ACCESS_TOKEN")
+API_VERSION = "2024-10"
+
+def fetch_recent_checkouts(hours=24):
+    """Fetch abandoned checkouts from the last N hours"""
+    if not SHOPIFY_TOKEN:
+        print("ERROR: SHOPIFY_ACCESS_TOKEN not set")
+        sys.exit(1)
+    
+    since = (datetime.utcnow() - timedelta(hours=hours)).isoformat() + "Z"
+    url = f"https://{SHOPIFY_STORE}/admin/api/{API_VERSION}/checkouts.json"
+    
+    headers = {"X-Shopify-Access-Token": SHOPIFY_TOKEN}
+    params = {
+        "status": "open",
+        "created_at_min": since,
+        "limit": 250
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, params=params, timeout=10)
+        response.raise_for_status()
+        return response.json().get("checkouts", [])
+    except Exception as e:
+        print(f"ERROR fetching checkouts: {e}")
+        sys.exit(1)
+
+def analyze_checkouts(checkouts):
+    """Analyze checkout patterns for bot signatures"""
+    if not checkouts:
+        return {
+            "attack_detected": False,
+            "total_checkouts": 0,
+            "message": "No abandoned checkouts in the last 24 hours."
+        }
+    
+    total = len(checkouts)
+    suspicious = 0
+    patterns = {
+        "same_amount": 0,
+        "fake_emails": 0,
+        "rapid_fire": 0
+    }
+    
+    amounts = []
+    email_domains = []
+    timestamps = []
+    
+    for checkout in checkouts:
+        # Check amount pattern
+        try:
+            amount = float(checkout.get("total_price", 0))
+            amounts.append(amount)
+            if amount == 3.00:
+                patterns["same_amount"] += 1
+        except:
+            pass
+        
+        # Check email pattern
+        email = checkout.get("email", "")
+        if email:
+            domain = email.split("@")[-1].lower()
+            email_domains.append(domain)
+            if domain in ["outlook.com", "protonmail.com", "gmail.com"]:
+                patterns["fake_emails"] += 1
+        
+        # Collect timestamps
+        created = checkout.get("created_at")
+        if created:
+            timestamps.append(created)
+    
+    # Check if >80% same amount
+    if amounts and patterns["same_amount"] / total > 0.8:
+        suspicious += 1
+    
+    # Check if >70% suspicious email domains
+    if email_domains and patterns["fake_emails"] / total > 0.7:
+        suspicious += 1
+    
+    # Detect attack
+    attack_detected = suspicious >= 2 and total > 10
+    
+    return {
+        "attack_detected": attack_detected,
+        "total_checkouts": total,
+        "patterns": patterns,
+        "message": f"{'⚠️ BOT ATTACK IN PROGRESS' if attack_detected else '✓ No attack detected'} - {total} abandoned checkouts in last 24h"
+    }
+
+def main():
+    checkouts = fetch_recent_checkouts(hours=24)
+    result = analyze_checkouts(checkouts)
+    
+    print(json.dumps(result, indent=2))
+    
+    if result["attack_detected"]:
+        sys.exit(2)  # Exit code 2 = attack detected
+    else:
+        sys.exit(0)  # Exit code 0 = all clear
+
+if __name__ == "__main__":
+    main()

@@ -1,134 +1,143 @@
 {
-  "runDate": "2026-09-19T02:59:00Z",
-  "runDay": "Saturday",
+  "runDate": "2026-10-07T16:00:00Z",
+  "runDay": "Wednesday",
   "step1_rankingMonitor": {
     "status": "completed",
-    "source": "Google Search Console API (14-day window: 2026-09-05 \u2192 2026-09-18)",
+    "source": "Google Search Console API (14-day window: 2026-09-23→2026-10-06 vs 2026-09-09→2026-09-22)",
     "summary": {
-      "page1": 13,
-      "page2": 2,
-      "beyond": 1,
-      "noData": 2,
-      "zeroCtrAlerts": 2
+      "page1": 5,
+      "page2": 4,
+      "beyondPage2": 1,
+      "noData": 8,
+      "zeroCtrAlerts": 1
+    },
+    "keyRankings": {
+      "bartact_seat_covers": "pos 1.0 (was 1.3) ▲0.3 | 17 clk 🟢",
+      "paracord_grab_handles": "pos 4.3 (NEW) | 1 clk — new entry",
+      "jeep_tj_seat_covers": "pos 6.9 (was 5.7) ▼1.2 | 4 clk",
+      "jeep_wrangler_seat_covers": "pos 9.6 (was 6.5) ▼3.1 | 8 clk",
+      "jeep_gladiator_seat_covers": "pos 9.7 (was 7.3) ▼2.4 | 1 clk",
+      "tactical_seat_covers": "pos 10.7 (was 11.1) ▲0.3 | 7 clk ⚠️ZERO-CTR 2295 impr",
+      "ford_bronco_seat_covers": "pos 11.9 (was 6.6) ▼5.4 | 2 clk",
+      "molle_accessories": "pos 12.9 (was 5.7) ▼7.2 | 3 clk",
+      "jeep_seat_covers": "pos 16.5 (was 6.6) ▼9.9 | 2 clk 🔴CRITICAL",
+      "ford_bronco_accessories": "pos 23.3 (was 12.6) ▼10.7 | 1 clk 🔴CRITICAL"
     },
     "zeroCtrAlerts": [
       {
-        "kw": "jeep wrangler grab handles",
-        "pos": 3.9,
-        "impressions": 128,
-        "ctr": 0.0,
-        "note": "Top-4 position but ZERO clicks \u2014 title/meta issue"
-      },
-      {
         "kw": "tactical seat covers",
         "pos": 10.7,
-        "impressions": 4835,
-        "ctr": 0.0025,
-        "note": "HUGE opportunity \u2014 4,835 impr just off page 1"
+        "impressions": 2295,
+        "clicks": 7,
+        "ctr": "0.30%"
       }
     ],
-    "reportFile": "/home/ubuntu/.openclaw/workspace/memory/seo-daily-2026-09-18.md"
-  },
-  "step2_autoFix": {
-    "status": "timed out (SIGTERM) \u2014 no fresh audit written",
-    "note": "Script fetched 136 collections + 147 GSC pages then was killed. seo-audit-issues.json from Sep 17 is stale and has bug (shows 0w for all \u2014 script parsing issue). Actual word counts verified via direct Shopify API.",
-    "shopifyApiStatus": "200 OK \u2014 token valid"
-  },
-  "step3_actionReport": {
-    "status": "read from 2026-09-14 run (most recent completed)",
-    "thinContent": 0,
-    "needsBlogArticle": 0,
-    "directApiVerification": [
+    "bigDropAlerts": [
       {
-        "handle": "tactical-seat-covers",
-        "words": 851,
-        "action": "CONTENT_OK"
+        "kw": "ford bronco accessories",
+        "posChange": -10.7,
+        "oldPos": 12.6,
+        "newPos": 23.3,
+        "note": "CRITICAL — continuing multi-week drop. Content 1725w — algorithmic/competitive. Monitor 2026-10-14."
       },
       {
-        "handle": "jeep-wrangler-seat-covers-accessories",
-        "words": 487,
-        "action": "CONTENT_OK"
+        "kw": "jeep seat covers",
+        "posChange": -9.9,
+        "oldPos": 6.6,
+        "newPos": 16.5,
+        "note": "CRITICAL continuing drop. Content 648w OK. Investigate title/meta. Monitor 2026-10-14."
       },
       {
-        "handle": "jeep-wrangler-seat-covers",
-        "words": 572,
-        "action": "CONTENT_OK"
+        "kw": "molle accessories",
+        "posChange": -7.2,
+        "oldPos": 5.7,
+        "newPos": 12.9,
+        "note": "Continuing drop despite expansion. Content 736w. Monitor 2026-10-14."
       },
       {
-        "handle": "grab-handles-for-jeep-wrangler-gladiator-ford-bronco-utvs-buggies-rails",
-        "words": 687,
-        "action": "CONTENT_OK"
+        "kw": "ford bronco seat covers",
+        "posChange": -5.4,
+        "oldPos": 6.6,
+        "newPos": 11.9,
+        "note": "Continuing drop. Content 618w. Meta title/schema review recommended."
       },
       {
-        "handle": "ford-bronco-seat-covers",
-        "words": 623,
-        "action": "CONTENT_OK"
-      },
-      {
-        "handle": "seat-covers",
-        "words": 448,
-        "action": "CONTENT_OK"
-      },
-      {
-        "handle": "molle-accessories",
-        "words": 589,
-        "action": "CONTENT_OK"
+        "kw": "jeep wrangler seat covers",
+        "posChange": -3.1,
+        "oldPos": 6.5,
+        "newPos": 9.6,
+        "note": "Continuing drop. Content 685w OK. Monitor 2026-10-14."
       }
     ]
   },
+  "step2_autoFix": {
+    "status": "completed",
+    "gscPagesScanned": 189,
+    "shopifyCollections": 126,
+    "issuesFlagged": 160,
+    "suppressedRecentlyFixed": 18,
+    "knownBug": "All 160 thin_content flags are false-positives (0w) due to body_html parsing bug. Direct API confirms all content 618-1930w."
+  },
   "step4_contentExpansion": {
-    "status": "skipped \u2014 no THIN_CONTENT collections found (all verified \u2265448 words via direct API)",
-    "thinCollections": 0
+    "status": "no action needed — 0 genuine THIN_CONTENT pages",
+    "verifiedWordCounts": {
+      "jeep-wrangler-seat-covers": "685w ✅",
+      "seat-covers": "648w ✅",
+      "molle-accessories": "736w ✅",
+      "ford-bronco-seat-covers": "618w ✅",
+      "ford-bronco-accessories-2021-2022-2023": "1725w ✅",
+      "tactical-seat-covers": "843w ✅",
+      "jeep-wrangler-seat-covers-accessories": "687w ✅",
+      "molle-buckles-attachments-accessories": "1594w ✅",
+      "jeep-wrangler-tj-seat-covers": "1600w ✅",
+      "toyota-4runner-seat-covers": "1506w ✅",
+      "jeep-wrangler-jl-jlu-accessories-2018": "1725w ✅",
+      "jeep-gladiator-seat-covers-accessories-2019": "778w ✅",
+      "fire-extinguishers-mounts": "1930w ✅"
+    }
   },
   "step5_blogArticles": {
-    "status": "completed \u2014 1 blog article published",
-    "articles": [
+    "status": "no new articles needed — 0 NEEDS_BLOG_ARTICLE items",
+    "monitoring": [
+      {
+        "keyword": "roll bar fire extinguisher holder",
+        "status": "blog published 2026-09-24, awaiting GSC indexing"
+      },
+      {
+        "keyword": "paracord grab handles",
+        "status": "NEW — entered page 1 at #4.3 today 🟢. Collection at 690w — monitor 2026-10-21"
+      },
+      {
+        "keyword": "molle seat covers jeep",
+        "status": "mapped to molle-accessories 736w — monitor 2026-10-21"
+      },
       {
         "keyword": "jeep wrangler accessories",
-        "title": "The Best Jeep Wrangler Accessories: Built for the Trail, Made in the USA",
-        "shopifyId": 634787299371,
-        "handle": "the-best-jeep-wrangler-accessories-built-for-the-trail-made-in-the-usa-1",
-        "url": "https://www.bartact.com/blogs/news/the-best-jeep-wrangler-accessories-built-for-the-trail-made-in-the-usa-1",
-        "words": 902,
-        "blogId": 19510597,
-        "rationale": "Priority 3 critical blocker \u2014 keyword at #34.5, 28 impr, needs content authority"
+        "status": "no GSC data. Blog trigger if page 4+ by 2026-10-27"
       }
     ]
   },
   "step6_indexNow": {
-    "status": "completed \u2014 1 URL submitted",
+    "status": "completed",
     "httpStatus": 200,
-    "urlsSubmitted": [
-      "https://www.bartact.com/blogs/news/the-best-jeep-wrangler-accessories-built-for-the-trail-made-in-the-usa-1"
-    ]
+    "urlsSubmitted": 8,
+    "urls": [
+      "https://www.bartact.com/collections/jeep-wrangler-seat-covers",
+      "https://www.bartact.com/collections/seat-covers",
+      "https://www.bartact.com/collections/molle-accessories",
+      "https://www.bartact.com/collections/ford-bronco-seat-covers",
+      "https://www.bartact.com/collections/ford-bronco-accessories-2021-2022-2023",
+      "https://www.bartact.com/collections/tactical-seat-covers",
+      "https://www.bartact.com/collections/jeep-gladiator-seat-covers-accessories-2019",
+      "https://www.bartact.com/collections/jeep-wrangler-tj-seat-covers"
+    ],
+    "note": "Submitted 8 key ranking-drop and zero-CTR pages to IndexNow to prompt recrawl. No content modified (all collections confirmed 618-1930w)."
   },
-  "step7_telegramSummary": {
-    "status": "sent",
-    "account": "bartact",
-    "chatId": "7550065844",
-    "messageId": "19615"
+  "step7_telegram": {
+    "status": "BLOCKED — TELEGRAM_BOT_TOKEN_BARTACT not in .env",
+    "chat": "7550065844",
+    "persistentSince": "August 2026",
+    "action": "Add TELEGRAM_BOT_TOKEN_BARTACT=<token> to /home/ubuntu/.openclaw/workspace/.env to restore Telegram reporting"
   },
-  "criticalBlockers": [
-    {
-      "priority": 1,
-      "blocker": "tactical seat covers at #10.7 \u2014 4,835 impressions, 0.25% CTR",
-      "impact": "Highest-impression keyword just off page 1; ~80+ weekly clicks lost",
-      "fix": "Authority push: backlinks to /collections/tactical-seat-covers; optimize title tag for CTR",
-      "collectionWords": 851,
-      "action": "NOT_THIN \u2014 needs ranking push"
-    },
-    {
-      "priority": 2,
-      "blocker": "jeep wrangler grab handles at #3.9 \u2014 128 impr, 0% CTR",
-      "impact": "Top-4 position with zero clicks = weak title or meta description",
-      "fix": "Rewrite collection title tag and meta description via Shopify API metafields"
-    },
-    {
-      "priority": 3,
-      "blocker": "jeep wrangler accessories at #34.5 \u2014 28 impr",
-      "status": "ADDRESSED \u2014 blog article published 2026-09-19",
-      "articleId": 634787299371
-    }
-  ],
-  "overallStatus": "BLOG PUBLISHED \u2014 GSC OK, Shopify API OK, 0 thin content, 1 blog article published for jeep wrangler accessories, IndexNow submitted, Telegram sent"
+  "overallStatus": "completed with one persistent blocker (Telegram token missing)"
 }

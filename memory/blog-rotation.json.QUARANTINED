@@ -1,0 +1,150 @@
+{
+  "stores": [
+    "bull-strap",
+    "bartact"
+  ],
+  "current_index": 0,
+  "last_updated": "2026-10-05T13:02:55.520419Z",
+  "history": [
+    {
+      "store": "bartact",
+      "date": "2026-09-16",
+      "post_title": "How to Install and Secure Your Cargo with Quality Limit Straps",
+      "post_url": "https://bartact.myshopify.com/blogs/news/how-to-install-and-secure-your-cargo-with-quality-limit-straps",
+      "note": "Published to Bartact (Bull Strap token invalid; next run will attempt Bull Strap again)"
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-17",
+      "post_title": "Best Limit Straps for Truck Beds: Ultimate Auto Parts Guide",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/best-limit-straps-for-truck-beds-ultimate-auto-parts-guide",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries"
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-18",
+      "post_title": "Limit Strap vs Winch Strap: Which Auto Parts Do You Really Need?",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/limit-strap-vs-winch-strap-which-auto-parts-do-you-really-need",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries. Bartact token invalid; attempted rotation back to Bull Strap."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-19",
+      "post_title": "UV-Protected Tarp: Why Quality Materials Matter for Outdoor Gear Storage",
+      "post_url": "https://bartact.myshopify.com/blogs/news/uv-protected-tarp-why-quality-materials-matter-for-outdoor-gear-storage",
+      "note": "Published to Bartact - targeting non-branded queries (UV-protected tarp, 1000D Cordura, foam backing). Used updated token from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-20",
+      "post_title": "Ratchet vs Cam Buckle Limit Straps: Which Works Best?",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/ratchet-vs-cam-buckle-limit-straps-which-works-best",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries"
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-21",
+      "post_title": "Best Waterproof Tarps: Durability and UV Protection Guide",
+      "post_url": "https://bartact.myshopify.com/blogs/news/best-waterproof-tarps-durability-and-uv-protection-guide",
+      "note": "Published to Bartact - targeting non-branded queries (UV protection, 1000D Cordura, foam backing). Token loaded from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-22",
+      "post_title": "Types of Load Limit Straps: Find the Right Auto Parts Solution",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/types-of-load-limit-straps-find-the-right-auto-parts-solution",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries. Token loaded from .env."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-23",
+      "post_title": "Heavy-Duty Cargo Tarp: Cordura Fabric vs Budget Alternatives",
+      "post_url": "https://bartact.myshopify.com/blogs/news/heavy-duty-cargo-tarp-cordura-fabric-vs-budget-alternatives",
+      "note": "Published to Bartact - targeting non-branded queries (Cordura, UV protection, foam backing, Made in USA). Token loaded from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-24",
+      "post_title": "How to Size Your Limit Straps: Complete Auto Parts Guide",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/how-to-size-limit-straps-guide",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries. Token loaded from .env."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-25",
+      "post_title": "Foam-Backed Tarps: Why Scrim Backing Matters for Durability",
+      "post_url": "https://bartact.myshopify.com/blogs/news/foam-backed-tarps-why-scrim-backing-matters-for-durability",
+      "note": "Published to Bartact - targeting non-branded queries (foam backing, scrim reinforcement, 1000D Cordura, UV-protected). Meta title and description optimized for SEO."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-26",
+      "post_title": "E-Track Limit Straps vs D-Ring: Which Auto Parts Keep Your Cargo Secure?",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/e-track-limit-straps-vs-d-ring-which-auto-parts-keep-your-cargo-secure",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries (E-track vs D-ring comparison). SEO optimized with meta title and description."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-27",
+      "post_title": "UV-Protected Tarps: Why Foam-Backed Designs Last Longer",
+      "post_url": "https://bartact.myshopify.com/blogs/news/uv-protected-tarps-why-foam-backed-designs-last-longer",
+      "note": "Published to Bartact - targeting non-branded queries (UV-protected tarps, foam-backed, 1000D Cordura, Made in USA). Token loaded from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-28",
+      "post_title": "Nylon vs Polyester Limit Straps: Which Auto Parts Material Wins?",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/nylon-vs-polyester-limit-straps-which-auto-parts-material-wins",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries (nylon vs polyester comparison). Token loaded from .env. Meta title and description optimized for SEO."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-09-29",
+      "post_title": "Polyester vs Canvas: Which Material Truly Protects Your Cargo?",
+      "post_url": "https://bartact.myshopify.com/blogs/news/polyester-vs-canvas-which-material-truly-protects-your-cargo",
+      "note": "Published to Bartact - targeting non-branded queries (UV-protected polyester, 1000D Cordura, foam backing, Made in USA). Meta title and description optimized for SEO."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-09-30",
+      "post_title": "Limit Strap Care and Maintenance: Extend Your Auto Parts Investment",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/limit-strap-care-and-maintenance-extend-your-auto-parts-investment",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries (maintenance and durability focus). 523 words, meta optimized for SEO. Token loaded from .env."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-10-01",
+      "post_title": "Foam-Backed vs Solid Tarps: Which Material Protects Best?",
+      "post_url": "https://bartact.myshopify.com/blogs/news/foam-backed-vs-solid-tarps-which-material-protects-best",
+      "note": "Published to Bartact - targeting non-branded queries (foam-backed tarps, UV-protected polyester, 1000D Cordura, Made in USA). 474 words, meta optimized for SEO. Token loaded from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-10-02",
+      "post_title": "Limit Strap Weight Capacity: How Much Load Can You Safely Carry?",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/limit-strap-weight-capacity-how-much-load-can-you-safely-carry",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries (weight capacity focus). 616 words, meta optimized for SEO. Token loaded from .env."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-10-03",
+      "post_title": "Scrim-Backed Tarps: Industrial-Grade Protection That Lasts",
+      "post_url": "https://bartact.myshopify.com/blogs/news/scrim-backed-tarps-industrial-grade-protection-that-lasts",
+      "note": "Published to Bartact - targeting non-branded queries (scrim-backed tarps, 1000D Cordura, foam backing, UV-protected polyester, Made in Temecula CA USA). 687 words, meta optimized for SEO. Token loaded from .env."
+    },
+    {
+      "store": "bull-strap",
+      "date": "2026-10-04",
+      "post_title": "Best Limit Straps for Pickup Trucks: A Buyer's Guide",
+      "post_url": "https://bull-strap-78.myshopify.com/blogs/news/best-limit-straps-pickup-trucks-buyers-guide",
+      "note": "Published to Bull Strap - targeting limit strap and auto parts queries (pickup truck buyer's guide). 697 words, meta optimized for SEO. Token loaded from .env."
+    },
+    {
+      "store": "bartact",
+      "date": "2026-10-05",
+      "post_title": "Weather-Resistant Tarps vs Standard: What's Really Worth It?",
+      "post_url": "https://bartact.myshopify.com/blogs/news/weather-resistant-tarps-vs-standard-whats-really-worth-it",
+      "note": "Published to Bartact - targeting non-branded queries (weather-resistant tarps, UV protection, 1000D Cordura, foam-scrim backing). 598 words, meta optimized for SEO. Token loaded from .env."
+    }
+  ]
+}

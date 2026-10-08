@@ -1,0 +1,14 @@
+{
+  "bartact_collections_missing_name_description": {
+    "issue": "Bartact top 10 collections missing meta description (global.description_tag)",
+    "strikes": [],
+    "strike_count": 0,
+    "note": "Oct8 CLEAN — all 10 collections have global.description_tag set (len 125-166). Counter reset to 0. (Prior: Oct3/Oct4 strikes, then clean Oct6+.)"
+  },
+  "skipatip_www_slow": {
+    "issue": "www.skipatip.com slow/flapping (17-21s responses, intermittent 25s timeout); apex redirects 307 and resolves 200",
+    "first_observed": "2026-10-04",
+    "strike_count": 0,
+    "note": "Informational only. Not 404/500, not SSL, not wrong content => outside defined break criteria. Oct8: still 307->www as expected, not broken."
+  }
+}

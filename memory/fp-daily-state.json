@@ -1,6 +1,6 @@
 {
-  "lastType": "scripture",
-  "count": 9,
+  "lastType": "prayer",
+  "count": 28,
   "dates": [
     {
       "date": "2026-09-11",
@@ -55,6 +55,120 @@
       "type": "scripture",
       "title": "Romans 8:28 — What 'Good' Actually Means",
       "slug": "romans-8-28-what-good-means-2026-09-19"
+    },
+    {
+      "date": "2026-09-20",
+      "type": "prayer",
+      "title": "A Prayer for the Body That Won't Cooperate",
+      "slug": "prayer-for-chronic-illness-2026-09-20"
+    },
+    {
+      "date": "2026-09-21",
+      "type": "song",
+      "title": "You Did Not Hide",
+      "slug": "song-you-did-not-hide-2026-09-21"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "scripture",
+      "title": "Psalm 46:10 — 'Be Still' Is Not a Mindfulness App",
+      "slug": "psalm-46-10-be-still-2026-09-22"
+    },
+    {
+      "date": "2026-09-23",
+      "type": "prayer",
+      "title": "A Prayer for the Caregiver Who Has Nothing Left",
+      "slug": "prayer-for-caregiver-burnout-2026-09-23"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "song",
+      "title": "Called to Mind",
+      "slug": "song-called-to-mind-2026-09-24"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "scripture",
+      "title": "Matthew 7:1-2 — The Verse Everyone Misquotes",
+      "slug": "matthew-7-1-do-not-judge-2026-09-25"
+    },
+    {
+      "date": "2026-09-26",
+      "type": "prayer",
+      "title": "A Prayer for the Baby We Never Got to Hold",
+      "slug": "prayer-for-miscarriage-2026-09-26"
+    },
+    {
+      "date": "2026-09-27",
+      "type": "song",
+      "title": "I Taught You to Walk",
+      "slug": "song-i-taught-you-to-walk-2026-09-27"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "scripture",
+      "title": "1 Corinthians 10:13 — God Didn't Promise That",
+      "slug": "1-corinthians-10-13-more-than-you-can-handle-2026-09-28"
+    },
+    {
+      "date": "2026-09-29",
+      "type": "prayer",
+      "title": "A Prayer for the Dark That Won't Lift",
+      "slug": "prayer-for-depression-2026-09-29"
+    },
+    {
+      "date": "2026-09-30",
+      "type": "song",
+      "title": "Though I Fall",
+      "slug": "song-though-i-fall-2026-09-30"
+    },
+    {
+      "date": "2026-10-01",
+      "type": "scripture",
+      "title": "Revelation 3:20 — He's Knocking on the Church Door",
+      "slug": "revelation-3-20-knocking-on-the-church-door-2026-10-01"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "prayer",
+      "title": "A Prayer for the One Fighting to Stay Sober",
+      "slug": "prayer-for-addiction-recovery-2026-10-02"
+    },
+    {
+      "date": "2026-10-03",
+      "type": "song",
+      "title": "I Still Call Your Name",
+      "slug": "song-i-still-call-your-name-2026-10-03"
+    },
+    {
+      "date": "2026-10-04",
+      "type": "scripture",
+      "title": "Psalm 22:1 — The Cry Jesus Made on Purpose",
+      "slug": "psalm-22-1-the-cry-jesus-made-2026-10-04"
+    },
+    {
+      "date": "2026-10-05",
+      "type": "prayer",
+      "title": "A Prayer for the Empty Arms",
+      "slug": "prayer-for-infertility-2026-10-05"
+    },
+    {
+      "date": "2026-10-06",
+      "type": "song",
+      "title": "Even There",
+      "slug": "song-even-there-2026-10-06"
+    },
+    {
+      "date": "2026-10-07",
+      "type": "scripture",
+      "title": "Isaiah 40:31 — The Wait That Isn't Waiting",
+      "slug": "isaiah-40-31-the-wait-that-isnt-waiting-2026-10-07"
+    },
+    {
+      "date": "2026-10-08",
+      "type": "prayer",
+      "title": "A Prayer for the Loneliness No One Sees",
+      "slug": "prayer-for-loneliness-2026-10-08"
     }
   ]
 }

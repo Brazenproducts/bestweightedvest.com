@@ -9912,3 +9912,1419 @@ Issue: GSC Indexing API daily quota exhausted — all requests return 429
     "code": 429,
     "message": "Quota exceeded for quota metric 'Publish requests' a
 [2026-09-19T03:02:34.263Z] Done: 179 succeeded, 2408 failed
+[2026-09-20T00:05:03.102Z] === Bull Strap GSC URL Delete STARTED ===
+[2026-09-20T00:05:03.168Z] Token OK
+[2026-09-20T00:05:03.170Z] Total ghost URLs loaded: 2753
+[2026-09-20T00:05:03.170Z] Processing 166 URLs (2587 already done)
+[2026-09-20T00:05:03.256Z] ❌ [429] /products/centric-performance-brake-rotor-9 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:03.682Z] ❌ [429] /products/centric-oe-grade-front-rear-brake-kit-4-wheel-8 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:04.108Z] ❌ [429] /products/centric-oe-grade-front-brake-kit-2-wheel-9 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:04.534Z] ❌ [429] /products/anzo-2005-2010-scion-tc-projector-headlights-w-halo-chrome-ccfl — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:04.958Z] ❌ [429] /products/hks-hipermax-deluxe-shock-damper-wrench-set — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:05.376Z] ❌ [429] /products/vance-hines-hd-dresser-triglide-17-21-vo2-naked — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:05.793Z] ❌ [429] /products/bilstein-b6-4600-series-21-23-ford-f-150-rwd-front-shock-absorber — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:06.215Z] ❌ [429] /products/bilstein-09-13-15-20-honda-fit-b14-pss-front-rear-performance-suspension-system — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:06.632Z] ❌ [429] /products/magnaflow-conv-df-bmw-m3-08-09-oem — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:07.046Z] ❌ [429] /products/anzo-18-20-ford-f-150-w-factory-halogen-z-series-full-led-proj-headlights-pair — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:07.461Z] ❌ [429] /products/brembo-oe-00-00-indian-scout-bobber-1200cc-brake-pad-rear — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:07.874Z] ❌ [429] /products/diode-dynamics-14-21-toyota-tundra-ss42-stealth-lightbar-kit-white-combo — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:08.287Z] ❌ [429] /products/diode-dynamics-15-pres-colorado-canyon-colorado-canyon-ss30-stealth-lightbar-kit-white-combo — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:08.703Z] ❌ [429] /products/centric-90-93-mazda-miata-convertible-2dr-1-6l-rear-premium-brake-rotor — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:09.118Z] ❌ [429] /products/dss-subaru-04-07-wrx-04-only-sti-basic-axle-no-warranty-not-a-racing-axle-single-ra8521l0 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:09.533Z] ❌ [429] /products/tein-15-subaru-wrx-sti-h-tech-springs — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:09.948Z] ❌ [429] /products/omp-4-point-harness-black — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:10.361Z] ❌ [429] /products/ats-2007-5-6-7l-cummins-68rfe-accumulator-piston-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:10.784Z] ❌ [429] /products/ats-diesel-03-07-dodge-5-9l-cr-cummins-fuel-rail-pressure-plug — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:11.198Z] ❌ [429] /products/gram-lights-57dr-15x8-0-35-4x100-sunlight-silver-wheel — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:11.611Z] ❌ [429] /products/arb-single-motor-onboard-12v-air-compressor-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:12.027Z] ❌ [429] /products/kleinn-10-12-dodge-ram-remote-start-gas — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:12.441Z] ❌ [429] /products/tein-03-rx8-h-tech-springs — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:12.856Z] ❌ [429] /products/aem-97-01-honda-prelude-base-type-sh-red-short-ram-intake — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:13.273Z] ❌ [429] /products/ats-diesel-2004-5-dodge-5-9l-common-rail-cummins-wastegate-solenoid-harness-jumper — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:13.687Z] ❌ [429] /products/ats-diesel-ported-compressor-housing-w-4-inch-boot — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:14.101Z] ❌ [429] /products/ats-diesel-2003-dodge-5-9l-cummins-electronic-fuel-regulator — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:14.517Z] ❌ [429] /products/ats-diesel-1999-2003-ford-7-3l-powerstroke-electronic-fuel-regulator-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:14.932Z] ❌ [429] /products/ats-diesel-98-5-02-dodge-24v-aurora-3000-turbo-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:15.347Z] ❌ [429] /products/ats-diesel-2003-dodge-5-9l-cummins-aurora-3000-turbo-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:15.768Z] ❌ [429] /products/ats-diesel-2003-dodge-5-9l-cummins-2pc-t3-non-wastegated-pulse-flow-exhaust-manifold — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:16.182Z] ❌ [429] /products/ats-diesel-1994-early-98-dodge-5-9l-12-valve-cummins-3pc-t3-pulseflow-exhaust-manifold — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:16.597Z] ❌ [429] /products/ats-diesel-98-5-02-dodge-24v-3pc-pulse-flow-manifold — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:17.012Z] ❌ [429] /products/ats-diesel-1998-5-2002-dodge-5-9l-24v-3pc-big-foot-t4-pulse-flow-exhaust-manifold — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:17.428Z] ❌ [429] /products/ats-diesel-46-7-8-rh-e-aluminum-5-qt-transmission-pan — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:17.844Z] ❌ [429] /products/ats-diesel-ats-high-capacity-aluminum-transmission-pan — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:18.257Z] ❌ [429] /products/ats-diesel-1996-2007-dodge-gm-governor-pressure-solenoid-block-conversion-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:18.673Z] ❌ [429] /products/ats-diesel-2007-dodge-68rfe-performance-valve-body — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:19.089Z] ❌ [429] /products/ats-diesel-e4od-4r100-5r110-billet-input-shaft — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:19.502Z] ❌ [429] /products/ats-diesel-1989-2007-47-8-rh-e-dodge-billet-flexplate — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:19.916Z] ❌ [429] /products/ats-diesel-2008-68-rfe-dodge-billet-flexplate — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:20.331Z] ❌ [429] /products/ats-diesel-2003-07-ford-6-0l-5r110-billet-flexplate-sfi-certified — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:20.745Z] ❌ [429] /products/ats-diesel-ford-sterling-12-bolt-10-25in-ring-gear-diff-cover — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:21.160Z] ❌ [429] /products/ats-diesel-01-gm-03-dodge-14-bolt-11-5in-american-axle-ats-protector-rear-differential-cover — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:21.574Z] ❌ [429] /products/ats-diesel-ford-7-3l-powerstroke-flexplate — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:21.989Z] ❌ [429] /products/posi-quiet-09-370z-sport-infiniti-fx35-08-09-g37-sport-6mt-rear-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:22.406Z] ❌ [429] /products/ats-diesel-94-98-dodge-aurora-3000-turbo-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:22.820Z] ❌ [429] /products/ats-diesel-1998-5-2002-dodge-5-9l-24v-47re-apps-tps-signal-conditioner — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:23.236Z] ❌ [429] /products/gaerne-sg22-boot-anthracite-white-grey-size-10-5 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:23.658Z] ❌ [429] /products/invidia-00-s2000-70mm-single-n1-titanium-tip-cat-back-exhaust — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:24.073Z] ❌ [429] /products/magnaflow-conv-df-10-14-volvo-s80-3-2l — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:24.486Z] ❌ [429] /products/rally-armor-24-25-lexus-gx-550-luxury-black-ur-mud-flap-metallic-black-logo — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:24.899Z] ❌ [429] /products/rally-armor-24-25-lexus-gx-550-luxury-black-ur-mud-flap-silver-logo — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:25.314Z] ❌ [429] /products/ats-diesel-gm-billet-flexplate-sfi-29-3 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:25.728Z] ❌ [429] /products/posi-quiet-st22-semi-metallic-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:26.144Z] ❌ [429] /products/posi-quiet-05-06-mustang-gt-fr-and-rear-04-09-sti-03-06-evo-deluxe-plus-front-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:26.556Z] ❌ [429] /products/posi-quiet-05-09-subaru-legacy-2-5-gt-deluxe-plus-front-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:26.970Z] ❌ [429] /products/posi-quiet-07-13-infiniti-g37-front-ceramic-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:27.385Z] ❌ [429] /products/posi-quiet-08-toyota-land-cruiser-sequoia-07-08-tundra-08-lexus-lx570-front-ceramic-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:27.799Z] ❌ [429] /products/centric-06-07-chrysler-srt-8-oe-design-brake-rotor-1 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:28.213Z] ❌ [429] /products/centric-08-12-lexus-is-f-front-oe-design-brake-rotor — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:28.628Z] ❌ [429] /products/stoptech-replacement-36mm-dust-boot-for-st-22-st-40-st-45-st-60-st-65 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:29.042Z] ❌ [429] /products/stoptech-replacement-38mm-dust-boot-for-st-22-st-40-st-45-st-60-st-65 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:29.457Z] ❌ [429] /products/stoptech-replacement-40mm-dust-boot-for-st-22-st-40-st-45-st-60-st-65 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:29.870Z] ❌ [429] /products/volant-98-02-chevrolet-camaro-5-7l-v8-pro5-air-intake-system — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:30.285Z] ❌ [429] /products/volant-98-02-pontiac-firebird-5-7-v8-pro5-open-element-air-intake-system — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:30.699Z] ❌ [429] /products/method-mr301-the-standard-15x7-6mm-offset-5x5-5-108mm-cb-matte-black-wheel — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:31.113Z] ❌ [429] /products/posi-quiet-07-09-mazdaspeed3-06-07-mazdaspeed6-06-07-mazda3-rear-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:31.529Z] ❌ [429] /products/posi-quiet-06-08-grand-cherokee-srt-8-08-challenger-srt-8-deluxe-plus-front-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:31.943Z] ❌ [429] /products/performance-machine-23-up-cvo-2024-touring-jet-air-cleaner-contrast-cut — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:32.358Z] ❌ [429] /products/cusco-strut-bar-os-front-3pt-w-bcs-lhd-ct9a-evo-8-9 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:32.771Z] ❌ [429] /products/hks-adjustable-knob — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:33.185Z] ❌ [429] /products/ats-diesel-1994-early-98-dodge-5-9l-12v-3pc-big-foot-t4-flange-pulse-flow-exhaust-manifold — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:33.601Z] ❌ [429] /products/ats-diesel-68rfe-aluminum-5-qt-transmission-pan — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:34.015Z] ❌ [429] /products/quadboss-01-08-honda-trx250ex-x-sportrax-starter-solenoid-relay — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:34.430Z] ❌ [429] /products/stoptech-sport-slot-08-12-toyota-sequoia-07-12-tundra-slotted-left-front-cryo-rotor — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:34.843Z] ❌ [429] /products/stoptech-08-13-bmw-m3-11-12-1m-coupe-front-bbk-w-st-60-trophy-calipers-slotted-380x35mm-rotors — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:35.274Z] ❌ [429] /products/stoptech-bmw-m3-e36-ss-rear-brake-lines — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:35.689Z] ❌ [429] /products/stoptech-05-08-mustang-v6-w-abs-mustang-gt-v8-07-09-gt500-stainless-steel-front-brake-lines — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:36.102Z] ❌ [429] /products/sport-axle-pack-slotted-rear-5 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:36.517Z] ❌ [429] /products/tonno-pro-05-15-toyota-tacoma-5ft-fleetside-tonno-fold-tri-fold-tonneau-cover — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:36.930Z] ❌ [429] /products/tonno-pro-07-13-chevy-silverado-1500-8ft-fleetside-lo-roll-tonneau-cover — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:37.343Z] ❌ [429] /products/comp1-clutch-03-06-lancer-evo-7-8-9-750-ft-tq-twin-disc-ceramic-clutch-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:37.759Z] ❌ [429] /products/husky-liners-07-12-dodge-caliber-07-14-jeep-compass-weatherbeater-black-2nd-seat-floor-liners — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:38.174Z] ❌ [429] /products/ohlins-17-23-tesla-model-3-y-awd-rwd-road-track-coilover-system-updated-design — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:38.588Z] ❌ [429] /products/gaerne-g-rome-gore-tex-boot-grey-size-12 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:39.001Z] ❌ [429] /products/magnaflow-conv-df-07-10-nissan-versa-1-8l — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:39.415Z] ❌ [429] /products/eibach-99-07-chevrolet-silverado-1500-gmc-sierra-1500-2wd-front-pro-truck-sport-shock-0-3in-lift — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:39.831Z] ❌ [429] /products/performance-machine-23-up-cvo-2024-touring-vision-series-air-cleaner-black-ops — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:40.245Z] ❌ [429] /products/centric-premium-semi-metallic-brake-pads-w-shims-hardware-rear — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:40.668Z] ❌ [429] /products/centric-premium-ceramic-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:41.082Z] ❌ [429] /products/stoptech-13-18-lexus-gs-turbo-sport-drilled-left-front-rotor — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:41.495Z] ❌ [429] /products/husky-liners-12-toyota-prius-c-weatherbeater-black-trunk-liner — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:41.910Z] ❌ [429] /products/cusco-mitsubishi-evo-10-cz4a-rear-ventiliation-panel — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:42.323Z] ❌ [429] /products/hks-hipermax-s-er34-full-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:42.748Z] ❌ [429] /products/stoptech-slotted-sport-brake-rotor-29 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:43.168Z] ❌ [429] /products/stoptech-bleeder-cap — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:43.581Z] ❌ [429] /products/centric-oe-coated-rear-brake-kit-2-wheel-18 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:43.997Z] ❌ [429] /products/raceline-beadlock-ring-spacer-kit-15in-20-hole-4-pcs-black — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:44.411Z] ❌ [429] /products/centric-disc-brake-hardware-kit-front — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:44.826Z] ❌ [429] /products/centric-performance-brake-rotor-11 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:45.240Z] ❌ [429] /products/posi-quiet-10-11-hyundai-genesis-coupe-rear-ceramic-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:45.654Z] ❌ [429] /products/aem-07-350z-silver-dual-inlet-cold-air-intakes-w-heat-sheilds — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:46.071Z] ❌ [429] /products/quadboss-02-08-yamaha-yfm660f-grizzly-upper-ball-joint-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:46.488Z] ❌ [429] /products/banks-power-01-10-6-6l-duramax-idash-1-8-super-gauge-for-six-gun-economind-speedbrake — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:46.902Z] ❌ [429] /products/centric-c-tek-standard-brake-rotor-rear-3 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:47.316Z] ❌ [429] /products/dei-under-carpet-sound-deadening-layer-48in-x-54in — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:47.731Z] ❌ [429] /products/centric-oe-coated-front-rear-brake-kit-4-wheel-23 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:48.146Z] ❌ [429] /products/stoptech-08-13-bmw-335i-xdrive-stainless-steel-front-brake-lines — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:48.560Z] ❌ [429] /products/fox-2-0-performance-elite-12in-remote-reservoir-coilover-shock-7-8in-shaft — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:48.975Z] ❌ [429] /products/husky-liners-21-25-ford-bronco-2-4dr-excl-raptor-aeroskin-ii-tex-blk — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:49.387Z] ❌ [429] /products/quadboss-06-10-suzuki-lt-z50-quadsport-starter-solenoid-relay — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:49.801Z] ❌ [429] /products/stoptech-06-09-honda-civic-ex-rear-ss-brake-lines — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:50.216Z] ❌ [429] /products/sport-axle-pack-slotted-4-wheel-14 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:50.630Z] ❌ [429] /products/sport-axle-pack-slotted-rear-6 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:51.045Z] ❌ [429] /products/sport-axle-pack-drilled-slotted-4-wheel-2 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:51.458Z] ❌ [429] /products/mishimoto-06-18-bmw-n20-n52-n55-replacement-oil-cooler — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:51.874Z] ❌ [429] /products/anzo-1986-1991-mercedes-benz-s-class-w126-taillights-red-clear — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:52.288Z] ❌ [429] /products/roll-n-lock-2019-ram-rambox-1500-xsb-67in-cargo-manager-requires-roll-n-lock-bed-cover — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:52.702Z] ❌ [429] /products/ohlins-flh-flt-s2-13in-reb-90-23-blk — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:53.117Z] ❌ [429] /products/stoptech-15-17-lexus-gx-front-slotted-left-cryo-rotor — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:53.536Z] ❌ [429] /products/corsa-2003-2006-cadillac-escalade-esv-6-0l-v8-polished-sport-cat-back-exhaust — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:53.950Z] ❌ [429] /products/ats-diesel-11-14-ford-pickup-6-7l-power-stroke-aurora-4000-vnt-stage-2-turbocharger-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:54.365Z] ❌ [429] /products/ats-diesel-07-18-dodge-cummins-6-7l-pulse-flow-exhaust-manifold-kit-w-gaskets-hardware — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:54.779Z] ❌ [429] /products/ats-diesel-19-24-ram-cummins-6-7l-pulse-flow-exhaust-manifold-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:55.198Z] ❌ [429] /products/ats-diesel-07-5-18-6-7l-cummins-2pc-holset-pulse-flow-exhaust-manifold-w-flange-hardware — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:55.619Z] ❌ [429] /products/hawk-hps-pads-unknown-application — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:56.034Z] ❌ [429] /products/bedrug-2019-dodge-ram-5-7ft-bed-bedtred-impact-mat-use-w-spray-in-non-lined-bed — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:56.452Z] ❌ [429] /products/profilter-89-01-honda-cr125-cr250-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:56.873Z] ❌ [429] /products/profilter-04-09-honda-crf250r-crf250x-05-08-honda-crf450r-crf450x-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:57.288Z] ❌ [429] /products/profilter-18-19-honda-crf250r-17-19-honda-crf450r-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:57.704Z] ❌ [429] /products/profilter-22-23-honda-crf250r-crf450r-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:58.118Z] ❌ [429] /products/profilter-03-17-honda-crf150f-crf230f-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:58.532Z] ❌ [429] /products/profilter-04-09-honda-crf80f-crf100f-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:58.951Z] ❌ [429] /products/profilter-03-09-yamaha-ttr125-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:59.367Z] ❌ [429] /products/profilter-18-19-yamaha-yz450f-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:05:59.781Z] ❌ [429] /products/profilter-06-15-kawasaki-kxf250f-kx450f-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:00.194Z] ❌ [429] /products/profilter-18-19-ktm-85-sx-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:00.609Z] ❌ [429] /products/profilter-08-10-ktm-150-sx-07-10-ktm-250-sx-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:01.026Z] ❌ [429] /products/profilter-11-16-ktm-250-sx-12-16-ktm-250-xc-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:01.441Z] ❌ [429] /products/profilter-17-19-ktm-250-sx-250-xc-ready-to-use-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:01.855Z] ❌ [429] /products/profilter-07-08-ktm-50-sx-ktm-50-sx-junior-premium-air-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:02.269Z] ❌ [429] /products/profilter-husqvarna-yamaha-cartridge-various-performance-oil-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:02.685Z] ❌ [429] /products/profilter-harley-spin-on-black-various-performance-oil-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:03.100Z] ❌ [429] /products/profilter-nissan-polaris-tohatsu-spin-on-black-various-performance-oil-filter-single — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:03.514Z] ❌ [429] /products/ats-diesel-11-16-ford-cab-chassis-6-7l-power-stroke-aurora-4000-vnt-stage-2-turbocharger-kit — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:03.927Z] ❌ [429] /products/blox-racing-88-91-honda-civic-type-a-radiator-cap-1-3-bar — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:04.341Z] ❌ [429] /products/anzo-16-21-toyota-tacoma-led-tail-lights-w-light-bar-sequential-black-housing-clear-lens — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:04.756Z] ❌ [429] /products/big-gun-11-14-polaris-rzr-xp-900-power-box — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:05.174Z] ❌ [429] /products/ats-diesel-2011-ford-6-7l-power-stroke-6r140-performance-valve-body — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:05.588Z] ❌ [429] /products/ats-diesel-2004-5-gm-trucks-fuel-rail-pressure-plug — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:06.001Z] ❌ [429] /products/ebc-racing-15-23-ford-mustang-6th-gen-2-3t-rear-rp-1-race-brake-pads — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:06.415Z] ❌ [429] /products/big-gun-16-23-can-am-outlander-850-power-box — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:06.834Z] ❌ [429] /products/big-gun-05-14-polaris-sportsman-800-power-box — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:07.250Z] ❌ [429] /products/corsa-24-25-ford-mustang-gt-5-0l-clear-lids-oiled-filters — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:07.665Z] ❌ [429] /products/dba-2016-ram-2500-td-4wd-front-drilled-slotted-street-series-rotor-w-gold-hat — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:08.077Z] ❌ [429] /products/magnaflow-conv-df-05-08-tacoma-2-7-rear — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:08.490Z] ❌ [429] /products/momo-quark-steering-wheel-350-mm-black-poly-black-spokes-red-inserts — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:08.908Z] ❌ [429] /products/omix-spider-gear-dana-44-trac-lok — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:09.322Z] ❌ [429] /products/prp-deep-dish-leather-steering-wheel-black — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:09.736Z] ❌ [429] /products/rhino-rack-vortex-59in-2-bar-roof-rack-w-tracks-black — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:10.150Z] ❌ [429] /products/superpro-audi-front-upper-control-arm-inner-bushing-set-4pcs — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:10.562Z] ❌ [429] /products/superpro-17-20-audi-a4-fuca-camber-offset-adjustable-inner-bushing-set-4pcs — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:10.977Z] ❌ [429] /products/ats-diesel-ats-extra-deep-transmission-pan-allison-lct1000-2000-automatic — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:11.391Z] ❌ [429] /products/bedrug-2017-ford-f-250-f-350-super-duty-6-5ft-short-bed-mat-use-w-spray-in-non-lined-bed — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:11.805Z] ❌ [429] /products/anzo-17-19-ford-f-250-350-450-sd-w-o-factory-led-led-proj-headlights-w-light-bar-switchback-blk — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-09-20T00:06:12.205Z] === ALL URLS SUBMITTED ===
+[2026-09-20T00:06:12.206Z] Done: 179 succeeded, 2574 failed
+[2026-09-21T00:05:02.945Z] === Bull Strap GSC URL Delete STARTED ===
+[2026-09-21T00:05:03.021Z] Token OK
+[2026-09-21T00:05:03.023Z] Total ghost URLs loaded: 2753
+[2026-09-21T00:05:03.023Z] Already complete. Delete state file to re-run.
+[2026-10-05T16:19:18.809Z] === Bull Strap GSC URL Delete STARTED ===
+[2026-10-05T16:19:18.868Z] Token OK
+[2026-10-05T16:19:18.870Z] Total ghost URLs loaded: 2936
+[2026-10-05T16:19:18.871Z] Already complete. Delete state file to re-run.
+[2026-10-05T16:19:45.571Z] === Bull Strap GSC URL Delete STARTED ===
+[2026-10-05T16:19:45.636Z] Token OK
+[2026-10-05T16:19:45.636Z] Total ghost URLs loaded: 183
+[2026-10-05T16:19:45.636Z] Processing 183 URLs (0 already done)
+[2026-10-05T16:19:45.735Z] ❌ [403] https://bull-strap.com/blogs/news/ford-bronco-accessories-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:46.170Z] ❌ [429] https://bull-strap.com/blogs/news/2-stroke-pipes-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:46.606Z] ❌ [403] https://bull-strap.com/blogs/news/body-armor-protection-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:47.035Z] ❌ [429] https://bull-strap.com/blogs/news/bags-bike-bags-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:47.468Z] ❌ [403] https://bull-strap.com/blogs/news/battery-chargers-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:47.894Z] ❌ [429] https://bull-strap.com/blogs/news/jeep-wrangler-jk-jku-2007-18-accessories-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:48.322Z] ❌ [403] https://bull-strap.com/blogs/news/best-sellers-1-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:48.753Z] ❌ [403] https://bull-strap.com/blogs/news/bike-racks-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:49.182Z] ❌ [429] https://bull-strap.com/blogs/news/bed-steps-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:49.600Z] ❌ [403] https://bull-strap.com/blogs/news/air-filters-direct-fit-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:50.013Z] ❌ [429] https://bull-strap.com/blogs/news/bed-rails-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:50.431Z] ❌ [403] https://bull-strap.com/blogs/news/boost-controller-accessories-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:50.852Z] ❌ [403] https://bull-strap.com/blogs/news/awnings-panels-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:51.265Z] ❌ [429] https://bull-strap.com/blogs/news/brake-kits-performance-d-s-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:51.688Z] ❌ [429] https://bull-strap.com/blogs/news/block-heaters-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:52.107Z] ❌ [403] https://bull-strap.com/blogs/news/body-protection-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:52.522Z] ❌ [429] https://bull-strap.com/blogs/news/car-truck-suv-utv-fire-extinguishers-mounts-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:52.941Z] ❌ [403] https://bull-strap.com/blogs/news/brake-fluid-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:53.355Z] ❌ [429] https://bull-strap.com/blogs/news/air-compressor-systems-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:53.768Z] ❌ [429] https://bull-strap.com/blogs/news/bar-pads-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:54.183Z] ❌ [429] https://bull-strap.com/blogs/news/bike-covers-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:54.597Z] ❌ [429] https://bull-strap.com/blogs/news/alternators-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:55.018Z] ❌ [403] https://bull-strap.com/blogs/news/bearings-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:19:55.433Z] ❌ [429] https://bull-strap.com/blogs/news/aluminum-tubing-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:55.847Z] ❌ [429] https://bull-strap.com/blogs/news/bike-stands-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:56.261Z] ❌ [429] https://bull-strap.com/blogs/news/air-filters-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:56.675Z] ❌ [429] https://bull-strap.com/blogs/news/body-side-moldings-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:57.090Z] ❌ [429] https://bull-strap.com/blogs/news/batteries-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:57.512Z] ❌ [429] https://bull-strap.com/blogs/news/bags-saddlebags-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:57.932Z] ❌ [429] https://bull-strap.com/blogs/news/air-tanks-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:58.346Z] ❌ [429] https://bull-strap.com/blogs/news/brake-hardware-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:58.761Z] ❌ [429] https://bull-strap.com/blogs/news/automotive-utv-tires-off-road-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:59.179Z] ❌ [429] https://bull-strap.com/blogs/news/bull-strap-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:19:59.592Z] ❌ [429] https://bull-strap.com/blogs/news/belts-timing-accessory-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:00.008Z] ❌ [429] https://bull-strap.com/blogs/news/blow-off-valve-accessories-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:00.424Z] ❌ [429] https://bull-strap.com/blogs/news/brake-cylinder-stops-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:00.839Z] ❌ [429] https://bull-strap.com/blogs/news/armrests-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:01.255Z] ❌ [429] https://bull-strap.com/blogs/news/bed-racks-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:01.668Z] ❌ [429] https://bull-strap.com/blogs/news/bed-covers-folding-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:02.107Z] ❌ [429] https://bull-strap.com/blogs/news/bags-packs-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:02.522Z] ❌ [429] https://bull-strap.com/blogs/news/brake-kits-performance-drill-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:02.938Z] ❌ [429] https://bull-strap.com/blogs/news/audio-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:03.353Z] ❌ [429] https://bull-strap.com/blogs/news/bib-mousse-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:03.766Z] ❌ [429] https://bull-strap.com/blogs/news/base-rack-systems-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:04.181Z] ❌ [429] https://bull-strap.com/blogs/news/boots-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:04.595Z] ❌ [429] https://bull-strap.com/blogs/news/battery-accessories-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:05.010Z] ❌ [429] https://bull-strap.com/blogs/news/axles-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:05.426Z] ❌ [429] https://bull-strap.com/blogs/news/brake-kits-oe-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:05.840Z] ❌ [429] https://bull-strap.com/blogs/news/air-tank-components-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:06.254Z] ❌ [429] https://bull-strap.com/blogs/news/blow-down-kits-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:06.667Z] ❌ [429] https://bull-strap.com/blogs/news/battery-testers-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:07.082Z] ❌ [429] https://bull-strap.com/blogs/news/brake-calipers-perf-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:07.497Z] ❌ [429] https://bull-strap.com/blogs/news/bed-caps-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:07.911Z] ❌ [429] https://bull-strap.com/blogs/news/air-compressors-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:08.328Z] ❌ [429] https://bull-strap.com/blogs/news/brake-drums-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:08.741Z] ❌ [429] https://bull-strap.com/blogs/news/air-springs-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:09.157Z] ❌ [429] https://bull-strap.com/blogs/news/air-filters-universal-fit-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:09.572Z] ❌ [429] https://bull-strap.com/blogs/news/body-kits-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:09.987Z] ❌ [429] https://bull-strap.com/blogs/news/battery-jump-starters-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:10.402Z] ❌ [429] https://bull-strap.com/blogs/news/antenna-deletes-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:10.822Z] ❌ [429] https://bull-strap.com/blogs/news/bed-liners-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:11.239Z] ❌ [429] https://bull-strap.com/blogs/news/bolts-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:11.654Z] ❌ [429] https://bull-strap.com/blogs/news/axle-disconnect-kits-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:12.068Z] ❌ [429] https://bull-strap.com/blogs/news/additives-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:12.482Z] ❌ [429] https://bull-strap.com/blogs/news/axle-back-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:12.899Z] ❌ [429] https://bull-strap.com/blogs/news/boost-controllers-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:13.319Z] ❌ [403] https://bull-strap.com/blogs/news/bed-covers-roll-up-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:20:13.735Z] ❌ [429] https://bull-strap.com/blogs/news/amplifiers-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:14.150Z] ❌ [429] https://bull-strap.com/blogs/news/air-intake-systems-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:14.564Z] ❌ [429] https://bull-strap.com/blogs/news/2-stroke-silencers-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:14.979Z] ❌ [429] https://bull-strap.com/blogs/news/big-brake-kits-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:15.399Z] ❌ [403] https://bull-strap.com/blogs/news/bags-backpacks-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:20:15.814Z] ❌ [429] https://bull-strap.com/blogs/news/ball-joints-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:16.228Z] ❌ [429] https://bull-strap.com/blogs/news/body-armor-rock-rails-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:16.643Z] ❌ [429] https://bull-strap.com/blogs/news/brake-calipers-oe-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:17.057Z] ❌ [429] https://bull-strap.com/blogs/news/bed-covers-hinged-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:17.472Z] ❌ [429] https://bull-strap.com/blogs/news/air-intake-components-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:17.888Z] ❌ [429] https://bull-strap.com/blogs/news/brake-caliper-rebuild-kits-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:18.301Z] ❌ [429] https://bull-strap.com/blogs/news/body-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:18.716Z] ❌ [429] https://bull-strap.com/blogs/news/bags-luggage-travel-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:19.131Z] ❌ [429] https://bull-strap.com/blogs/news/backrests-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:19.545Z] ❌ [429] https://bull-strap.com/blogs/news/brake-adapters-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:19.960Z] ❌ [429] https://bull-strap.com/blogs/news/air-filters-drop-in-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:20.374Z] ❌ [429] https://bull-strap.com/blogs/news/antennas-guide-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:20.792Z] ❌ [403] https://bull-strap.com/blogs/news/bags-hydration-packs-guide-installation — {
+  "error": {
+    "code": 403,
+    "message": "Permission denied. Failed to verify the URL ownershi
+[2026-10-05T16:20:21.207Z] ❌ [429] https://bull-strap.com/blogs/news/body-control-modules-guide-1789005605397 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:21.622Z] ❌ [429] https://bull-strap.com/blogs/news/hitch-receivers-guide-1788919205691 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:22.038Z] ❌ [429] https://bull-strap.com/blogs/news/master-cylinders-guide-1788832805450 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:22.450Z] ❌ [429] https://bull-strap.com/blogs/news/code-readers-guide-1788746405094 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:22.864Z] ❌ [429] https://bull-strap.com/blogs/news/mufflers-guide-1788660006081 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:23.280Z] ❌ [429] https://bull-strap.com/blogs/news/tire-pressure-gauges-guide-1788573605299 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:23.695Z] ❌ [429] https://bull-strap.com/blogs/news/drag-links-guide-1788487205539 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:24.110Z] ❌ [429] https://bull-strap.com/blogs/news/universal-joints-guide-1788429622670 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:24.548Z] ❌ [429] https://bull-strap.com/blogs/news/transmission-coolers-fitment-guide-for-popular-trucks-and-suvs-2027 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:24.962Z] ❌ [429] https://bull-strap.com/blogs/news/skid-plates-fitment-guide-for-popular-trucks-and-suvs-2027 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:25.380Z] ❌ [429] https://bull-strap.com/blogs/news/rock-sliders-fitment-guide-for-popular-trucks-and-suvs-2027 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:25.795Z] ❌ [429] https://bull-strap.com/blogs/news/oil-coolers-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:26.211Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-regulators-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:26.625Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-filters-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:27.040Z] ❌ [429] https://bull-strap.com/blogs/news/transmission-coolers-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:27.455Z] ❌ [429] https://bull-strap.com/blogs/news/skid-plates-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:27.870Z] ❌ [429] https://bull-strap.com/blogs/news/rock-sliders-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:28.285Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-tanks-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:28.701Z] ❌ [429] https://bull-strap.com/blogs/news/tail-light-covers-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:29.115Z] ❌ [429] https://bull-strap.com/blogs/news/headlight-assemblies-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:29.530Z] ❌ [429] https://bull-strap.com/blogs/news/fog-lights-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:29.945Z] ❌ [429] https://bull-strap.com/blogs/news/led-light-bars-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:30.359Z] ❌ [429] https://bull-strap.com/blogs/news/lighting-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:30.774Z] ❌ [429] https://bull-strap.com/blogs/news/winches-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:31.188Z] ❌ [429] https://bull-strap.com/blogs/news/side-steps-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:31.603Z] ❌ [429] https://bull-strap.com/blogs/news/fender-flares-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:32.019Z] ❌ [429] https://bull-strap.com/blogs/news/bed-liners-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:32.433Z] ❌ [429] https://bull-strap.com/blogs/news/tonneau-covers-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:32.847Z] ❌ [429] https://bull-strap.com/blogs/news/running-boards-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:33.260Z] ❌ [429] https://bull-strap.com/blogs/news/bumpers-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:33.675Z] ❌ [429] https://bull-strap.com/blogs/news/grilles-and-trim-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:34.089Z] ❌ [429] https://bull-strap.com/blogs/news/exhaust-systems-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:34.504Z] ❌ [429] https://bull-strap.com/blogs/news/air-intake-systems-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:34.917Z] ❌ [429] https://bull-strap.com/blogs/news/brake-kits-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:35.331Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-injectors-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:35.748Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-pumps-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:36.163Z] ❌ [429] https://bull-strap.com/blogs/news/carburetor-cleaner-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:36.580Z] ❌ [429] https://bull-strap.com/blogs/news/best-icon-silicone-sealants-for-ford-bronco-2026-guide — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:36.994Z] ❌ [429] https://bull-strap.com/blogs/news/central-locking-systems-fitment-guide-for-popular-trucks-and-suvs-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:37.416Z] ❌ [429] https://bull-strap.com/blogs/news/stainless-steel-brake-lines-for-jeep-wrangler-jk-why-you-need-them-after-lifting — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:37.832Z] ❌ [429] https://bull-strap.com/blogs/news/best-coilovers-for-subaru-wrx-sti-2008-2024-buying-guide — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:38.247Z] ❌ [429] https://bull-strap.com/blogs/news/how-to-choose-the-right-daytime-running-lights-for-your-vehicle — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:38.662Z] ❌ [429] https://bull-strap.com/blogs/news/best-body-protection-complete-buyers-guide — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:39.076Z] ❌ [429] https://bull-strap.com/blogs/news/electric-exhaust-cutouts-how-they-work-and-why-trucks-need-them — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:39.498Z] ❌ [429] https://bull-strap.com/blogs/news/how-to-adjust-coilovers-a-simple-step-by-step-guide — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:39.912Z] ❌ [429] https://bull-strap.com/blogs/news/bad-cv-axle-symptoms-5-signs-its-time-to-replace — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:40.328Z] ❌ [429] https://bull-strap.com/blogs/news/bad-wheel-bearing-symptoms-7-warning-signs-you-shouldnt-ignore — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:40.741Z] ❌ [429] https://bull-strap.com/blogs/news/connecting-rods-4cyl-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:41.156Z] ❌ [429] https://bull-strap.com/blogs/news/blow-off-valve-accessories-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:41.572Z] ❌ [429] https://bull-strap.com/blogs/news/connecting-pipes-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:41.987Z] ❌ [429] https://bull-strap.com/blogs/news/diff-covers-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:42.402Z] ❌ [429] https://bull-strap.com/blogs/news/brake-kits-oe-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:42.816Z] ❌ [429] https://bull-strap.com/blogs/news/body-protection-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:43.230Z] ❌ [429] https://bull-strap.com/blogs/news/brake-master-cylinder-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:43.644Z] ❌ [429] https://bull-strap.com/blogs/news/dash-interior-trim-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:44.060Z] ❌ [429] https://bull-strap.com/blogs/news/bulbs-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:44.475Z] ❌ [429] https://bull-strap.com/blogs/news/crankshaft-dampers-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:44.889Z] ❌ [429] https://bull-strap.com/blogs/news/bushings-full-vehicle-kits-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:45.304Z] ❌ [429] https://bull-strap.com/blogs/news/chassis-bracing-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:45.719Z] ❌ [429] https://bull-strap.com/blogs/news/brake-rotors-2-piece-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:46.135Z] ❌ [429] https://bull-strap.com/blogs/news/bump-stops-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:46.549Z] ❌ [429] https://bull-strap.com/blogs/news/differential-bushings-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:46.964Z] ❌ [429] https://bull-strap.com/blogs/news/clutch-kits-multi-premium-quality-spring-refresh — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:47.377Z] ❌ [429] https://bull-strap.com/blogs/news/transfer-case-explained-2wd-4wd-and-awd-whats-actually-happening-under-your-truck — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:47.791Z] ❌ [429] https://bull-strap.com/blogs/news/tonneau-cover-types-explained-roll-up-tri-fold-retractable-and-hard-vs-soft-covers — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:48.206Z] ❌ [429] https://bull-strap.com/blogs/news/truck-bed-tent-vs-rooftop-tent-vs-ground-tent-which-camping-setup-is-best — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:48.620Z] ❌ [429] https://bull-strap.com/blogs/news/fuel-injectors-2026-how-they-work-when-they-fail-and-cleaning-vs-replacement — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:49.034Z] ❌ [429] https://bull-strap.com/blogs/news/diesel-vs-gas-trucks-2026-which-powertrain-is-right-for-your-needs — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:49.448Z] ❌ [429] https://bull-strap.com/blogs/news/cooling-system-flush-guide-2026-when-why-and-how-to-change-your-coolant — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:49.862Z] ❌ [429] https://bull-strap.com/blogs/news/how-to-choose-the-right-lift-kit-for-your-truck-or-suv — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:50.277Z] ❌ [429] https://bull-strap.com/blogs/news/wheel-spacers-2026-are-they-safe-everything-you-need-to-know — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:50.691Z] ❌ [429] https://bull-strap.com/blogs/news/hub-centric-vs-lug-centric-wheels-why-it-matters-and-how-to-tell-the-difference — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:51.105Z] ❌ [429] https://bull-strap.com/blogs/news/fender-flares-2026-pocket-style-vs-street-bolt-on-vs-oe-and-how-to-choose-the-right-flares — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:51.518Z] ❌ [429] https://bull-strap.com/blogs/news/turbo-timer-what-it-is-why-diesel-owners-use-them-and-whether-you-need-one — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:51.932Z] ❌ [429] https://bull-strap.com/blogs/news/sway-bar-end-links-and-bushings-2026-what-they-do-and-when-to-replace-them — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:52.346Z] ❌ [429] https://bull-strap.com/blogs/news/brake-rotors-explained-2026-drilled-slotted-or-smooth-which-is-best-for-your-truck — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:52.762Z] ❌ [429] https://bull-strap.com/blogs/news/truck-frame-rust-inspection-prevention-and-repair-guide-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:53.176Z] ❌ [429] https://bull-strap.com/blogs/news/transfer-case-guide-2026-what-it-does-how-it-fails-and-repair-costs-1 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:53.596Z] ❌ [429] https://bull-strap.com/blogs/news/power-steering-pump-vs-electric-power-steering-complete-guide-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:54.010Z] ❌ [429] https://bull-strap.com/blogs/news/truck-mirrors-towing-mirrors-blind-spot-mirrors-and-upgrade-options-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:54.425Z] ❌ [429] https://bull-strap.com/blogs/news/truck-bed-dividers-and-cargo-management-systems-2026-stop-your-gear-from-sliding-around — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:54.840Z] ❌ [429] https://bull-strap.com/blogs/news/tonneau-cover-buying-guide-2026-soft-vs-hard-roll-up-vs-tri-fold-vs-retractable — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:55.253Z] ❌ [429] https://bull-strap.com/blogs/news/truck-bed-extenders-and-tailgate-accessories-2026-maximize-your-hauling-capacity — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:55.667Z] ❌ [429] https://bull-strap.com/blogs/news/exhaust-tips-mufflers-and-resonators-what-each-does-and-how-to-choose — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:56.082Z] ❌ [429] https://bull-strap.com/blogs/news/mud-flaps-and-splash-guards-2026-do-you-need-them-types-fitment-and-installation — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:56.497Z] ❌ [429] https://bull-strap.com/blogs/news/oil-catch-cans-2026-do-they-work-what-they-catch-and-whether-your-truck-needs-one — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:56.913Z] ❌ [429] https://bull-strap.com/blogs/news/wheel-bearings-2026-signs-of-failure-how-to-check-and-when-to-replace — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:57.327Z] ❌ [429] https://bull-strap.com/blogs/news/power-steering-fluid-pumps-and-rack-replacement-2026-complete-guide-to-your-steering-system — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:57.739Z] ❌ [429] https://bull-strap.com/blogs/news/driveshaft-vibration-causes-diagnosis-fix-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:58.154Z] ❌ [429] https://bull-strap.com/blogs/news/trailer-hitch-classes-explained-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:58.567Z] ❌ [429] https://bull-strap.com/blogs/news/truck-snorkels-2026-do-you-actually-need-one-water-fording-dust-protection-and-installation-guide — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:58.982Z] ❌ [429] https://bull-strap.com/blogs/news/ball-joints-101-what-they-do-when-they-fail-and-how-to-tell-if-yours-are-bad — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:59.398Z] ❌ [429] https://bull-strap.com/blogs/news/synthetic-winch-line-vs-steel-cable-which-is-safer-and-stronger-for-your-winch — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:20:59.811Z] ❌ [429] https://bull-strap.com/blogs/news/headlight-restoration-and-upgrade-guide-2026-halogen-vs-led-vs-hid-conversion — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:21:00.226Z] ❌ [429] https://bull-strap.com/blogs/news/egr-delete-dpf-delete-and-emissions-modifications-what-you-need-to-know-in-2026 — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:21:00.641Z] ❌ [429] https://bull-strap.com/blogs/news/catalytic-converter-theft-and-protection-2026-how-to-keep-your-cat-safe — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:21:01.057Z] ❌ [429] https://bull-strap.com/blogs/news/wiring-harnesses-relays-and-vehicle-electrical-basics-2026-how-to-wire-accessories-without-burning-down-your-truck — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:21:01.472Z] ❌ [429] https://bull-strap.com/blogs/news/starter-motors-explained-2026-how-they-work-when-they-fail-and-upgrade-options — {
+  "error": {
+    "code": 429,
+    "message": "Quota exceeded for quota metric 'Publish requests' a
+[2026-10-05T16:21:01.872Z] === ALL URLS SUBMITTED ===
+[2026-10-05T16:21:01.873Z] Done: 0 succeeded, 183 failed

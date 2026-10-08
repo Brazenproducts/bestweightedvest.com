@@ -1,35 +1,32 @@
-[2026-09-19 13:00:05 UTC] Bull Strap Shopify Token Refresh Log
-==============================================================
+# Bull Strap Token Refresh Log
+**Date:** Thursday, October 8th, 2026 - 1:00 PM (UTC)
+**Timestamp:** 2026-10-08 13:00 UTC
 
-TASK: Refresh SHOPIFY_TOKEN_BULLSTRAP and verify it works
+## Token Refresh Execution
+Script: `/home/ubuntu/.openclaw/workspace/scripts/bullstrap-token-refresh.js`
+Status: ✅ **SUCCESS**
 
-1. SCRIPT EXECUTION
-   ✅ Executed: node scripts/bullstrap-token-refresh.js
-   ✅ New token refreshed: shpat_967aa9...
-   ✅ Written to .env as SHOPIFY_TOKEN_BULLSTRAP
+### New Token Generated
+- **Token:** `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` (truncated: `shpat_fa171c...`)
+- **Written to:** `.env` as `SHOPIFY_TOKEN_BULLSTRAP`
+- **Store:** `bull-strap-78.myshopify.com`
 
-2. NEW TOKEN VALUE
-   Token: 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
-   Store: bull-strap-78.myshopify.com
+## Verification
+**API Endpoint:** `https://bull-strap-78.myshopify.com/admin/api/2024-01/shop.json`
+**Method:** GET with X-Shopify-Access-Token header
+**Status:** ✅ **VERIFIED - Token is valid**
 
-3. VERIFICATION REQUEST
-   Endpoint: GET https://bull-strap-78.myshopify.com/admin/api/2024-01/shop.json
-   Authorization: X-Shopify-Access-Token header
-   
-   ✅ STATUS: SUCCESS (200 OK)
-   
-   Response (Shop Details):
-   - Shop ID: 73959309585
-   - Shop Name: Bull Strap
-   - Email: info@bullstrap.com
-   - Domain: bullstrap.com
-   - Location: Temecula, CA, USA
-   - Plan: Professional (Grow)
-   - Currency: USD
-   - Has Storefront: true
-   - Multi-location Enabled: true
+### Shop Details Confirmed
+- Shop ID: 73959309585
+- Shop Name: Bull Strap
+- Email: info@bullstrap.com
+- Domain: bullstrap.com
+- Location: Temecula, California, US
+- Currency: USD
+- Plan: Grow (Professional)
+- Updated: 2026-10-07T20:37:06-07:00
 
-4. CONCLUSION
-   ✅ Token refresh completed successfully
-   ✅ New token verified and working
-   ✅ API access confirmed at 2026-09-19T13:00 UTC
+## Result
+✅ Token refresh completed successfully
+✅ New token verified working with Shopify API
+✅ All credentials in .env file updated

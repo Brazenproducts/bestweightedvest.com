@@ -1,0 +1,10 @@
+conv err Am {
+  errors: [
+    {
+      error_code: [Object],
+      message: "Cannot select or filter on the following metrics: 'conversions'(could not support requested resources: 'CONVERSION_ACTION'), since metric is incompatible with the resource in the FROM clause or other selected segmenting resources."
+    }
+  ],
+  '@type': 'type.googleapis.com/google.ads.googleads.v25.errors.GoogleAdsFailure',
+  request_id: 'Zk-42cncGIl1aTkeNKudMw'
+}

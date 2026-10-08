@@ -1,0 +1,32 @@
+[
+  {
+    "last_run_utc": "2026-10-07T09:00:00Z",
+    "blog_id": 19510597,
+    "shop": "bartact.myshopify.com",
+    "total_posts": 70,
+    "published": 70,
+    "drafts_found": 0,
+    "fixed_from_draft": 0,
+    "future_dated_found": 0,
+    "banned_content_found": 0,
+    "banned_titles": [],
+    "republished_ids": [],
+    "unpublished_ids": [],
+    "alert_sent": false,
+    "status": "healthy",
+    "notes": "All 70 articles published with published_at in the past; 0 unpublished; no titles matched banned list. No action taken, no alert sent."
+  },
+  {
+    "run_at": "2026-10-08T09:00:00Z",
+    "blog_id": 19510597,
+    "shop": "bartact.myshopify.com",
+    "total_posts": 71,
+    "published": 71,
+    "fixed_from_draft": 0,
+    "fixed_draft_ids": [],
+    "banned_content_found": 0,
+    "banned_unpublished_ids": [],
+    "alert_sent": false,
+    "status": "healthy"
+  }
+]

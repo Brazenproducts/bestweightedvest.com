@@ -1,0 +1,44 @@
+{
+  "published": [
+    "limit-straps:2026-09",
+    "molle-wrangler:2026-09-29",
+    "gladiator-grab-handles:2026-10-06",
+    "ford-bronco-seat-covers:2026-10-07",
+    "jlu-jl-roll-bar-fire-extinguisher-mount:2026-10-08"
+  ],
+  "lastRun": "2026-10-08",
+  "lastPlaybookAttestation": {
+    "timestamp": "2026-10-08T14:00:00.000Z",
+    "url": "https://www.bartact.com/blogs/news/jeep-wrangler-jlu-jl-roll-bar-fire-extinguisher-mount-guide",
+    "articleId": 635663515691,
+    "visibleTitle": "Jeep Wrangler JLU & JL Roll Bar Fire Extinguisher Mount",
+    "visibleTitleLen": 55,
+    "titleTag": "Jeep Wrangler JL Roll Bar Fire Extinguisher Mount | Bartact",
+    "titleTagLen": 59,
+    "metaDesc": "Roll bar fire extinguisher mount for the 2018+ Jeep Wrangler JLU & JL. PALS/MOLLE compatible, no-drill, grab-and-go trail safety from Bartact.",
+    "metaDescLen": 142,
+    "tags": "bartact, fire-extinguisher-mount, roll-bar, jeep-wrangler, jlu, jl, jeep-wrangler-2018, molle, off-road, safety, made-in-usa",
+    "wordCount": 632,
+    "internalLinks": 2,
+    "internalLink": "/collections/roll-bar-fire-extinguisher-holder",
+    "internalLink2": "/collections/jeep-wrangler-jl-fire-extinguisher-holder",
+    "productImage": "roll bar fire extinguisher holder (product id 1314576133), 500x500 ratio 1.00, non-cpb, non-overstock",
+    "productStatus": "product is draft in Shopify but exists; article references collection pages (which are live), not the draft product URL",
+    "forbiddenPhrases": "NONE (no free shipping, no material specs, no warranty claims, no invented claims; JLU leads JL throughout)",
+    "dogSection": false,
+    "dogSectionNote": "not required — this is a fire-extinguisher-mount post, not a seat-cover post",
+    "published": true,
+    "publishedAt": "2026-10-08T07:01:33-07:00",
+    "verifiedLive": true,
+    "indexNow": "submitted (api.indexnow.org HTTP 202 + www.bing.com HTTP 202)",
+    "indexNowWarning": "key file https://www.bartact.com/e9c8f5a4b3d2c1a0f9e8d7c6b5a4e9c8.txt now returns HTTP 403 (was 404 last run) at domain root; async IndexNow key verification may still fail. Needs key file hosted at that keyLocation OR confirm correct keyLocation with Mitch.",
+    "googleIndexing": "not submitted this run",
+    "calendarStatus": "DONE — marked 'JLU & JL Roll Bar Fire Extinguisher Mount — Safety on Trail' row DONE",
+    "topic": "Jeep Wrangler JLU & JL Roll Bar Fire Extinguisher Mount — Safety on Trail"
+  },
+  "lastPublished": {
+    "url": "https://www.bartact.com/blogs/news/jeep-wrangler-jlu-jl-roll-bar-fire-extinguisher-mount-guide",
+    "title": "Jeep Wrangler JLU & JL Roll Bar Fire Extinguisher Mount",
+    "date": "2026-10-08T14:00:00.000Z"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^18.0.2",
+    "google-ads-api": "^25.1.0",
+    "google-auth-library": "^11.1.0",
+    "googleapis": "^182.0.0",
+    "puppeteer": "^25.12.0"
+  }
+}

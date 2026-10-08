@@ -1,26 +1,8 @@
 {
-  "offset": 104,
-  "totalSubmitted": 1420,
-  "lastRun": "2026-09-19T09:10:40.786Z",
+  "offset": 419,
+  "totalSubmitted": 3672,
+  "lastRun": "2026-10-08T09:10:42.730Z",
   "runs": [
-    {
-      "date": "2026-09-07T19:46:11.132Z",
-      "ok": 0,
-      "quota429": 1,
-      "fail": 0,
-      "offset": 0,
-      "newOffset": 0,
-      "total": 447
-    },
-    {
-      "date": "2026-09-08T09:10:23.506Z",
-      "ok": 66,
-      "quota429": 1,
-      "fail": 0,
-      "offset": 0,
-      "newOffset": 66,
-      "total": 447
-    },
     {
       "date": "2026-09-09T09:10:40.878Z",
       "ok": 120,
@@ -128,6 +110,177 @@
       "offset": 413,
       "newOffset": 104,
       "total": 429
+    },
+    {
+      "date": "2026-09-20T09:10:40.643Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 104,
+      "newOffset": 224,
+      "total": 429
+    },
+    {
+      "date": "2026-09-21T09:10:41.797Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 224,
+      "newOffset": 344,
+      "total": 436
+    },
+    {
+      "date": "2026-09-22T09:10:42.037Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 344,
+      "newOffset": 19,
+      "total": 445
+    },
+    {
+      "date": "2026-09-23T09:10:41.153Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 19,
+      "newOffset": 139,
+      "total": 453
+    },
+    {
+      "date": "2026-09-24T09:10:39.929Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 139,
+      "newOffset": 259,
+      "total": 457
+    },
+    {
+      "date": "2026-09-25T09:10:42.499Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 259,
+      "newOffset": 379,
+      "total": 464
+    },
+    {
+      "date": "2026-09-26T09:10:33.833Z",
+      "ok": 92,
+      "quota429": 1,
+      "fail": 0,
+      "offset": 379,
+      "newOffset": 471,
+      "total": 472
+    },
+    {
+      "date": "2026-09-27T09:10:43.228Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 471,
+      "newOffset": 111,
+      "total": 480
+    },
+    {
+      "date": "2026-09-28T09:10:43.843Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 111,
+      "newOffset": 231,
+      "total": 488
+    },
+    {
+      "date": "2026-09-29T09:10:41.115Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 231,
+      "newOffset": 351,
+      "total": 488
+    },
+    {
+      "date": "2026-09-30T09:10:40.587Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 351,
+      "newOffset": 471,
+      "total": 492
+    },
+    {
+      "date": "2026-10-01T09:10:39.807Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 471,
+      "newOffset": 91,
+      "total": 500
+    },
+    {
+      "date": "2026-10-02T09:10:41.498Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 91,
+      "newOffset": 211,
+      "total": 508
+    },
+    {
+      "date": "2026-10-03T09:10:40.204Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 211,
+      "newOffset": 331,
+      "total": 516
+    },
+    {
+      "date": "2026-10-04T09:10:41.563Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 331,
+      "newOffset": 451,
+      "total": 524
+    },
+    {
+      "date": "2026-10-05T09:10:41.289Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 451,
+      "newOffset": 59,
+      "total": 512
+    },
+    {
+      "date": "2026-10-06T09:10:42.331Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 59,
+      "newOffset": 179,
+      "total": 540
+    },
+    {
+      "date": "2026-10-07T09:10:40.438Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 179,
+      "newOffset": 299,
+      "total": 548
+    },
+    {
+      "date": "2026-10-08T09:10:42.730Z",
+      "ok": 120,
+      "quota429": 0,
+      "fail": 0,
+      "offset": 299,
+      "newOffset": 419,
+      "total": 557
     }
   ]
 }

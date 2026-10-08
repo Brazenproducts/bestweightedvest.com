@@ -1,6 +1,7 @@
 {
-  "date": "2026-09-14T22:00:00Z",
-  "timestamp": "Monday, September 14th, 2026 - 10:00 PM UTC",
+  "date": "2026-10-05",
+  "timestamp": "2026-10-05T22:00:00Z",
+  "scan_status": "incomplete",
   "sites_checked": [
     "retailmenot.com",
     "wethrift.com",
@@ -9,16 +10,15 @@
     "couponfollow.com"
   ],
   "search_queries": [
-    "bartact coupon code (site-specific)",
+    "bartact coupon code site:retailmenot.com OR site:wethrift.com OR site:honey.com OR site:knoji.com OR site:couponfollow.com",
     "bartact promo code 2026",
     "bartact discount code 2026"
   ],
   "codes_found": [],
-  "known_codes_status": {
-    "SAVE5": "not detected in search results",
-    "WELCOME5": "not detected in search results"
-  },
-  "notes": "Web search provider unavailable during this cron run. Search queries prepared but could not execute. No codes detected. Recommend retry when web search is available.",
-  "alert_sent": false,
-  "status": "incomplete - search unavailable"
+  "known_codes_checked": [
+    "SAVE5",
+    "WELCOME5"
+  ],
+  "notes": "Web search tool unavailable - cannot perform coupon site scans. Scan incomplete. Retry when search is available.",
+  "alert_sent": false
 }

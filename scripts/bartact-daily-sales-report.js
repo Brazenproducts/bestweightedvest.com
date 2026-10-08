@@ -49,6 +49,8 @@ function categorizeSource(order) {
   if (name === 'shopify_draft_order') return 'Direct/Draft';
   if (src === '' && name === 'web') return 'Direct/Type-in';
   if (src.includes('shop.app') || name.includes('shop')) return 'Shop Pay';
+  if (name === '3890849') return 'Shopify Managed (Shop/Facebook)';
+  if (name.match(/^\d{7}$/)) return `Shopify Channel (${name})`;
   return 'Other';
 }
 

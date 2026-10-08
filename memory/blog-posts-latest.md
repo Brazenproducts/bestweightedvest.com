@@ -1,19 +1,21 @@
-# 📊 Blog Posts — 2026-09-19
+# 📊 Blog Posts — Last 24 Hours
 
-**Run Date:** Sat, 19 Sep 2026 21:01:07 GMT
+**Updated:** Mon, 05 Oct 2026 13:00 UTC
 
-## Status: ✅ 2 POSTS PUBLISHED
+## Today's Status
 
-### Bartact: Are Bartact Seat Covers Worth the Money? — Honest Long-Term Review
-- **URL:** https://bartact.com/blogs/main/are-bartact-seat-covers-worth-it
-- **Status:** ⚠️ Index failed
-- **Published:** 2026-09-19T21:01:06.195Z
+Posts published today: **0** (across 2 sites)  
+Errors: **0**  
+Sites processed this run: 2 (bartact, bullstrap)  
+Total runs today: **1/3**
 
-### Bullstrap: Adjustable vs Fixed Limit Straps — Which One Should You Buy?
-- **URL:** https://bullstrap.com/blogs/main/adjustable-vs-fixed-limit-straps
-- **Status:** ⚠️ Index failed
-- **Published:** 2026-09-19T21:01:07.053Z
+✅ Healthy (0 AI cost - templates only)
 
-### Queue Status
-- **bartact:** 3 topics remaining, 5 total published
-- **bullstrap:** 4 topics remaining, 4 total published
+## Queue Status
+
+- **bartact:** 0 topics remaining | 8 total published
+- **bullstrap:** 0 topics remaining | 8 total published
+
+## Notes
+
+No new posts generated in this run—both topic queues are empty. Ready for new topics to be added to the queues.

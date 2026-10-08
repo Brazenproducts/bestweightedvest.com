@@ -1,0 +1,1534 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T15:00:08.938Z",
+  "localOnly": true,
+  "summary": {
+    "total": 100,
+    "ok": 67,
+    "warning": 20,
+    "critical": 13
+  },
+  "amazonAccountStatus": "Amazon account check: cookie file(s) found (affiliate-audit-CRITICAL.md, affiliate-audit-latest.md, affiliate-health-2026-09-02.json, affiliate-health-2026-09-03.json, affiliate-health-2026-09-04.json, affiliate-health-2026-09-05.json, affiliate-health-2026-09-06.json, affiliate-health-2026-09-07.json, affiliate-health-2026-09-08.json, affiliate-health-2026-09-09.json, affiliate-health-2026-09-10.json, affiliate-health-2026-09-11.json, affiliate-health-2026-09-12.json, affiliate-health-2026-09-13.json, affiliate-health-2026-09-14.json, affiliate-health-2026-09-16.json, affiliate-health-2026-09-17.json, affiliate-health-2026-09-18.json, affiliate-health-2026-09-19.json, affiliate-health-2026-09-20.json, affiliate-health-2026-09-21.json, affiliate-health-2026-09-22.json, affiliate-health-2026-09-23.json, affiliate-health-2026-09-24.json, affiliate-health-2026-09-25.json, affiliate-health-2026-09-26.json, affiliate-health-2026-09-27.json, affiliate-health-CRITICAL.md, affiliate-health-latest.md, affiliate-indexing-log.md, amazon-associates-reports, bartact-affiliate-indexing-log.md, bartact-affiliate-indexing-state.json, cj-affiliate-credentials.md) — but OTP required for live status; verify manually",
+  "sites": [
+    {
+      "domain": "120sfshed.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 20,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "4runnerseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 32,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "allautodirect.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 0,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": false,
+      "robotsOk": false,
+      "brokenInternalLinks": 0,
+      "status": "critical",
+      "flags": [
+        "robots.txt missing",
+        "no Amazon links — no monetization",
+        "privacy.html missing",
+        "sitemap.xml missing"
+      ]
+    },
+    {
+      "domain": "bestbaseballmitts.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestbattinggloves.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestbroncoaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 120,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 1,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "1 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestcompactlaser.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestdutchoven.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 25,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestgaming-chair.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 51,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "bestgarageheater.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 75,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestgolfcartaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 167,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "bestheating-pad.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "besthvacfilter.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 16,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestice-maker.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 43,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestkitchenscale.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 7,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "bestlabel-maker.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 36,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestmassage-gun.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 40,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestmeatthermometer.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 6,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "bestmini-fridge.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 29,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestofficefilters.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 40,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestorbitalsandpaper.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 20,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestpastamaker.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestportable-ac.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 39,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestportable-charger.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 32,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestpower-bank.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 36,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestreciprocatingsaw.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestrecoverykit.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 62,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestresistance-bands.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 6,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "bestseatcover.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 259,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 1,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "1 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestshower-head.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 38,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestsousvide.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 40,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "beststandmixer.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "besttruckaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 490,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "bestvibrationplate.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestwaterfilterpitcher.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 45,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "bestweightedvest.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 5,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "bestzeroturnmower.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 40,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncoexterior.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 70,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncofloormats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 31,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncograbhandles.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 169,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": false,
+      "robotsOk": false,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "sitemap.xml missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncohandles.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 169,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": false,
+      "robotsOk": false,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "sitemap.xml missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncointerior.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 232,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncorollbar.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 72,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 1,
+      "status": "ok",
+      "flags": [
+        "1 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncorollbars.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 90,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncoseat.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 41,
+      "missingAffiliateTags": 1,
+      "privacyPage": false,
+      "sitemapExists": false,
+      "robotsOk": false,
+      "brokenInternalLinks": 2,
+      "status": "critical",
+      "flags": [
+        "robots.txt missing",
+        "missing affiliate tags (1 links)",
+        "privacy.html missing",
+        "sitemap.xml missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncoshade.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 64,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "broncoupgrade.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 169,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "commercialhvacfilter.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "fordbroncoaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 1069,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "furnaceprefilter.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 45,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "gladiatorgrabhandle.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 7,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "7 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "gladiatorseat.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 51,
+      "missingAffiliateTags": 1,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 3,
+      "status": "critical",
+      "flags": [
+        "robots.txt missing",
+        "missing affiliate tags (1 links)",
+        "privacy.html missing",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "gladiatorseatcover.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 34,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)"
+      ]
+    },
+    {
+      "domain": "hvacprefilter.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "jeepseatcover.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 60,
+      "missingAffiliateTags": 1,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "privacy.html missing",
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jkrollbar.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 52,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 3,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jkseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 26,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 5,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "5 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jlcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 26,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 6,
+      "status": "ok",
+      "flags": [
+        "6 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jlseatcover.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 21,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jlseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 41,
+      "missingAffiliateTags": 1,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "jlseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 65,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 1,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "1 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jluseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 50,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 4,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jtseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 37,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "jtseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 46,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 4,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "kawasakiridgeutv.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 2,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 1,
+      "status": "ok",
+      "flags": [
+        "1 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "lightningaftermarket.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 66,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "molleattachments.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 25,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "mollebag.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 70,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 4,
+      "status": "ok",
+      "flags": [
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "molleinterior.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 70,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 4,
+      "status": "ok",
+      "flags": [
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "mollestraps.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 67,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 4,
+      "status": "ok",
+      "flags": [
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "mollesystems.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 61,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 4,
+      "status": "ok",
+      "flags": [
+        "4 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "outdoorseatingcushion.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "rollbarhandles.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 41,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 5,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "5 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "shedswithoutpermit.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 43,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "shedwithoutpermit.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 49,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "sidebysidegoods.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 62,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "slatetruckaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 73,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "tacomaseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 53,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "tacticalcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 31,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "tacticalseat.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 31,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "warning",
+      "flags": [
+        "privacy.html missing"
+      ]
+    },
+    {
+      "domain": "tacticalseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 31,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "critical",
+      "flags": [
+        "missing affiliate tags (1 links)",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "tacticalseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 126,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "tacticaltailgate.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 15,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "tjseatcovers.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 26,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 5,
+      "status": "ok",
+      "flags": [
+        "5 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topchainsaw.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 20,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topespressomaker.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 6,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topgaragedooropener.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 25,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "toppelletgrill.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topportablepowerstation.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 25,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "toppowerstation.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 37,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topqueenmattress.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 12,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topsnowblower.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 30,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "topwalkingpad.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 25,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "whatarebest.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 1918,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "whicharebest.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 35,
+      "missingAffiliateTags": 0,
+      "privacyPage": false,
+      "sitemapExists": true,
+      "robotsOk": false,
+      "brokenInternalLinks": 3,
+      "status": "warning",
+      "flags": [
+        "robots.txt missing",
+        "privacy.html missing",
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "wranglergrabhandles.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 88,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 0,
+      "status": "ok",
+      "flags": []
+    },
+    {
+      "domain": "wranglerjeepaccessories.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 1325,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 3,
+      "status": "ok",
+      "flags": [
+        "3 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "wranglerseat.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 15,
+      "missingAffiliateTags": 1,
+      "privacyPage": true,
+      "sitemapExists": false,
+      "robotsOk": false,
+      "brokenInternalLinks": 0,
+      "status": "critical",
+      "flags": [
+        "robots.txt missing",
+        "missing affiliate tags (1 links)",
+        "sitemap.xml missing"
+      ]
+    },
+    {
+      "domain": "wranglerseatcover.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 62,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "ok",
+      "flags": [
+        "2 broken internal link(s)"
+      ]
+    },
+    {
+      "domain": "wranglerseats.com",
+      "live": null,
+      "httpsStatus": null,
+      "amazonLinks": 31,
+      "missingAffiliateTags": 0,
+      "privacyPage": true,
+      "sitemapExists": true,
+      "robotsOk": true,
+      "brokenInternalLinks": 2,
+      "status": "ok",
+      "flags": [
+        "2 broken internal link(s)"
+      ]
+    }
+  ]
+}

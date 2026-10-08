@@ -1,0 +1,60 @@
+#!/usr/bin/env node
+const https = require('https');
+require('dotenv').config();
+
+const shop = 'bartact';
+const token = process.env.SHOPIFY_TOKEN_BARTACT;
+
+// Get today's abandoned checkouts
+const today = new Date();
+const dateStr = today.toISOString().split('T')[0];
+
+const options = {
+  hostname: `${shop}.myshopify.com`,
+  path: `/admin/api/2024-01/checkouts.json?created_at_min=${dateStr}T00:00:00-07:00&status=open&limit=250`,
+  method: 'GET',
+  headers: {
+    'X-Shopify-Access-Token': token,
+    'Content-Type': 'application/json'
+  }
+};
+
+const req = https.request(options, (res) => {
+  let data = '';
+  res.on('data', (chunk) => data += chunk);
+  res.on('end', () => {
+    const parsed = JSON.parse(data);
+    const checkouts = parsed.checkouts || [];
+    
+    // Filter for bot pattern
+    const botCheckouts = checkouts.filter(c => {
+      const total = parseFloat(c.total_price);
+      const email = c.email || '';
+      const isFakeEmail = email.match(/@(outlook|protonmail|yahoo|gmail)\.com$/i);
+      return total === 13.00 && isFakeEmail;
+    });
+    
+    if (botCheckouts.length > 10) {
+      console.log(`🚨 BOT ATTACK DETECTED: ${botCheckouts.length} fake $13 checkouts today`);
+      console.log(`Date: ${dateStr}`);
+      console.log(`Time range: ${new Date(botCheckouts[0].created_at).toLocaleString()} - ${new Date(botCheckouts[botCheckouts.length-1].created_at).toLocaleString()}`);
+      
+      // Count domains
+      const domains = {};
+      botCheckouts.forEach(c => {
+        const domain = c.email.split('@')[1];
+        domains[domain] = (domains[domain] || 0) + 1;
+      });
+      console.log('\nEmail domains:');
+      Object.entries(domains).forEach(([d, count]) => {
+        console.log(`- ${d}: ${count}`);
+      });
+    } else {
+      // Silent when clean — do NOT message Mitch on clean runs
+      process.exit(0);
+    }
+  });
+});
+
+req.on('error', (e) => console.error(e));
+req.end();
